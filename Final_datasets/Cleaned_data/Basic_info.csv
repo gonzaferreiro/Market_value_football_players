@@ -1,0 +1,1201 @@
+name,position,height,weight,team,pos_def,pref_side,sides
+Max Clark,Defender (Left),180.0,73.0,Vitesse,Defender,Left,1
+Sergio Postigo,Defender (Centre),184.0,78.0,Levante,Defender,Centre,1
+Stanislav Iljutcenko,Forward,189.0,82.0,Duisburg,Forward,None,1
+Iván Marcone,Defensive Midfielder (C),184.0,79.0,Boca Juniors,Defensive Midfielder,None,1
+Florent Mollet,"Attacking Midfielder (Centre, Left)",174.0,67.0,Montpellier,Midfielder,Centre,2
+Juanpe,Defender (Centre),190.0,80.0,Girona,Defender,Centre,1
+Alban Lafont,Goalkeeper,193.0,82.0,Fiorentina,Goalkeeper,None,1
+Bruno Viana,Defender (Centre),187.0,75.0,Braga,Defender,Centre,1
+Emil Audero,Goalkeeper,190.0,83.0,Sampdoria,Goalkeeper,None,1
+Christian Gentner,"Midfielder (Centre, Left, Right)",189.0,81.0,VfB Stuttgart,Midfielder,Centre,3
+Jordan Archer,Goalkeeper,186.0,80.0,Millwall,Goalkeeper,None,1
+Afonso Figueiredo,Defender (Left),169.0,63.0,Rio Ave,Defender,Left,1
+Everton Luiz,Defensive Midfielder (C),173.0,70.0,Real Salt Lake,Defensive Midfielder,None,1
+Trent Alexander-Arnold,Defender (Right),175.0,69.0,Liverpool,Defender,Right,1
+Dominique Badji,"Attacking Midfielder (Left, Right)",183.0,77.0,FC Dallas,Midfielder,Left,2
+Shkodran Mustafi,"Defender (Centre, Right)",184.0,82.0,Arsenal,Defender,Centre,2
+Lazar Rosic,Defender (Centre),190.0,82.0,Nacional,Defender,Centre,1
+Matheus Cunha,Forward,184.0,75.0,RasenBallsport Leipzig,Forward,None,1
+Orji Okwonkwo,Attacking Midfielder (Right),176.0,73.0,Montreal Impact,Midfielder,Right,1
+Gwion Edwards,Attacking Midfielder (Right),175.0,76.0,Ipswich,Midfielder,Right,1
+Abdullah Durak,Defensive Midfielder (C),181.0,80.0,Rizespor,Defensive Midfielder,None,1
+Ricardo Ryller,Midfielder,176.0,73.0,Braga,Midfielder,None,1
+Elson Hooi,"Attacking Midfielder (Left, Right)",169.0,61.0,ADO Den Haag,Midfielder,Left,2
+Evgeni Chernov,Defender (Left),180.0,67.0,FC Rostov,Defender,Left,1
+Warner Hahn,Goalkeeper,190.0,88.0,SC Heerenveen,Goalkeeper,None,1
+Álex Blanco,Forward,178.0,70.0,Deportivo Alaves,Forward,None,1
+Julian Gressel,"Midfielder (Centre, Right)",185.0,95.0,Atlanta United,Midfielder,Centre,2
+Domenico Criscito,"Defender (Centre, Left)",183.0,75.0,Genoa,Defender,Centre,2
+Alexander Milosevic,Defender (Centre),192.0,82.0,Nottingham Forest,Defender,Centre,1
+Jordan Lefort,"Defender (Centre, Left)",184.0,83.0,Amiens,Defender,Centre,2
+Fernando Zampedri,Forward,185.0,83.0,Rosario Central,Forward,None,1
+Deklan Wynne,Defender (Centre),178.0,75.0,Colorado Rapids,Defender,Centre,1
+Jordan Henderson,"Midfielder (Centre, Left, Right)",182.0,67.0,Liverpool,Midfielder,Centre,3
+Kamil Zakirov,Midfielder (Centre),174.0,65.0,Anzhi Makhachkala,Midfielder,Centre,1
+Niko Gießelmann,"Defender (Centre, Left)",182.0,75.0,Fortuna Duesseldorf,Defender,Centre,2
+Thomas Roberts,Midfielder,180.0,66.0,FC Dallas,Midfielder,None,1
+Jan Zamburek,Midfielder,176.82833333333335,72.9825,Brentford,Midfielder,None,1
+Robin Bormuth,Defender (Centre),190.0,87.0,Fortuna Duesseldorf,Defender,Centre,1
+Jordan Torunarigha,Defender (Centre),191.0,80.0,Hertha Berlin,Defender,Centre,1
+Mile Jedinak,Defender (Centre),189.0,81.0,Aston Villa,Defender,Centre,1
+Tyrone Mings,"Defender (Centre, Left)",191.0,77.0,Aston Villa,Defender,Centre,2
+John McGinn,Midfielder (Centre),173.0,68.0,Aston Villa,Midfielder,Centre,1
+Diogo Jota,"Attacking Midfielder (Centre, Left)",178.0,70.0,Wolverhampton Wanderers,Midfielder,Centre,2
+Omir Fernandez,Midfielder,170.0,64.0,New York Red Bulls,Midfielder,None,1
+Gonzalo Escalante,Defensive Midfielder (C),182.0,76.0,Eibar,Defensive Midfielder,None,1
+Nicolás Blandi,Forward,181.0,78.0,San Lorenzo,Forward,None,1
+Danny Bakker,Defender (Centre),178.0,70.0,ADO Den Haag,Defender,Centre,1
+Charles,Forward,179.0,76.0,Eibar,Forward,None,1
+Leandro Fernández,"Attacking Midfielder (Left, Right)",178.0,70.0,Velez Sarsfield,Midfielder,Left,2
+Igor Akinfeev,Goalkeeper,186.0,78.0,CSKA Moscow,Goalkeeper,None,1
+Andre Shinyashiki,Forward,176.0,69.0,Colorado Rapids,Forward,None,1
+Jake Cooper,Defender (Centre),193.0,85.0,Millwall,Defender,Centre,1
+Neymar,"Attacking Midfielder (Centre, Left, Right)",175.0,68.0,Paris Saint-Germain,Midfielder,Centre,3
+Pierre-Emerick Aubameyang,"Midfielder (Left, Right)",187.0,80.0,Arsenal,Midfielder,Left,2
+Serdar Dursun,Forward,190.0,80.0,Darmstadt,Forward,None,1
+Valon Behrami,Midfielder (Centre),185.0,78.0,Udinese,Midfielder,Centre,1
+Cristian Herrera,Forward,181.0,76.0,Lugo,Forward,None,1
+Kalindi,Defender (Right),170.0,62.0,Nacional,Defender,Right,1
+Lorenzo Tonelli,Defender (Centre),183.0,78.0,Sampdoria,Defender,Centre,1
+Enzo Zidane,Midfielder,184.0,80.0,Rayo Majadahonda,Midfielder,None,1
+Kevin Trapp,Goalkeeper,189.0,88.0,Eintracht Frankfurt,Goalkeeper,None,1
+Serhou Guirassy,Attacking Midfielder (Left),187.0,82.0,Amiens,Midfielder,Left,1
+Kerem Demirbay,Attacking Midfielder (Centre),182.0,72.0,Hoffenheim,Midfielder,Centre,1
+Bulent Cevahir,Defender (Left),176.0,72.0,Yeni Malatyaspor,Defender,Left,1
+Juan Aguilera,Midfielder,185.0,76.0,SD Huesca,Midfielder,None,1
+Josete,Midfielder,179.0,79.0,Lugo,Midfielder,None,1
+Moreno Rutten,Defender (Right),177.0,69.0,VVV-Venlo,Defender,Right,1
+Jeff Attinella,Goalkeeper,188.0,87.0,Portland Timbers,Goalkeeper,None,1
+Ozan Kabak,Defender (Centre),186.0,79.0,VfB Stuttgart,Defender,Centre,1
+László Bénes,Midfielder (Centre),181.0,72.0,Holstein Kiel,Midfielder,Centre,1
+Ishak Belfodil,"Attacking Midfielder (Left, Right)",192.0,86.0,Hoffenheim,Midfielder,Left,2
+Mauro Cerqueira,Defender (Left),181.0,74.0,Nacional,Defender,Left,1
+Mário Rui,Defender (Left),170.0,67.0,Napoli,Defender,Left,1
+Terence Kongolo,"Defender (Centre, Left)",188.0,70.0,Huddersfield,Defender,Centre,2
+Pavel Yakovlev,Defender (Right),180.0,72.0,Krylya Sovetov Samara,Defender,Right,1
+Nicola Sansone,"Attacking Midfielder (Left, Right)",175.0,68.0,Bologna,Midfielder,Left,2
+Marc Cucurella,Midfielder (Left),175.0,67.0,Eibar,Midfielder,Left,1
+Jan-Ingwer Callsen-Bracker,Defender (Centre),188.0,84.0,Augsburg,Defender,Centre,1
+Clément Lenglet,Defender (Centre),186.0,81.0,Barcelona,Defender,Centre,1
+Jonathan de Guzmán,"Midfielder (Centre, Left, Right)",173.0,70.0,Eintracht Frankfurt,Midfielder,Centre,3
+Darío Benedetto,Forward,175.0,75.0,Boca Juniors,Forward,None,1
+Marcelo Goiano,"Defender (Left, Right)",176.0,68.0,Braga,Defender,Left,2
+Sergio Gil,Midfielder,179.0,74.0,Lugo,Midfielder,None,1
+Ramón Ábila,Forward,175.0,84.0,Boca Juniors,Forward,None,1
+Yohan Croizet,Midfielder (Centre),178.0,77.0,Sporting Kansas City,Midfielder,Centre,1
+Calogero Rizzuto,Defender (Right),170.0,72.0,Erzgebirge Aue,Defender,Right,1
+Aleksandr Samedov,"Attacking Midfielder (Centre, Right)",177.0,75.0,Krylya Sovetov Samara,Midfielder,Centre,2
+Darron Gibson,Midfielder (Centre),183.0,90.0,Wigan,Midfielder,Centre,1
+Serhiy Rybalka,Midfielder (Centre),176.0,68.0,Sivasspor,Midfielder,Centre,1
+Martin Chrien,Midfielder (Centre),182.0,72.0,Santa Clara,Midfielder,Centre,1
+Jorge Pulido,Defender (Centre),186.0,72.0,SD Huesca,Defender,Centre,1
+Claudio Yacob,Defensive Midfielder (C),181.0,77.0,Nottingham Forest,Defensive Midfielder,None,1
+Nicolás Aguirre,Defensive Midfielder (C),181.0,79.0,Granada,Defensive Midfielder,None,1
+Lautaro Gianetti,Defender (Centre),184.0,79.0,Velez Sarsfield,Defender,Centre,1
+Bruno Ecuele Manga,"Defender (Centre, Right)",186.0,76.0,Cardiff,Defender,Centre,2
+Oliver McBurnie,"Attacking Midfielder (Centre, Left)",188.0,79.0,Swansea,Midfielder,Centre,2
+Ferhat Kaplan,Goalkeeper,190.0,79.0,Antalyaspor,Goalkeeper,None,1
+Fallou Diagne,"Defender (Centre, Right)",185.0,75.0,Konyaspor,Defender,Centre,2
+Aissa Mandi,"Defender (Centre, Left, Right)",184.0,78.0,Real Betis,Defender,Centre,3
+Aaron Seydel,Attacking Midfielder (Left),199.0,90.0,Holstein Kiel,Midfielder,Left,1
+Maxi Gómez,Forward,186.0,91.0,Celta Vigo,Forward,None,1
+Yuri Gazinskiy,Defensive Midfielder (C),184.0,75.0,FC Krasnodar,Defensive Midfielder,None,1
+Nicolas Benezet,"Attacking Midfielder (Centre, Left, Right)",170.0,65.0,Guingamp,Midfielder,Centre,3
+John Goossens,"Attacking Midfielder (Centre, Left, Right)",174.0,77.0,ADO Den Haag,Midfielder,Centre,3
+Ruud Boffin,Goalkeeper,196.0,86.0,Antalyaspor,Goalkeeper,None,1
+Tomas Hubocan,"Defender (Centre, Left, Right)",184.0,70.0,Marseille,Defender,Centre,3
+Nick Kuipers,Defender (Centre),190.0,93.0,FC Emmen,Defender,Centre,1
+Papiss Demba Cissé,Attacking Midfielder (Right),183.0,73.0,Alanyaspor,Midfielder,Right,1
+Ben Amos,Goalkeeper,180.0,70.0,Millwall,Goalkeeper,None,1
+Nikola Maras,Defender (Centre),189.0,79.0,Chaves,Defender,Centre,1
+Yann Bisseck,Defender,194.0,83.0,Holstein Kiel,Defender,None,1
+Yeray Álvarez,Defender (Centre),182.0,78.0,Athletic Bilbao,Defender,Centre,1
+Iván Gómez,Defensive Midfielder (C),165.0,63.0,Estudiantes,Defensive Midfielder,None,1
+Iker Casillas,Goalkeeper,185.0,84.0,FC Porto,Goalkeeper,None,1
+Maximilian Jansen,Defensive Midfielder (C),179.0,74.0,Sandhausen,Defensive Midfielder,None,1
+Dominik Baumgartner,Defender,187.0,72.0,Bochum,Defender,None,1
+Niki Jackson,Forward,185.0,79.0,Colorado Rapids,Forward,None,1
+Mathías Suárez,Midfielder (Right),182.0,80.0,Montpellier,Midfielder,Right,1
+Nikola Stojiljkovic,Forward,182.0,79.0,Mallorca,Forward,None,1
+Jordan Teze,Defender,171.0,68.0,PSV Eindhoven,Defender,None,1
+Nikola Vukcevic,Defensive Midfielder (C),184.0,76.0,Levante,Defensive Midfielder,None,1
+Asier Illarramendi,Midfielder (Centre),179.0,75.0,Real Sociedad,Midfielder,Centre,1
+Claudio Marchisio,Midfielder (Centre),180.0,74.0,Zenit St. Petersburg,Midfielder,Centre,1
+Idrissu Baba,Midfielder,176.82833333333335,72.9825,Mallorca,Midfielder,None,1
+Kristoffer Olsson,Midfielder (Centre),181.0,69.0,FC Krasnodar,Midfielder,Centre,1
+Ilzat Akhmetov,"Midfielder (Centre, Right)",172.0,65.0,CSKA Moscow,Midfielder,Centre,2
+Lucas Digne,Defender (Left),178.0,74.0,Everton,Defender,Left,1
+Ravanelli,"Attacking Midfielder (Centre, Right)",180.0,76.0,FK Akhmat,Midfielder,Centre,2
+Lionel Messi,"Attacking Midfielder (Centre, Right)",170.0,72.0,Barcelona,Midfielder,Centre,2
+Raúl Albiol,Defender (Centre),190.0,82.0,Napoli,Defender,Centre,1
+Rodrigo Braña,Defensive Midfielder (C),167.0,69.0,Estudiantes,Defensive Midfielder,None,1
+Joshua Sargent,Forward,185.0,79.0,Werder Bremen,Forward,None,1
+Gonzalo Castellani,Attacking Midfielder (Centre),183.0,75.0,San Lorenzo,Midfielder,Centre,1
+Dominik Kohr,Defensive Midfielder (C),185.0,81.0,Bayer Leverkusen,Defensive Midfielder,None,1
+Timur Zhamaletdinov,Forward,181.0,73.0,CSKA Moscow,Forward,None,1
+Pawel Jaroszynski,Defender (Left),184.0,77.0,Chievo,Defender,Left,1
+Rani Khedira,Defender (Centre),188.0,84.0,Augsburg,Defender,Centre,1
+Lisandro Martínez,"Defender (Centre, Left)",178.0,77.0,Defensa y Justicia,Defender,Centre,2
+Ahmed Ildiz,Midfielder (Centre),181.0,72.9825,Yeni Malatyaspor,Midfielder,Centre,1
+Erick Cabaco,Defender (Centre),185.0,84.0,Levante,Defender,Centre,1
+Salih Dursun,"Defender (Centre, Right)",188.0,79.0,Antalyaspor,Defender,Centre,2
+Rouwen Hennings,Forward,180.0,80.0,Fortuna Duesseldorf,Forward,None,1
+Javier Manquillo,"Defender (Left, Right)",178.0,76.0,Newcastle United,Defender,Left,2
+Vincent Manceau,"Defender (Left, Right)",176.0,70.0,Angers,Defender,Left,2
+Adis Jahovic,Forward,190.0,90.0,Konyaspor,Forward,None,1
+Tom Carroll,"Midfielder (Centre, Left)",177.0,71.0,Swansea,Midfielder,Centre,2
+Jonathan Biabiany,"Midfielder (Left, Right)",177.0,73.0,Parma Calcio 1913,Midfielder,Left,2
+Nahuel Molina,Defender (Right),175.0,70.0,Rosario Central,Defender,Right,1
+Jonas Martin,"Midfielder (Centre, Left)",184.0,77.0,Strasbourg,Midfielder,Centre,2
+Marlon Ritter,Midfielder,173.0,72.0,Paderborn,Midfielder,None,1
+Ayoub El Kaabi,Forward,182.0,73.0,Hebei CFFC,Forward,None,1
+Adam Smith,"Defender (Left, Right)",180.0,78.0,Bournemouth,Defender,Left,2
+Chris Löwe,Defender (Left),175.0,68.0,Huddersfield,Defender,Left,1
+Sem Steijn,Midfielder,173.0,61.0,VVV-Venlo,Midfielder,None,1
+Alex Telles,Defender (Left),181.0,71.0,FC Porto,Defender,Left,1
+Jorrit Hendrix,Defender (Centre),181.0,75.0,PSV Eindhoven,Defender,Centre,1
+Marco Asensio,"Attacking Midfielder (Centre, Left, Right)",182.0,76.0,Real Madrid,Midfielder,Centre,3
+Timo Baumgartl,Defender (Centre),190.0,89.0,VfB Stuttgart,Defender,Centre,1
+Javi Fuego,Midfielder (Centre),182.0,74.0,Villarreal,Midfielder,Centre,1
+João Teixeira,"Attacking Midfielder (Centre, Left)",178.0,70.0,Chaves,Midfielder,Centre,2
+Facundo Píriz,Defensive Midfielder (C),187.0,81.0,Montpellier,Defensive Midfielder,None,1
+Younes Namli,"Attacking Midfielder (Centre, Right)",180.0,70.0,PEC Zwolle,Midfielder,Centre,2
+Arturo Calabresi,"Defender (Centre, Right)",186.0,75.0,Bologna,Defender,Centre,2
+Niklas Süle,Defender (Centre),195.0,97.0,Bayern Munich,Defender,Centre,1
+Kyle Bartley,Defender (Centre),185.0,76.0,West Bromwich Albion,Defender,Centre,1
+Ryan Manning,Defender (Left),176.82833333333335,72.9825,Queens Park Rangers,Defender,Left,1
+Omar Browne,Midfielder,173.0,72.0,Montreal Impact,Midfielder,None,1
+Sergey Petrov,"Defender (Left, Right)",175.0,71.0,FC Krasnodar,Defender,Left,2
+Luis Unsain,Goalkeeper,188.0,83.0,Defensa y Justicia,Goalkeeper,None,1
+Pelé,Defensive Midfielder (C),182.0,75.0,Nottingham Forest,Defensive Midfielder,None,1
+Fabio Quagliarella,Forward,180.0,79.0,Sampdoria,Forward,None,1
+Mubarak Wakaso,"Midfielder (Centre, Left, Right)",171.0,72.0,Deportivo Alaves,Midfielder,Centre,3
+Lionn,Defender (Right),183.0,75.0,Chaves,Defender,Right,1
+Gastón Bojanich,Defender (Centre),191.0,85.0,Argentinos Juniors,Defender,Centre,1
+Rodrigo de Paul,"Attacking Midfielder (Centre, Left, Right)",180.0,70.0,Udinese,Midfielder,Centre,3
+Bruno Martins Indi,"Defender (Centre, Left)",185.0,76.0,Stoke,Defender,Centre,2
+Pierrick Capelle,Defender (Left),181.0,73.0,Angers,Defender,Left,1
+Jonathan Osorio,"Attacking Midfielder (Centre, Left, Right)",176.0,73.0,Toronto FC,Midfielder,Centre,3
+Giorgi Papunashvili,Midfielder,179.0,76.0,Real Zaragoza,Midfielder,None,1
+Drew Moor,"Defender (Centre, Left, Right)",183.0,75.0,Toronto FC,Defender,Centre,3
+Julian Brandt,"Midfielder (Centre, Left, Right)",186.0,84.0,Bayer Leverkusen,Midfielder,Centre,3
+Denis Thomalla,"Attacking Midfielder (Centre, Left)",186.0,75.0,FC Heidenheim,Midfielder,Centre,2
+Sergio Ramos,"Defender (Centre, Right)",184.0,82.0,Real Madrid,Defender,Centre,2
+Giorgi Aburjania,Midfielder,186.0,75.0,Lugo,Midfielder,None,1
+Nathan Byrne,Defender (Right),180.0,84.0,Wigan,Defender,Right,1
+Faycal Fajr,"Midfielder (Centre, Left, Right)",178.0,72.0,Caen,Midfielder,Centre,3
+Richonell Margaret,Midfielder,176.82833333333335,72.9825,Vitesse,Midfielder,None,1
+Guilherme Oliveira,Goalkeeper,190.0,83.0,Belenenses SAD,Goalkeeper,None,1
+Artyom Rebrov,Goalkeeper,193.0,92.0,Spartak Moscow,Goalkeeper,None,1
+Yohan Benalouane,"Defender (Centre, Right)",185.0,86.0,Nottingham Forest,Defender,Centre,2
+Milton Álvarez,Goalkeeper,185.0,84.0,Independiente,Goalkeeper,None,1
+Johan Blomberg,Defensive Midfielder (C),177.0,65.0,Colorado Rapids,Defensive Midfielder,None,1
+Diego Valoyes,Forward,182.0,76.0,Talleres,Forward,None,1
+Milan Lukac,Goalkeeper,197.0,88.0,Akhisarspor,Goalkeeper,None,1
+Sven Michel,Forward,179.0,79.0,Paderborn,Forward,None,1
+Jannik Dehm,Defender (Right),181.0,72.0,Holstein Kiel,Defender,Right,1
+James Milner,"Defender (Left, Right)",175.0,70.0,Liverpool,Defender,Left,2
+Miguel Veloso,Midfielder (Centre),180.0,79.0,Genoa,Midfielder,Centre,1
+Cristian Ansaldi,"Defender (Centre, Left, Right)",181.0,76.0,Torino,Defender,Centre,3
+Fabián Henríquez,Defensive Midfielder (C),172.0,68.0,Godoy Cruz,Defensive Midfielder,None,1
+Rubén Duarte,Defender (Left),180.0,75.0,Deportivo Alaves,Defender,Left,1
+Nildo Petrolina,Defender (Left),175.0,65.0,Aves,Defender,Left,1
+Emiliano Velázquez,Defender (Centre),184.0,79.0,Rayo Vallecano,Defender,Centre,1
+Chris Basham,"Defender (Centre, Right)",192.0,77.0,Sheffield United,Defender,Centre,2
+Maciej Wilusz,Defender (Centre),188.0,85.0,FC Rostov,Defender,Centre,1
+Gerard Moreno,Attacking Midfielder (Centre),180.0,77.0,Villarreal,Midfielder,Centre,1
+Ciro Rius,Attacking Midfielder (Right),174.0,71.0,Defensa y Justicia,Midfielder,Right,1
+Nikolai Markov,"Defender (Left, Right)",178.0,74.0,FC Krasnodar,Defender,Left,2
+Zelimkhan Bakaev,"Attacking Midfielder (Left, Right)",180.0,73.0,Arsenal Tula,Midfielder,Left,2
+Maxime Le Marchand,"Defender (Centre, Left)",185.0,77.0,Fulham,Defender,Centre,2
+John Guidetti,Forward,185.0,80.0,Deportivo Alaves,Forward,None,1
+Antonis Aidonis,Defender,181.0,76.0,VfB Stuttgart,Defender,None,1
+Assil Jaziri,Midfielder,176.82833333333335,72.9825,Nice,Midfielder,None,1
+Guilherme,Goalkeeper,195.0,95.0,Lokomotiv Moscow,Goalkeeper,None,1
+Alfredo Morales,Midfielder (Centre),183.0,77.0,Fortuna Duesseldorf,Midfielder,Centre,1
+Falcão,Defensive Midfielder (C),170.0,62.0,Aves,Defensive Midfielder,None,1
+Accioly,Defender (Centre),187.0,82.0,Santa Clara,Defender,Centre,1
+Carlos Soler,"Midfielder (Centre, Right)",180.0,76.0,Valencia,Midfielder,Centre,2
+Dani Schahin,Forward,187.0,82.0,Extremadura,Forward,None,1
+Miguel Linares,Forward,181.0,78.0,Real Zaragoza,Forward,None,1
+Danil Lipovoy,Midfielder,177.0,69.0,Dinamo Moscow,Midfielder,None,1
+Shawn Parker,Forward,181.0,78.0,Greuther Fuerth,Forward,None,1
+Álvaro Vadillo,"Attacking Midfielder (Left, Right)",180.0,69.0,Granada,Midfielder,Left,2
+Stefan Johansen,Midfielder (Centre),182.0,78.0,West Bromwich Albion,Midfielder,Centre,1
+Iker Muniain,"Attacking Midfielder (Centre, Left, Right)",170.0,65.0,Athletic Bilbao,Midfielder,Centre,3
+Daniel Heuer Fernandes,Goalkeeper,188.0,81.0,Darmstadt,Goalkeeper,None,1
+Jason Puncheon,"Midfielder (Centre, Left, Right)",173.0,70.0,Huddersfield,Midfielder,Centre,3
+Cian Harries,Defender,185.0,72.0,Swansea,Defender,None,1
+Oliver Skipp,Midfielder,176.82833333333335,72.9825,Tottenham,Midfielder,None,1
+Kylian Mbappé,"Attacking Midfielder (Left, Right)",178.0,73.0,Paris Saint-Germain,Midfielder,Left,2
+Edimilson Fernandes,"Midfielder (Centre, Right)",190.0,70.0,Fiorentina,Midfielder,Centre,2
+Kortney Hause,"Defender (Centre, Left)",189.0,77.0,Aston Villa,Defender,Centre,2
+Minhoca,Attacking Midfielder (Left),175.0,74.0,Santa Clara,Midfielder,Left,1
+Gersom Klok,Defender (Right),175.0,78.0,FC Emmen,Defender,Right,1
+Georgios Tzavellas,"Defender (Centre, Left)",183.0,79.0,Alanyaspor,Defender,Centre,2
+David Costas,Defender (Centre),184.0,71.0,Celta Vigo,Defender,Centre,1
+Marcus Epps,Attacking Midfielder (Right),180.0,75.0,New York Red Bulls,Midfielder,Right,1
+Odil Akhmedov,"Midfielder (Centre, Left, Right)",181.0,73.0,Shanghai SIPG FC,Midfielder,Centre,3
+Javier Gandolfi,Defender (Centre),175.0,72.0,Talleres,Defender,Centre,1
+Dániel Sallói,Attacking Midfielder (Left),185.0,68.0,Sporting Kansas City,Midfielder,Left,1
+Cheyenne Dunkley,Defender (Centre),188.0,85.0,Wigan,Defender,Centre,1
+Martin Hinteregger,Defender (Centre),186.0,83.0,Eintracht Frankfurt,Defender,Centre,1
+Erik Holt,Defender,185.0,74.0,Real Salt Lake,Defender,None,1
+Tim Knipping,Defender (Centre),189.0,82.0,Sandhausen,Defender,Centre,1
+Ryad Boudebouz,"Midfielder (Centre, Left, Right)",177.0,70.0,Celta Vigo,Midfielder,Centre,3
+Marek Hamsik,Attacking Midfielder (Centre),183.0,79.0,Dalian Yifang,Midfielder,Centre,1
+Luquinhas,Attacking Midfielder (Left),169.0,60.0,Aves,Midfielder,Left,1
+Branislav Ivanovic,"Defender (Centre, Right)",185.0,80.0,Zenit St. Petersburg,Defender,Centre,2
+Florian Krüger,Forward,186.0,79.0,Erzgebirge Aue,Forward,None,1
+Cameron Carter-Vickers,Defender (Centre),183.0,92.0,Swansea,Defender,Centre,1
+Lewis Walker,Forward,183.0,76.0,Queens Park Rangers,Forward,None,1
+Rui Patrício,Goalkeeper,190.0,84.0,Wolverhampton Wanderers,Goalkeeper,None,1
+Magomed Elmurzaev,Defender,175.0,72.0,Anzhi Makhachkala,Defender,None,1
+Mauricio Arboleda,Goalkeeper,181.0,78.0,Banfield,Goalkeeper,None,1
+Álvaro Ratón,Goalkeeper,192.0,84.0,Real Zaragoza,Goalkeeper,None,1
+Wesley Lautoa,Defender (Centre),182.0,87.0,Dijon,Defender,Centre,1
+Diogo Gonçalves,Attacking Midfielder (Left),176.0,66.0,Nottingham Forest,Midfielder,Left,1
+Tomás Rincón,"Midfielder (Centre, Right)",177.0,76.0,Torino,Midfielder,Centre,2
+Samuel Chukwueze,"Attacking Midfielder (Centre, Right)",172.0,70.0,Villarreal,Midfielder,Centre,2
+Simone Iacoponi,"Defender (Centre, Right)",180.0,73.0,Parma Calcio 1913,Defender,Centre,2
+Oliver Sorg,"Defender (Centre, Left, Right)",175.0,69.0,Hannover 96,Defender,Centre,3
+Marcos Acuña,Defender (Left),172.0,69.0,Sporting CP,Defender,Left,1
+Bruno Xadas,Attacking Midfielder (Right),179.0,69.0,Braga,Midfielder,Right,1
+Nicola Dalmonte,Forward,168.0,62.0,Genoa,Forward,None,1
+Lennart Thy,Forward,184.0,78.0,PEC Zwolle,Forward,None,1
+Juan Andrada,Defensive Midfielder (C),183.0,77.0,Godoy Cruz,Defensive Midfielder,None,1
+Jan Morávek,Midfielder (Centre),180.0,77.0,Augsburg,Midfielder,Centre,1
+Nicolás Domingo,Defensive Midfielder (C),174.0,70.0,Independiente,Defensive Midfielder,None,1
+Kevin Kampl,"Midfielder (Centre, Left, Right)",178.0,67.0,RasenBallsport Leipzig,Midfielder,Centre,3
+Kofi Opare,Defender (Centre),188.0,87.0,Colorado Rapids,Defender,Centre,1
+Mitchell Dijks,Defender (Left),194.0,93.0,Bologna,Defender,Left,1
+Gotoku Sakai,"Defender (Left, Right)",176.0,74.0,Hamburger SV,Defender,Left,2
+Vlad Chiriches,"Defender (Centre, Right)",184.0,75.0,Napoli,Defender,Centre,2
+Artur Nigmatullin,Goalkeeper,192.0,88.0,Arsenal Tula,Goalkeeper,None,1
+Romain Thomas,Defender (Centre),193.0,84.0,Angers,Defender,Centre,1
+Derrick Luckassen,"Defender (Centre, Right)",186.0,78.0,Hertha Berlin,Defender,Centre,2
+Óscar Trejo,"Midfielder (Centre, Left, Right)",180.0,79.0,Rayo Vallecano,Midfielder,Centre,3
+Dominik Reimann,Goalkeeper,185.0,80.0,Holstein Kiel,Goalkeeper,None,1
+Moataz Zemzemi,Midfielder,183.0,73.0,Strasbourg,Midfielder,None,1
+Nils Röseler,Defender (Centre),190.0,70.0,VVV-Venlo,Defender,Centre,1
+Tomer Hemed,Forward,186.0,80.0,Queens Park Rangers,Forward,None,1
+Olivier Boscagli,"Defender (Centre, Left)",181.0,68.0,Nice,Defender,Centre,2
+Tristan Dekker,Defender (Right),184.0,78.0,VVV-Venlo,Defender,Right,1
+Jan Kral,Defender,194.0,72.9825,Erzgebirge Aue,Defender,None,1
+Jovane Cabral,Attacking Midfielder (Left),176.0,71.0,Sporting CP,Midfielder,Left,1
+Alex Ferrari,"Defender (Centre, Right)",183.0,70.0,Sampdoria,Defender,Centre,2
+,,176.82833333333335,72.9825,NAC Breda,,None,1
+Ayo Akinola,Forward,177.0,83.0,Toronto FC,Forward,None,1
+Alessandro Murgia,Midfielder (Centre),185.0,78.0,SPAL 2013,Midfielder,Centre,1
+Daniel Didavi,"Attacking Midfielder (Centre, Right)",180.0,77.0,VfB Stuttgart,Midfielder,Centre,2
+Andrey Lunev,Goalkeeper,189.0,80.0,Zenit St. Petersburg,Goalkeeper,None,1
+Ilkay Gündogan,Midfielder (Centre),180.0,79.0,ManCity,Midfielder,Centre,1
+Daniel Parejo,Midfielder (Centre),182.0,74.0,Valencia,Midfielder,Centre,1
+Sandro Wagner,Forward,194.0,92.0,Tianjin Teda,Forward,None,1
+Nikola Vlasic,"Attacking Midfielder (Centre, Right)",178.0,72.0,CSKA Moscow,Midfielder,Centre,2
+Svante Ingelsson,Attacking Midfielder (Right),189.0,83.0,Udinese,Midfielder,Right,1
+Yannick Stark,Defensive Midfielder (C),185.0,81.0,Darmstadt,Defensive Midfielder,None,1
+Pablo Marí,Defender (Centre),193.0,87.0,Deportivo La Coruna,Defender,Centre,1
+Rui Silva,Goalkeeper,191.0,91.0,Granada,Goalkeeper,None,1
+Gedion Zelalem,Midfielder,180.0,70.0,Sporting Kansas City,Midfielder,None,1
+Thijmen Goppel,Midfielder (Right),178.0,73.0,ADO Den Haag,Midfielder,Right,1
+Nolan Mbemba,Midfielder,181.0,75.0,Reims,Midfielder,None,1
+Frank Acheampong,Defender (Left),168.0,73.0,Tianjin Teda,Defender,Left,1
+Sebastián Palacios,"Attacking Midfielder (Left, Right)",169.0,69.0,Talleres,Midfielder,Left,2
+Toño,Defender (Left),179.0,69.0,Levante,Defender,Left,1
+Boubacar Kamara,"Defender (Centre, Left)",178.0,68.0,Marseille,Defender,Centre,2
+Félix Eboa Eboa,"Defender (Centre, Right)",186.0,80.0,Guingamp,Defender,Centre,2
+Molla Wagué,Defender (Centre),191.0,87.0,Nottingham Forest,Defender,Centre,1
+Eric Dier,"Defender (Centre, Right)",188.0,88.0,Tottenham,Defender,Centre,2
+Tate Schmitt,Forward,180.0,73.0,Real Salt Lake,Forward,None,1
+Robert Leipertz,"Attacking Midfielder (Left, Right)",183.0,82.0,FC Heidenheim,Midfielder,Left,2
+John Stiven Mendoza,"Attacking Midfielder (Centre, Left, Right)",172.0,70.0,Amiens,Midfielder,Centre,3
+Arturo Mina,Defender (Centre),188.0,79.0,Yeni Malatyaspor,Defender,Centre,1
+André Claro,"Attacking Midfielder (Centre, Left)",177.0,71.0,Boavista,Midfielder,Centre,2
+Lucas Tousart,Defensive Midfielder (C),185.0,83.0,Lyon,Defensive Midfielder,None,1
+Josué,"Midfielder (Centre, Right)",174.0,70.0,Akhisarspor,Midfielder,Centre,2
+Alejandro Pozuelo,"Midfielder (Centre, Right)",170.0,63.0,Toronto FC,Midfielder,Centre,2
+Sergio Floccari,Forward,180.0,80.0,SPAL 2013,Forward,None,1
+Ionut Radu,Goalkeeper,188.0,70.0,Genoa,Goalkeeper,None,1
+Abdou Traoré,"Attacking Midfielder (Centre, Left, Right)",172.0,64.0,Konyaspor,Midfielder,Centre,3
+Marc-André ter Stegen,Goalkeeper,187.0,85.0,Barcelona,Goalkeeper,None,1
+Damián Batallini,"Attacking Midfielder (Left, Right)",175.0,77.0,Argentinos Juniors,Midfielder,Left,2
+Alireza Jahanbakhsh,"Attacking Midfielder (Centre, Left, Right)",180.0,76.0,Brighton,Midfielder,Centre,3
+Ademola Lookman,"Attacking Midfielder (Centre, Left, Right)",174.0,78.0,Everton,Midfielder,Centre,3
+Rajko Rotman,Defensive Midfielder (C),187.0,80.0,Akhisarspor,Defensive Midfielder,None,1
+Michael Murillo,"Defender (Centre, Right)",183.0,73.0,New York Red Bulls,Defender,Centre,2
+Platiny,Forward,178.0,71.0,Chaves,Forward,None,1
+Kekuta Manneh,"Attacking Midfielder (Centre, Left, Right)",175.0,68.0,FC Cincinnati,Midfielder,Centre,3
+Said Benrahma,"Attacking Midfielder (Left, Right)",172.0,67.0,Brentford,Midfielder,Left,2
+Daryl Murphy,"Attacking Midfielder (Left, Right)",191.0,88.0,Nottingham Forest,Midfielder,Left,2
+Anwar El Ghazi,"Attacking Midfielder (Left, Right)",189.0,90.0,Aston Villa,Midfielder,Left,2
+Mickey van der Hart,Goalkeeper,188.0,82.0,PEC Zwolle,Goalkeeper,None,1
+Jordan Morris,"Attacking Midfielder (Left, Right)",178.0,75.0,Seattle Sounders FC,Midfielder,Left,2
+Clinton N'Jie,Attacking Midfielder (Left),175.0,68.0,Marseille,Midfielder,Left,1
+Santiago Comesaña,Defensive Midfielder (C),184.0,75.0,Rayo Vallecano,Defensive Midfielder,None,1
+Onur Ayik,"Attacking Midfielder (Left, Right)",183.0,77.0,Akhisarspor,Midfielder,Left,2
+Rodrigo Battaglia,Midfielder (Centre),187.0,79.0,Sporting CP,Midfielder,Centre,1
+Yiyoung Park,Defender (Right),186.0,72.0,St. Pauli,Defender,Right,1
+Welinton,Defender (Centre),179.0,81.0,Alanyaspor,Defender,Centre,1
+Antonio Mirante,Goalkeeper,193.0,79.0,Roma,Goalkeeper,None,1
+Dominic Samuel,Forward,182.0,89.0,Blackburn,Forward,None,1
+Dogukan Sinik,"Attacking Midfielder (Left, Right)",176.82833333333335,72.9825,Antalyaspor,Midfielder,Left,2
+Mikhail Ignatov,Midfielder (Centre),184.0,74.0,Spartak Moscow,Midfielder,Centre,1
+Orel Mangala,Defensive Midfielder (C),178.0,78.0,Hamburger SV,Defensive Midfielder,None,1
+Nils Butzen,Defender (Right),179.0,68.0,Magdeburg,Defender,Right,1
+Steffen Schäfer,Defender (Centre),189.0,82.0,Magdeburg,Defender,Centre,1
+Luca Sangalli,Attacking Midfielder (Centre),167.0,74.0,Real Sociedad,Midfielder,Centre,1
+Tommy Elphick,Defender (Centre),180.0,85.0,Aston Villa,Defender,Centre,1
+Salvatore Sirigu,Goalkeeper,192.0,80.0,Torino,Goalkeeper,None,1
+Ander Capa,Defender (Right),175.0,75.0,Athletic Bilbao,Defender,Right,1
+Pablo Valcarce,Midfielder,172.0,70.0,Mallorca,Midfielder,None,1
+Georgi Zotov,"Defender (Left, Right)",175.0,72.0,Krylya Sovetov Samara,Defender,Left,2
+Christian Fernández,Defender (Left),182.0,77.0,Real Oviedo,Defender,Left,1
+Djordje Mihailovic,Midfielder (Centre),178.0,69.0,Chicago Fire,Midfielder,Centre,1
+Juan Foyth,Defender (Centre),179.0,69.0,Tottenham,Defender,Centre,1
+Éder,"Attacking Midfielder (Centre, Left, Right)",180.0,72.0,Jiangsu Suning FC,Midfielder,Centre,3
+Diogo Leite,Defender,188.0,82.0,FC Porto,Defender,None,1
+Kyle Vassell,Attacking Midfielder (Left),183.0,78.0,Rotherham,Midfielder,Left,1
+Kik Pierie,"Defender (Centre, Left)",183.0,75.0,SC Heerenveen,Defender,Centre,2
+Richard Magyar,Defender (Centre),192.0,85.0,Greuther Fuerth,Defender,Centre,1
+Arthur,Defensive Midfielder (C),171.0,73.0,Barcelona,Defensive Midfielder,None,1
+Vincent Laurini,Defender (Right),173.0,72.0,Fiorentina,Defender,Right,1
+Danilo Silva,"Defender (Centre, Right)",185.0,82.0,Los Angeles FC,Defender,Centre,2
+Osvaldo Alonso,Defensive Midfielder (C),181.0,71.0,Minnesota United,Defensive Midfielder,None,1
+Tobias Mohr,Midfielder (Left),183.0,78.0,Greuther Fuerth,Midfielder,Left,1
+Hee-Chan Hwang,Attacking Midfielder (Left),177.0,77.0,Hamburger SV,Midfielder,Left,1
+Lautaro Guzmán,Midfielder,176.82833333333335,72.9825,Talleres,Midfielder,None,1
+Martin Skrtel,Defender (Centre),193.0,81.0,Fenerbahce,Defender,Centre,1
+Julian Pollersbeck,Goalkeeper,195.0,87.0,Hamburger SV,Goalkeeper,None,1
+Deni Milosevic,"Attacking Midfielder (Centre, Left, Right)",183.0,73.0,Konyaspor,Midfielder,Centre,3
+Zé Luís,Forward,185.0,78.0,Spartak Moscow,Forward,None,1
+Mathias Normann,Midfielder (Centre),179.0,75.0,FC Rostov,Midfielder,Centre,1
+Timo Werner,Attacking Midfielder (Left),180.0,75.0,RasenBallsport Leipzig,Midfielder,Left,1
+Ismael Quílez,Defender (Right),179.0,76.0,Aldosivi,Defender,Right,1
+Beram Kayal,Defensive Midfielder (C),178.0,74.0,Brighton,Defensive Midfielder,None,1
+Valter Birsa,"Midfielder (Centre, Left, Right)",184.0,83.0,Chievo,Midfielder,Centre,3
+Alex Muyl,"Midfielder (Centre, Left, Right)",180.0,79.0,New York Red Bulls,Midfielder,Centre,3
+Romain Genevois,"Defender (Centre, Right)",182.0,79.0,Caen,Defender,Centre,2
+Mohamed Elneny,Defensive Midfielder (C),180.0,73.0,Arsenal,Defensive Midfielder,None,1
+Tom Davies,Midfielder (Centre),180.0,70.0,Everton,Midfielder,Centre,1
+Sam Vines,Defender,178.0,68.0,Colorado Rapids,Defender,None,1
+Albert Rusnák,"Attacking Midfielder (Centre, Left, Right)",175.0,61.0,Real Salt Lake,Midfielder,Centre,3
+Enrique Borja,Forward,185.0,84.0,Argentinos Juniors,Forward,None,1
+Marcus Thuram,Attacking Midfielder (Left),192.0,88.0,Guingamp,Midfielder,Left,1
+Robert Andrich,Defensive Midfielder (C),187.0,82.0,FC Heidenheim,Defensive Midfielder,None,1
+Zac MacMath,Goalkeeper,188.0,80.0,Vancouver Whitecaps,Goalkeeper,None,1
+Sven Braken,Forward,187.0,80.0,FC Emmen,Forward,None,1
+Okechukwu Azubuike,Defensive Midfielder (C),170.0,70.0,Rizespor,Defensive Midfielder,None,1
+Michael Brouwer,Goalkeeper,190.0,91.0,Heracles,Goalkeeper,None,1
+Egor Baburin,Goalkeeper,184.0,78.0,Rubin Kazan,Goalkeeper,None,1
+Sadio Mané,"Attacking Midfielder (Centre, Left, Right)",175.0,69.0,Liverpool,Midfielder,Centre,3
+Kristófer Kristinsson,Forward,190.0,71.0,Willem II,Forward,None,1
+Evens Joseph,Midfielder,176.82833333333335,72.9825,Caen,Midfielder,None,1
+Lukas Kübler,Defender (Right),182.0,73.0,Freiburg,Defender,Right,1
+Marvin Plattenhardt,Defender (Left),181.0,76.0,Hertha Berlin,Defender,Left,1
+Emerson Hyndman,"Midfielder (Centre, Left)",170.0,61.0,Bournemouth,Midfielder,Centre,2
+Darwin Quintero,Attacking Midfielder (Centre),164.0,61.0,Minnesota United,Midfielder,Centre,1
+Manuel Castro,Midfielder,176.0,72.0,Estudiantes,Midfielder,None,1
+Wilson Kamavuaka,Defensive Midfielder (C),188.0,81.0,Darmstadt,Defensive Midfielder,None,1
+Jesé,"Attacking Midfielder (Left, Right)",178.0,72.0,Real Betis,Midfielder,Left,2
+Marco D'Alessandro,"Midfielder (Left, Right)",173.0,71.0,Udinese,Midfielder,Left,2
+Lucas Vázquez,Midfielder (Right),173.0,70.0,Real Madrid,Midfielder,Right,1
+Yekta Kurtulus,Midfielder (Centre),172.0,70.0,Antalyaspor,Midfielder,Centre,1
+Guti,Midfielder,177.0,74.0,Real Zaragoza,Midfielder,None,1
+Tetteh,Defensive Midfielder (C),188.0,76.0,Dinamo Moscow,Defensive Midfielder,None,1
+Franck Evina,Forward,177.0,72.9825,Holstein Kiel,Forward,None,1
+Rubén Peña,Defender (Right),170.0,65.0,Eibar,Defender,Right,1
+Keagan Dolly,"Attacking Midfielder (Centre, Left)",170.0,70.0,Montpellier,Midfielder,Centre,2
+Lewis Wing,Attacking Midfielder (Centre),176.82833333333335,72.9825,Middlesbrough,Midfielder,Centre,1
+Fede Cartabia,"Attacking Midfielder (Centre, Left, Right)",169.0,65.0,Deportivo La Coruna,Midfielder,Centre,3
+Isaac Hayden,Defensive Midfielder (C),185.0,79.0,Newcastle United,Defensive Midfielder,None,1
+Jack Butland,Goalkeeper,196.0,95.0,Stoke,Goalkeeper,None,1
+Michael Dawson,Defender (Centre),188.0,76.0,Nottingham Forest,Defender,Centre,1
+Ali Ghazal,Defender (Centre),180.0,72.0,Feirense,Defender,Centre,1
+Martín Montoya,"Defender (Left, Right)",175.0,73.0,Brighton,Defender,Left,2
+Cristian Pavón,"Attacking Midfielder (Left, Right)",167.0,65.0,Boca Juniors,Midfielder,Left,2
+Álvaro Medrán,Midfielder (Centre),176.0,71.0,Rayo Vallecano,Midfielder,Centre,1
+Samba Sow,Midfielder (Centre),185.0,71.0,Dinamo Moscow,Midfielder,Centre,1
+Alejandro Romero Gamarra,"Attacking Midfielder (Centre, Left, Right)",171.0,67.0,New York Red Bulls,Midfielder,Centre,3
+Peter Etebo,"Midfielder (Centre, Left)",172.0,70.0,Stoke,Midfielder,Centre,2
+Khaled Adénon,Defender (Centre),180.0,72.0,Amiens,Defender,Centre,1
+Michael Hefele,Defender (Centre),192.0,89.0,Nottingham Forest,Defender,Centre,1
+Aatif Chahechouhe,"Attacking Midfielder (Centre, Left)",176.0,77.0,Rizespor,Midfielder,Centre,2
+Ramon-Pascal Lundqvist,Midfielder (Centre),178.0,74.0,NAC Breda,Midfielder,Centre,1
+Nouha Dicko,Forward,173.0,74.0,Hull,Forward,None,1
+Mustafa Akbas,"Defender (Centre, Left)",188.0,81.0,Yeni Malatyaspor,Defender,Centre,2
+Sérgio Marakis,Defensive Midfielder (C),178.0,70.0,Nacional,Defensive Midfielder,None,1
+Cristian Chávez,Attacking Midfielder (Left),171.0,70.0,Aldosivi,Midfielder,Left,1
+Lazar Markovic,"Attacking Midfielder (Centre, Left, Right)",175.0,65.0,Fulham,Midfielder,Centre,3
+Maksim Semakin,Midfielder (Centre),180.0,78.0,FC Yenisey Krasnoyarsk,Midfielder,Centre,1
+Zian Flemming,Attacking Midfielder (Centre),183.0,84.0,PEC Zwolle,Midfielder,Centre,1
+Robert Strauß,Defender (Right),175.0,70.0,FC Heidenheim,Defender,Right,1
+Toni Lato,Defender (Left),171.0,64.0,Valencia,Defender,Left,1
+Jack Grealish,"Attacking Midfielder (Centre, Left)",175.0,68.0,Aston Villa,Midfielder,Centre,2
+Tim Matavz,Forward,188.0,81.0,Vitesse,Forward,None,1
+Albert Adomah,"Attacking Midfielder (Left, Right)",185.0,73.0,Aston Villa,Midfielder,Left,2
+Kiki,Defender,181.0,76.0,Belenenses SAD,Defender,None,1
+Jakob Nerwinski,Defender (Right),183.0,79.0,Vancouver Whitecaps,Defender,Right,1
+Eljif Elmas,Midfielder (Centre),182.0,68.0,Fenerbahce,Midfielder,Centre,1
+Dimitri Payet,"Midfielder (Centre, Left, Right)",175.0,77.0,Marseille,Midfielder,Centre,3
+Sven Ulreich,Goalkeeper,192.0,87.0,Bayern Munich,Goalkeeper,None,1
+Danilo Soares,Defender (Left),170.0,72.0,Bochum,Defender,Left,1
+Robert Mühren,Attacking Midfielder (Centre),180.0,78.0,NAC Breda,Midfielder,Centre,1
+Johnny Russell,"Attacking Midfielder (Left, Right)",177.0,70.0,Sporting Kansas City,Midfielder,Left,2
+Henri Lansbury,Midfielder (Centre),183.0,78.0,Aston Villa,Midfielder,Centre,1
+Brandon Servania,Midfielder,178.0,72.0,FC Dallas,Midfielder,None,1
+Jailson,Defensive Midfielder (C),178.0,74.0,Fenerbahce,Defensive Midfielder,None,1
+Britt Assombalonga,Forward,177.0,78.0,Middlesbrough,Forward,None,1
+Conor Townsend,Defender (Left),168.0,62.0,West Bromwich Albion,Defender,Left,1
+Ivan Markelov,"Attacking Midfielder (Centre, Left)",185.0,76.0,Anzhi Makhachkala,Midfielder,Centre,2
+Marcelo,Defender (Centre),191.0,85.0,Lyon,Defender,Centre,1
+Anton Shunin,Goalkeeper,190.0,83.0,Dinamo Moscow,Goalkeeper,None,1
+Mikel San José,Defender (Centre),188.0,78.0,Athletic Bilbao,Defender,Centre,1
+Jan Vertonghen,"Defender (Centre, Left)",189.0,87.0,Tottenham,Defender,Centre,2
+Eric Miller,"Defender (Centre, Left, Right)",183.0,80.0,Minnesota United,Defender,Centre,3
+Kyle Duncan,Defender (Right),178.0,68.0,New York Red Bulls,Defender,Right,1
+Emmanuel Iyoha,Attacking Midfielder (Left),191.0,86.0,Erzgebirge Aue,Midfielder,Left,1
+Rômulo,Defender (Right),178.0,72.0,Lazio,Defender,Right,1
+Murat Cem Akpinar,Midfielder,176.82833333333335,72.9825,Trabzonspor,Midfielder,None,1
+Luca Plogmann,Goalkeeper,188.0,78.0,Werder Bremen,Goalkeeper,None,1
+Erwin Mulder,Goalkeeper,193.0,88.0,Swansea,Goalkeeper,None,1
+David Juncà,Defender (Left),175.0,67.0,Celta Vigo,Defender,Left,1
+Matías Caruzzo,Defender (Centre),183.0,78.0,Rosario Central,Defender,Centre,1
+Vítor Gonçalves,Midfielder (Centre),174.0,68.0,Nacional,Midfielder,Centre,1
+Markel Susaeta,"Midfielder (Left, Right)",179.0,63.0,Athletic Bilbao,Midfielder,Left,2
+Brice Samba,Goalkeeper,186.0,79.0,Caen,Goalkeeper,None,1
+Gerónimo Rulli,Goalkeeper,189.0,84.0,Real Sociedad,Goalkeeper,None,1
+Andrej Kramaric,"Attacking Midfielder (Centre, Left, Right)",177.0,73.0,Hoffenheim,Midfielder,Centre,3
+Anaitz Arbilla,"Defender (Centre, Left, Right)",178.0,76.0,Eibar,Defender,Centre,3
+Alan,"Attacking Midfielder (Left, Right)",184.0,75.0,Tianjin Tianhai,Midfielder,Left,2
+Benjamin Hübner,Defender (Centre),193.0,85.0,Hoffenheim,Defender,Centre,1
+Kevin Lankford,"Attacking Midfielder (Left, Right)",186.0,81.0,St. Pauli,Midfielder,Left,2
+Enis Hajri,"Defender (Centre, Right)",187.0,74.0,Duisburg,Defender,Centre,2
+Steve Mandanda,Goalkeeper,185.0,82.0,Marseille,Goalkeeper,None,1
+Raúl Navas,Defender (Centre),186.0,84.0,Real Sociedad,Defender,Centre,1
+Adrien Thomasson,"Midfielder (Centre, Left, Right)",177.0,72.0,Strasbourg,Midfielder,Centre,3
+Joshua Brenet,"Defender (Left, Right)",182.0,70.0,Hoffenheim,Defender,Left,2
+Erick Pulgar,Defensive Midfielder (C),186.0,78.0,Bologna,Defensive Midfielder,None,1
+Nick Rimando,Goalkeeper,176.0,84.0,Real Salt Lake,Goalkeeper,None,1
+Lucas Villalba,Defender (Left),177.0,73.0,Aldosivi,Defender,Left,1
+Simon Dawkins,"Attacking Midfielder (Centre, Left, Right)",178.0,73.0,Ipswich,Midfielder,Centre,3
+Vitus Eicher,Goalkeeper,191.0,85.0,FC Heidenheim,Goalkeeper,None,1
+Fabián Ruiz,"Attacking Midfielder (Centre, Left)",189.0,70.0,Napoli,Midfielder,Centre,2
+Carlos Akapo,Defender (Left),179.0,70.0,SD Huesca,Defender,Left,1
+Niltinho,"Attacking Midfielder (Left, Right)",175.0,68.0,Chaves,Midfielder,Left,2
+Boris Tashchy,Attacking Midfielder (Centre),192.0,90.0,Duisburg,Midfielder,Centre,1
+Aron Gunnarsson,Midfielder (Centre),178.0,70.0,Cardiff,Midfielder,Centre,1
+William,Forward,179.0,74.0,Chaves,Forward,None,1
+Toni Sunjic,Defender (Centre),193.0,88.0,Dinamo Moscow,Defender,Centre,1
+Antonin Barak,Attacking Midfielder (Centre),190.0,86.0,Udinese,Midfielder,Centre,1
+Callum Connolly,Defender (Right),183.0,70.0,Bolton,Defender,Right,1
+Joe Gomez,"Defender (Centre, Left, Right)",188.0,77.0,Liverpool,Defender,Centre,3
+Junio,Defender (Right),182.0,75.0,Rio Ave,Defender,Right,1
+Elhadji Djibril Diaw,Defender,196.0,85.0,Angers,Defender,None,1
+Florian Thauvin,"Attacking Midfielder (Centre, Left, Right)",179.0,70.0,Marseille,Midfielder,Centre,3
+Miguel Luís,Midfielder (Centre),178.0,62.0,Sporting CP,Midfielder,Centre,1
+Carlos Martínez,Defender (Right),189.0,79.0,Real Oviedo,Defender,Right,1
+Yannis Ammour,Midfielder,182.0,70.0,Montpellier,Midfielder,None,1
+Facundo Sánchez,Defender (Right),176.0,73.0,Estudiantes,Defender,Right,1
+Leo Stulac,Midfielder (Centre),175.0,70.0,Parma Calcio 1913,Midfielder,Centre,1
+Solly March,"Attacking Midfielder (Centre, Left, Right)",180.0,88.0,Brighton,Midfielder,Centre,3
+Sebastian Griesbeck,Defensive Midfielder (C),189.0,84.0,FC Heidenheim,Defensive Midfielder,None,1
+Lewis Dunk,Defender (Centre),192.0,88.0,Brighton,Defender,Centre,1
+Bart Ramselaar,"Attacking Midfielder (Centre, Left)",178.0,74.0,PSV Eindhoven,Midfielder,Centre,2
+Roman Tugarev,Midfielder,170.0,63.0,Lokomotiv Moscow,Midfielder,None,1
+Vladimir Rykov,Defender (Centre),192.0,88.0,Dinamo Moscow,Defender,Centre,1
+Greg Leigh,Defender (Left),180.0,73.0,NAC Breda,Defender,Left,1
+Costinha,"Midfielder (Centre, Left, Right)",170.0,64.0,Chaves,Midfielder,Centre,3
+Alex Meret,Goalkeeper,190.0,82.0,Napoli,Goalkeeper,None,1
+João Carvalho,"Attacking Midfielder (Centre, Left)",172.0,67.0,Nottingham Forest,Midfielder,Centre,2
+Ayoze Pérez,"Attacking Midfielder (Centre, Left, Right)",178.0,72.0,Newcastle United,Midfielder,Centre,3
+Lukas Jutkiewicz,Forward,185.0,78.0,Birmingham,Forward,None,1
+Mohammed Osman,Defensive Midfielder (C),183.0,75.0,Heracles,Defensive Midfielder,None,1
+Jaakko Oksanen,Midfielder,176.82833333333335,72.9825,Brentford,Midfielder,None,1
+Oualid El Hajjam,Defender (Right),181.0,73.0,Amiens,Defender,Right,1
+Taleb Tawatha,Defender (Left),176.0,81.0,Eintracht Frankfurt,Defender,Left,1
+Jonathas,Forward,190.0,81.0,Hannover 96,Forward,None,1
+Moryke Fofana,"Attacking Midfielder (Left, Right)",178.0,76.0,Konyaspor,Midfielder,Left,2
+Adrián Calello,Midfielder (Centre),177.0,80.0,Banfield,Midfielder,Centre,1
+Daniel James,Attacking Midfielder (Left),170.0,76.0,Swansea,Midfielder,Left,1
+Baris Ekincier,Forward,181.0,72.0,Bochum,Forward,None,1
+Jack Robinson,"Defender (Centre, Left)",168.0,64.0,Nottingham Forest,Defender,Centre,2
+Kevin Möhwald,"Attacking Midfielder (Centre, Right)",183.0,77.0,Werder Bremen,Midfielder,Centre,2
+Christian Kouamé,Attacking Midfielder (Left),185.0,70.0,Genoa,Midfielder,Left,1
+Mucahit Can Akcay,Forward,176.82833333333335,72.9825,Konyaspor,Forward,None,1
+Mohamed Dräger,Defender (Right),178.0,72.0,Paderborn,Defender,Right,1
+João Talocha,Defender (Left),180.0,75.0,Boavista,Defender,Left,1
+Reto Ziegler,"Defender (Centre, Left)",183.0,79.0,FC Dallas,Defender,Centre,2
+Massimo Gobbi,Defender (Left),183.0,79.0,Parma Calcio 1913,Defender,Left,1
+Felix Wiedwald,Goalkeeper,190.0,82.0,Duisburg,Goalkeeper,None,1
+Diogo Verdasca,Defender,185.0,81.0,Real Zaragoza,Defender,None,1
+Handwalla Bwana,Attacking Midfielder (Left),175.0,65.0,Seattle Sounders FC,Midfielder,Left,1
+Jefferson Montero,Midfielder (Left),173.0,70.0,West Bromwich Albion,Midfielder,Left,1
+Paddy McNair,"Defender (Centre, Right)",183.0,72.0,Middlesbrough,Defender,Centre,2
+Nicolai Müller,"Midfielder (Centre, Left, Right)",173.0,66.0,Hannover 96,Midfielder,Centre,3
+Ignacio Piatti,"Attacking Midfielder (Centre, Left)",181.0,77.0,Montreal Impact,Midfielder,Centre,2
+Gustavo Sauer,Attacking Midfielder (Right),181.0,72.0,Boavista,Midfielder,Right,1
+Alan Ruiz,"Attacking Midfielder (Centre, Right)",183.0,74.0,Aldosivi,Midfielder,Centre,2
+Facundo Medina,Defender (Left),181.0,76.0,Talleres,Defender,Left,1
+Bernard Tekpetey,"Attacking Midfielder (Left, Right)",172.0,70.0,Paderborn,Midfielder,Left,2
+Angel Rangel,Defender (Right),188.0,84.0,Queens Park Rangers,Defender,Right,1
+Clemente,Forward,179.0,75.0,Santa Clara,Forward,None,1
+Maximilian Mittelstädt,Defender (Left),180.0,71.0,Hertha Berlin,Defender,Left,1
+Zé Manuel,"Attacking Midfielder (Left, Right)",178.0,65.0,Santa Clara,Midfielder,Left,2
+Iago Aspas,"Attacking Midfielder (Centre, Right)",176.0,67.0,Celta Vigo,Midfielder,Centre,2
+Antonino Barillà,Midfielder (Centre),180.0,76.0,Parma Calcio 1913,Midfielder,Centre,1
+Issam Chebake,Defender (Right),175.0,71.0,Yeni Malatyaspor,Defender,Right,1
+Dean Gerken,Goalkeeper,183.0,77.0,Ipswich,Goalkeeper,None,1
+Joaquín Laso,"Defender (Centre, Right)",185.0,79.0,Velez Sarsfield,Defender,Centre,2
+Alexander Anyukov,"Defender (Centre, Left, Right)",178.0,67.0,Zenit St. Petersburg,Defender,Centre,3
+Havard Nielsen,"Attacking Midfielder (Centre, Left)",187.0,80.0,Duisburg,Midfielder,Centre,2
+Osman Kakay,Defender (Right),180.0,72.9825,Queens Park Rangers,Defender,Right,1
+Sebastian Ernst,"Attacking Midfielder (Centre, Left, Right)",179.0,68.0,Greuther Fuerth,Midfielder,Centre,3
+Erick Gutiérrez,Midfielder (Centre),177.0,69.0,PSV Eindhoven,Midfielder,Centre,1
+Idrissa Doumbia,Defensive Midfielder (C),186.0,79.0,Sporting CP,Defensive Midfielder,None,1
+Dani Romera,Forward,175.0,72.0,Rayo Majadahonda,Forward,None,1
+Leandro Paiva,Midfielder,160.0,50.0,Argentinos Juniors,Midfielder,None,1
+Leon Bailey,"Midfielder (Left, Right)",178.0,79.0,Bayer Leverkusen,Midfielder,Left,2
+Germán Herrera,Forward,181.0,84.0,Rosario Central,Forward,None,1
+Thomas Delaney,Defensive Midfielder (C),182.0,71.0,Borussia Dortmund,Defensive Midfielder,None,1
+Tristan Nydam,Midfielder (Centre),176.82833333333335,72.9825,Ipswich,Midfielder,Centre,1
+Pavel Kaloshin,Defender (Centre),195.0,87.0,Anzhi Makhachkala,Defender,Centre,1
+Kurt Zouma,"Defender (Centre, Right)",190.0,96.0,Everton,Defender,Centre,2
+Yussuf Poulsen,Attacking Midfielder (Right),193.0,84.0,RasenBallsport Leipzig,Midfielder,Right,1
+Lukas Hinterseer,Attacking Midfielder (Right),192.0,86.0,Bochum,Midfielder,Right,1
+Sone Aluko,"Attacking Midfielder (Centre, Left, Right)",173.0,72.0,Beijing Renhe,Midfielder,Centre,3
+Alexander Büttner,Defender (Left),174.0,75.0,Vitesse,Defender,Left,1
+Alexandru Epureanu,Defender (Centre),189.0,76.0,Istanbul Basaksehir,Defender,Centre,1
+Nahuel Arena,Defender,183.0,67.0,Godoy Cruz,Defender,None,1
+Xisco Campos,Defender,180.0,77.0,Mallorca,Defender,None,1
+Luis Robles,Goalkeeper,186.0,82.0,New York Red Bulls,Goalkeeper,None,1
+Erik Zenga,Midfielder (Centre),181.0,76.0,Sandhausen,Midfielder,Centre,1
+Martin Cranie,"Defender (Centre, Right)",183.0,78.0,Sheffield United,Defender,Centre,2
+Driess Saddiki,Midfielder,179.0,70.0,Willem II,Midfielder,None,1
+Aymeric Laporte,"Defender (Centre, Left)",191.0,86.0,ManCity,Defender,Centre,2
+Takashi Inui,"Attacking Midfielder (Centre, Left, Right)",169.0,59.0,Deportivo Alaves,Midfielder,Centre,3
+Richie Laryea,Midfielder,175.0,68.0,Toronto FC,Midfielder,None,1
+Zanka,Defender (Centre),191.0,79.0,Huddersfield,Defender,Centre,1
+Craig Noone,"Midfielder (Left, Right)",177.0,69.0,Bolton,Midfielder,Left,2
+Dani Ceballos,"Midfielder (Centre, Left)",179.0,70.0,Real Madrid,Midfielder,Centre,2
+Alexandre Mendy,Forward,185.0,94.0,Guingamp,Forward,None,1
+Douglas Luiz,Midfielder (Centre),178.0,66.0,Girona,Midfielder,Centre,1
+Borja Bastón,Forward,186.0,83.0,Deportivo Alaves,Forward,None,1
+Marvin Ducksch,Forward,188.0,79.0,Fortuna Duesseldorf,Forward,None,1
+Brent Kallman,Defender (Centre),188.0,86.0,Minnesota United,Defender,Centre,1
+Marcelo Brozovic,"Midfielder (Centre, Right)",181.0,68.0,Inter,Midfielder,Centre,2
+Casimir Ninga,"Attacking Midfielder (Left, Right)",186.0,81.0,Caen,Midfielder,Left,2
+Kevin Gameiro,Forward,172.0,70.0,Valencia,Forward,None,1
+Stijn Schaars,Defensive Midfielder (C),178.0,75.0,SC Heerenveen,Defensive Midfielder,None,1
+Rodrigo Salinas,Forward,190.0,81.0,Velez Sarsfield,Forward,None,1
+Alejo Montero,Midfielder,176.82833333333335,72.9825,Velez Sarsfield,Midfielder,None,1
+Agustín Fontana,Forward,176.0,72.0,Banfield,Forward,None,1
+Paul Baysse,"Defender (Centre, Right)",187.0,85.0,Caen,Defender,Centre,2
+Oscar Cabezas,Defender (Centre),177.0,75.0,Rosario Central,Defender,Centre,1
+Mo El Hankouri,Attacking Midfielder (Left),176.0,68.0,FC Groningen,Midfielder,Left,1
+Andrew Hjulsager,Midfielder,175.0,73.0,Celta Vigo,Midfielder,None,1
+Nuno Coelho,Defender (Centre),190.0,80.0,Chaves,Defender,Centre,1
+Jay Chapman,"Attacking Midfielder (Centre, Right)",183.0,71.0,Toronto FC,Midfielder,Centre,2
+Fousseni Diabaté,Attacking Midfielder (Right),175.0,60.0,Sivasspor,Midfielder,Right,1
+Gustavo Hamer,Midfielder (Centre),168.0,61.0,PEC Zwolle,Midfielder,Centre,1
+Tim Rieder,Defender (Right),186.0,77.0,Darmstadt,Defender,Right,1
+Samir Handanovic,Goalkeeper,193.0,92.0,Inter,Goalkeeper,None,1
+Juan Forlín,Defender (Centre),179.0,74.0,Real Oviedo,Defender,Centre,1
+Lyanco,Defender (Centre),188.0,83.0,Bologna,Defender,Centre,1
+Sebastien De Maio,Defender (Centre),190.0,90.0,Udinese,Defender,Centre,1
+Joe Bennett,Defender (Left),183.0,74.0,Cardiff,Defender,Left,1
+Alisson,Goalkeeper,191.0,91.0,Liverpool,Goalkeeper,None,1
+Fernandinho,Defender (Right),179.0,67.0,ManCity,Defender,Right,1
+Emanuel Iñiguez,Defender (Right),176.82833333333335,72.9825,Aldosivi,Defender,Right,1
+Giovani Zarfino,Midfielder,183.0,78.0,Extremadura,Midfielder,None,1
+Jorge Fellipe,Defender (Centre),195.0,83.0,Aves,Defender,Centre,1
+Fedor Chalov,Forward,180.0,77.0,CSKA Moscow,Forward,None,1
+Wallace,Defender (Centre),191.0,83.0,Lazio,Defender,Centre,1
+Pablo Rosales,Defender (Right),174.0,68.0,Estudiantes,Defender,Right,1
+Thomas Edwards,Defender (Right),175.0,76.0,Stoke,Defender,Right,1
+Andreas Cornelius,Forward,193.0,91.0,Bordeaux,Forward,None,1
+Zaydou Youssouf,Attacking Midfielder (Centre),182.0,81.0,Bordeaux,Midfielder,Centre,1
+Nathaniel Mendez-Laing,Attacking Midfielder (Right),180.0,77.0,Cardiff,Midfielder,Right,1
+Charlie Lakin,Midfielder (Centre),176.82833333333335,72.9825,Birmingham,Midfielder,Centre,1
+Nahuel Estévez,Midfielder (Right),176.82833333333335,72.9825,Estudiantes,Midfielder,Right,1
+Ruben Aguilar,Defender (Right),172.0,71.0,Montpellier,Defender,Right,1
+Federico Valverde,"Attacking Midfielder (Centre, Left)",181.0,78.0,Real Madrid,Midfielder,Centre,2
+Esteban Andrada,Goalkeeper,193.0,85.0,Boca Juniors,Goalkeeper,None,1
+Dong-Won Ji,"Attacking Midfielder (Centre, Left, Right)",188.0,81.0,Augsburg,Midfielder,Centre,3
+Stephane Sparagna,Defender (Centre),186.0,83.0,Boavista,Defender,Centre,1
+Serginho,Goalkeeper,192.0,83.0,Santa Clara,Goalkeeper,None,1
+Jan-Philipp Kalla,Defender (Right),180.0,74.0,St. Pauli,Defender,Right,1
+Yoel Bárcenas,Midfielder,175.0,75.0,Real Oviedo,Midfielder,None,1
+Roger Espinoza,"Midfielder (Centre, Left)",181.0,73.0,Sporting Kansas City,Midfielder,Centre,2
+Senou Coulibaly,Defender (Centre),193.0,72.9825,Dijon,Defender,Centre,1
+Nacho Monreal,"Defender (Centre, Left)",179.0,72.0,Arsenal,Defender,Centre,2
+Alessandro Bastoni,Defender (Centre),190.0,75.0,Parma Calcio 1913,Defender,Centre,1
+Aleksandr Kokorin,"Attacking Midfielder (Centre, Left, Right)",181.0,74.0,Zenit St. Petersburg,Midfielder,Centre,3
+Jeremy Grimm,Defensive Midfielder (C),181.0,69.0,Strasbourg,Defensive Midfielder,None,1
+Anthony Forde,"Attacking Midfielder (Left, Right)",186.0,76.0,Rotherham,Midfielder,Left,2
+Darko Lazovic,"Midfielder (Left, Right)",181.0,66.0,Genoa,Midfielder,Left,2
+Vasilije Janjicic,Defensive Midfielder (C),180.0,82.0,Hamburger SV,Defensive Midfielder,None,1
+Gonçalo Cardoso,Defender (Centre),189.0,83.0,Boavista,Defender,Centre,1
+Daniel Bessa,Attacking Midfielder (Centre),173.0,68.0,Genoa,Midfielder,Centre,1
+Yoëll van Nieff,"Defender (Centre, Left)",183.0,82.0,Heracles,Defender,Centre,2
+Luis Alberto,"Attacking Midfielder (Centre, Left)",182.0,70.0,Lazio,Midfielder,Centre,2
+Ayaz Guliev,Defensive Midfielder (C),169.0,63.0,Spartak Moscow,Defensive Midfielder,None,1
+Aleksandr Martynovich,Defender (Centre),192.0,82.0,FC Krasnodar,Defender,Centre,1
+Neto,Midfielder (Centre),181.0,68.0,Moreirense,Midfielder,Centre,1
+Dax McCarty,Defensive Midfielder (C),176.0,69.0,Chicago Fire,Defensive Midfielder,None,1
+Luther Singh,"Attacking Midfielder (Left, Right)",171.0,60.0,Chaves,Midfielder,Left,2
+Zeki Erkilinc,Forward,175.0,72.0,Heracles,Forward,None,1
+Emmanuel Adebayor,Forward,191.0,82.0,Istanbul Basaksehir,Forward,None,1
+Amin Younes,"Attacking Midfielder (Centre, Left)",168.0,67.0,Napoli,Midfielder,Centre,2
+Pasquale Schiattarella,Defensive Midfielder (C),178.0,68.0,SPAL 2013,Defensive Midfielder,None,1
+Emiliano Insúa,Defender (Left),180.0,79.0,VfB Stuttgart,Defender,Left,1
+Daniel Baier,Midfielder (Centre),176.0,77.0,Augsburg,Midfielder,Centre,1
+Fabri,Goalkeeper,185.0,67.0,Fulham,Goalkeeper,None,1
+Jordy de Wijs,Defender (Centre),189.0,95.0,Hull,Defender,Centre,1
+Hal Robson-Kanu,"Attacking Midfielder (Left, Right)",183.0,90.0,West Bromwich Albion,Midfielder,Left,2
+Thomas Fontaine,Defender (Centre),182.0,73.0,Reims,Defender,Centre,1
+Joe Allen,Midfielder (Centre),168.0,62.0,Stoke,Midfielder,Centre,1
+Sam Johnson,Forward,178.0,74.0,Real Salt Lake,Forward,None,1
+Pirmin Schwegler,Midfielder (Centre),178.0,74.0,Hannover 96,Midfielder,Centre,1
+Jony,"Attacking Midfielder (Left, Right)",179.0,76.0,Deportivo Alaves,Midfielder,Left,2
+Wendel,Midfielder (Centre),180.0,75.0,Sporting CP,Midfielder,Centre,1
+Claudemir,Midfielder (Centre),185.0,72.0,Braga,Midfielder,Centre,1
+Javi Galán,Defender (Left),172.0,70.0,SD Huesca,Defender,Left,1
+Niklas Lomb,Goalkeeper,187.0,84.0,Sandhausen,Goalkeeper,None,1
+Junior Sambia,Attacking Midfielder (Centre),185.0,73.0,Montpellier,Midfielder,Centre,1
+Andrew Taylor,Defender (Left),178.0,69.0,Bolton,Defender,Left,1
+Fede San Emeterio,Midfielder,174.0,68.0,Granada,Midfielder,None,1
+Dani Calvo,Defender,190.0,82.0,Elche,Defender,None,1
+Kevin Wimmer,Defender (Centre),187.0,85.0,Hannover 96,Defender,Centre,1
+Juan Sánchez Miño,Defender (Left),177.0,78.0,Independiente,Defender,Left,1
+Gaël Kakuta,"Midfielder (Centre, Left, Right)",173.0,64.0,Rayo Vallecano,Midfielder,Centre,3
+Facundo Almada,Defender,176.82833333333335,72.9825,Rosario Central,Defender,None,1
+David McGoldrick,"Attacking Midfielder (Centre, Left, Right)",183.0,74.0,Sheffield United,Midfielder,Centre,3
+Dario Van den Buijs,Defender (Centre),188.0,78.0,Heracles,Defender,Centre,1
+Mats Köhlert,Midfielder,168.0,62.0,Hamburger SV,Midfielder,None,1
+Antonio Barreca,Defender (Left),183.0,70.0,Newcastle United,Defender,Left,1
+Andoni Gorosabel,Defender (Right),174.0,73.0,Real Sociedad,Defender,Right,1
+Jules Keita,Forward,168.0,56.0,Dijon,Forward,None,1
+Matthew Pennington,"Defender (Centre, Right)",185.0,77.0,Ipswich,Defender,Centre,2
+Emmanuel Ledesma,"Attacking Midfielder (Left, Right)",180.0,77.0,FC Cincinnati,Midfielder,Left,2
+Immanuel Höhn,"Defender (Centre, Right)",183.0,72.0,Darmstadt,Defender,Centre,2
+Federico Peluso,"Defender (Centre, Left)",187.0,82.0,Sassuolo,Defender,Centre,2
+Sergio Pellissier,Forward,175.0,75.0,Chievo,Forward,None,1
+Christian Walton,Goalkeeper,182.0,75.0,Wigan,Goalkeeper,None,1
+Batuhan Artarslan,Midfielder,191.0,83.0,Trabzonspor,Midfielder,None,1
+Ivan Novoseltsev,"Defender (Centre, Left, Right)",190.0,80.0,FC Rostov,Defender,Centre,3
+Callum Paterson,Defender (Right),183.0,76.0,Cardiff,Defender,Right,1
+Kieran Trippier,Defender (Right),178.0,71.0,Tottenham,Defender,Right,1
+Ridgeciano Haps,Defender (Left),175.0,66.0,Feyenoord,Defender,Left,1
+Mark Duffy,"Attacking Midfielder (Centre, Left, Right)",175.0,74.0,Sheffield United,Midfielder,Centre,3
+Iago Falque,"Attacking Midfielder (Centre, Left, Right)",174.0,69.0,Torino,Midfielder,Centre,3
+Dimitri Foulquier,"Defender (Left, Right)",183.0,72.0,Getafe,Defender,Left,2
+Rafael,"Defender (Left, Right)",172.0,78.0,Lyon,Defender,Left,2
+Andrea Seculin,Goalkeeper,190.0,78.0,Chievo,Goalkeeper,None,1
+Mark-Anthony Kaye,Midfielder (Centre),185.0,77.0,Los Angeles FC,Midfielder,Centre,1
+Tim Kister,Defender (Centre),193.0,93.0,Sandhausen,Defender,Centre,1
+Ugur Demirok,Defender (Centre),185.0,76.0,Konyaspor,Defender,Centre,1
+Matías Pellegrini,Attacking Midfielder (Left),176.82833333333335,72.9825,Estudiantes,Midfielder,Left,1
+Vedad Ibisevic,Forward,188.0,83.0,Hertha Berlin,Forward,None,1
+Jordan Marié,Defensive Midfielder (C),177.0,73.0,Dijon,Defensive Midfielder,None,1
+Eduardo Henrique,Midfielder (Centre),184.0,73.0,Belenenses SAD,Midfielder,Centre,1
+Tim Parker,"Defender (Centre, Right)",188.0,88.0,New York Red Bulls,Defender,Centre,2
+Yuri Zhirkov,Defender (Left),180.0,75.0,Zenit St. Petersburg,Defender,Left,1
+Achraf Hakimi,"Defender (Left, Right)",179.0,65.0,Borussia Dortmund,Defender,Left,2
+Bouna Sarr,Defender (Right),177.0,65.0,Marseille,Defender,Right,1
+Rúben Vezo,"Defender (Centre, Right)",182.0,80.0,Levante,Defender,Centre,2
+Naim Sliti,"Attacking Midfielder (Centre, Left)",173.0,76.0,Dijon,Midfielder,Centre,2
+Artem Dzyuba,Forward,196.0,91.0,Zenit St. Petersburg,Forward,None,1
+Ángel González,"Attacking Midfielder (Left, Right)",175.0,68.0,Godoy Cruz,Midfielder,Left,2
+Mauro Júnior,Midfielder (Centre),171.0,62.0,PSV Eindhoven,Midfielder,Centre,1
+Bartosz Bialkowski,Goalkeeper,194.0,82.0,Ipswich,Goalkeeper,None,1
+José Antonio Reyes,"Midfielder (Centre, Left, Right)",176.0,72.0,Extremadura,Midfielder,Centre,3
+Abdelhamid Sabiri,Attacking Midfielder (Left),183.0,80.0,Huddersfield,Midfielder,Left,1
+Dean Henderson,Goalkeeper,188.0,86.0,Sheffield United,Goalkeeper,None,1
+Maikel Kieftenbeld,Defensive Midfielder (C),170.0,75.0,Birmingham,Defensive Midfielder,None,1
+Stewart Downing,Defender (Left),180.0,64.0,Middlesbrough,Defender,Left,1
+Rasmus Thelander,Defender (Centre),190.0,87.0,Vitesse,Defender,Centre,1
+Baptiste Reynet,Goalkeeper,185.0,85.0,Toulouse,Goalkeeper,None,1
+Juan Muñiz,Midfielder,174.0,76.0,Lugo,Midfielder,None,1
+Joel Lynch,Defender (Centre),185.0,81.0,Queens Park Rangers,Defender,Centre,1
+Jérémy Sorbon,Defender (Centre),183.0,79.0,Guingamp,Defender,Centre,1
+Leandro Chichizola,Goalkeeper,185.0,80.0,Getafe,Goalkeeper,None,1
+Luca-Milan Zander,Defender (Right),183.0,73.0,St. Pauli,Defender,Right,1
+Yu Yang,Defender (Centre),183.0,72.0,Beijing Guoan,Defender,Centre,1
+Arne Feick,Defender (Left),179.0,78.0,FC Heidenheim,Defender,Left,1
+Nélson Monte,"Defender (Centre, Right)",187.0,78.0,Rio Ave,Defender,Centre,2
+Aly Cissokho,Defender (Left),181.0,75.0,Antalyaspor,Defender,Left,1
+Dennis Praet,Attacking Midfielder (Centre),181.0,78.0,Sampdoria,Midfielder,Centre,1
+Youssouf Sabaly,"Defender (Left, Right)",173.0,67.0,Bordeaux,Defender,Left,2
+Taha Yalciner,Defensive Midfielder (C),178.0,73.0,Alanyaspor,Defensive Midfielder,None,1
+Dmitriy Poloz,"Attacking Midfielder (Centre, Left, Right)",183.0,73.0,Rubin Kazan,Midfielder,Centre,3
+Barrie McKay,"Attacking Midfielder (Centre, Left, Right)",175.0,67.0,Swansea,Midfielder,Centre,3
+Mickaël Alphonse,Defender,182.0,75.0,Dijon,Defender,None,1
+Abdoulaye Diallo,Forward,184.0,77.0,Aves,Forward,None,1
+Adama Diomande,Attacking Midfielder (Left),180.0,75.0,Los Angeles FC,Midfielder,Left,1
+Daniel Crowley,Attacking Midfielder (Centre),170.0,68.0,Willem II,Midfielder,Centre,1
+Adrian Semper,Goalkeeper,192.0,87.0,Chievo,Goalkeeper,None,1
+Leander Dendoncker,Defensive Midfielder (C),188.0,76.0,Wolverhampton Wanderers,Defensive Midfielder,None,1
+Florent Muslija,Midfielder,172.0,65.0,Hannover 96,Midfielder,None,1
+Cristian Romero,Defender (Centre),185.0,79.0,Genoa,Defender,Centre,1
+Sammy Ameobi,"Attacking Midfielder (Centre, Left, Right)",190.0,66.0,Bolton,Midfielder,Centre,3
+Joshua King,"Attacking Midfielder (Centre, Left, Right)",180.0,74.0,Bournemouth,Midfielder,Centre,3
+Márcio Mossoró,Attacking Midfielder (Centre),170.0,67.0,Istanbul Basaksehir,Midfielder,Centre,1
+Ronaldo Vieira,Defensive Midfielder (C),180.0,70.0,Sampdoria,Defensive Midfielder,None,1
+Carlos Fernández,Forward,185.0,72.0,Deportivo La Coruna,Forward,None,1
+Patrick Twumasi,Attacking Midfielder (Right),176.0,67.0,Deportivo Alaves,Midfielder,Right,1
+Gia Grigalava,"Defender (Centre, Left)",190.0,89.0,Arsenal Tula,Defender,Centre,2
+Ryan Shawcross,Defender (Centre),191.0,76.0,Stoke,Defender,Centre,1
+Mossa,Defender,178.0,66.0,Real Oviedo,Defender,None,1
+Paxton Pomykal,Attacking Midfielder (Centre),170.0,65.0,FC Dallas,Midfielder,Centre,1
+Granit Xhaka,Midfielder (Centre),185.0,82.0,Arsenal,Midfielder,Centre,1
+Gonçalo Guedes,"Attacking Midfielder (Left, Right)",179.0,68.0,Valencia,Midfielder,Left,2
+Agustín Verdugo,Defender (Right),169.0,68.0,Godoy Cruz,Defender,Right,1
+Thiago Silva,Defender (Centre),183.0,79.0,Paris Saint-Germain,Defender,Centre,1
+Seth Sinovic,Defender (Left),176.0,78.0,Sporting Kansas City,Defender,Left,1
+Henry Wingo,Midfielder,183.0,77.0,Seattle Sounders FC,Midfielder,None,1
+Alberto Benito,Defender,176.0,68.0,Real Zaragoza,Defender,None,1
+Kei Kamara,"Attacking Midfielder (Left, Right)",191.0,85.0,Colorado Rapids,Midfielder,Left,2
+Egor Sorokin,Defender (Centre),189.0,81.0,Rubin Kazan,Defender,Centre,1
+Sam McQueen,Defender (Left),180.0,70.0,Middlesbrough,Defender,Left,1
+Stefan Mitrovic,Defender (Centre),189.0,84.0,Strasbourg,Defender,Centre,1
+Evan Bush,Goalkeeper,186.0,85.0,Montreal Impact,Goalkeeper,None,1
+Paulinho,Forward,187.0,75.0,Braga,Forward,None,1
+Nicolás De La Cruz,Attacking Midfielder (Centre),167.0,70.0,River Plate,Midfielder,Centre,1
+Jordan Hamilton,Forward,186.0,80.0,Toronto FC,Forward,None,1
+Tyrell Malacia,Defender (Left),169.0,67.0,Feyenoord,Defender,Left,1
+Denis Terentjev,"Defender (Left, Right)",180.0,70.0,Zenit St. Petersburg,Defender,Left,2
+Kevin Bonifazi,Defender (Centre),180.0,70.0,SPAL 2013,Defender,Centre,1
+Frederik Rönnow,Goalkeeper,190.0,77.0,Eintracht Frankfurt,Goalkeeper,None,1
+Russell Teibert,"Midfielder (Centre, Left, Right)",173.0,69.0,Vancouver Whitecaps,Midfielder,Centre,3
+Fernando Barrientos,Defensive Midfielder (C),176.0,71.0,Defensa y Justicia,Defensive Midfielder,None,1
+Santiago Patiño,Forward,185.0,73.0,Orlando City,Forward,None,1
+Franco Di Santo,"Attacking Midfielder (Centre, Left, Right)",193.0,88.0,Rayo Vallecano,Midfielder,Centre,3
+Lucas Torró,Defensive Midfielder (C),190.0,77.0,Eintracht Frankfurt,Defensive Midfielder,None,1
+Steven Bergwijn,"Attacking Midfielder (Left, Right)",178.0,78.0,PSV Eindhoven,Midfielder,Left,2
+Jires Kembo-Ekoko,"Midfielder (Left, Right)",179.0,75.0,Bursaspor,Midfielder,Left,2
+Vanja Vucicevic,Forward,188.0,77.0,Krylya Sovetov Samara,Forward,None,1
+Lucas Chaves,Goalkeeper,179.0,72.0,Argentinos Juniors,Goalkeeper,None,1
+Alan Schons,Defensive Midfielder (C),180.0,80.0,Moreirense,Defensive Midfielder,None,1
+Ricardo Esgaio,Defender (Right),171.0,66.0,Braga,Defender,Right,1
+Martin Dubravka,Goalkeeper,190.0,80.0,Newcastle United,Goalkeeper,None,1
+Vincent Kompany,Defender (Centre),190.0,85.0,ManCity,Defender,Centre,1
+Abdullahi Shehu,Defender (Right),170.0,72.0,Bursaspor,Defender,Right,1
+Konstantinos Mavropanos,Defender (Centre),194.0,88.0,Arsenal,Defender,Centre,1
+Francisco Geraldes,Attacking Midfielder (Centre),171.0,66.0,Sporting CP,Midfielder,Centre,1
+Todd Kane,Defender (Right),180.0,70.0,Hull,Defender,Right,1
+Fedor Kudryashov,"Defender (Centre, Left)",184.0,78.0,Istanbul Basaksehir,Defender,Centre,2
+Mert Yandas,Attacking Midfielder (Centre),176.82833333333335,72.9825,Sivasspor,Midfielder,Centre,1
+José Izquierdo,Attacking Midfielder (Left),171.0,73.0,Brighton,Midfielder,Left,1
+Memphis Depay,"Attacking Midfielder (Centre, Left)",176.0,78.0,Lyon,Midfielder,Centre,2
+Ander Iturraspe,Midfielder (Centre),187.0,78.0,Athletic Bilbao,Midfielder,Centre,1
+Dennis Hadzikadunic,Defender (Centre),186.0,81.0,FC Rostov,Defender,Centre,1
+Christian Atsu,"Attacking Midfielder (Centre, Left, Right)",165.0,65.0,Newcastle United,Midfielder,Centre,3
+Kevin Mirallas,"Midfielder (Centre, Left, Right)",182.0,72.0,Fiorentina,Midfielder,Centre,3
+Angelo Fulgini,"Attacking Midfielder (Centre, Right)",183.0,71.0,Angers,Midfielder,Centre,2
+Adam Marusic,Midfielder (Right),185.0,76.0,Lazio,Midfielder,Right,1
+Rodrigo Becão,Defender (Centre),191.0,79.0,CSKA Moscow,Defender,Centre,1
+Patrik Gunnarsson,Goalkeeper,176.82833333333335,72.9825,Brentford,Goalkeeper,None,1
+Mattias Bjärsmyr,Defender (Centre),186.0,84.0,Sivasspor,Defender,Centre,1
+Stefan Radu,"Defender (Centre, Left)",183.0,79.0,Lazio,Defender,Centre,2
+Evgeny Kharin,Midfielder,183.0,72.0,FK Akhmat,Midfielder,None,1
+Edwar López,Forward,179.0,73.0,Estudiantes,Forward,None,1
+Eduard Campabadal,Defender (Right),176.0,76.0,Lugo,Defender,Right,1
+Konstantin Pliev,Defender,180.0,69.0,FC Rostov,Defender,None,1
+Richard Smallwood,Defensive Midfielder (C),180.0,72.0,Blackburn,Defensive Midfielder,None,1
+Jordy Clasie,Defensive Midfielder (C),169.0,66.0,Feyenoord,Defensive Midfielder,None,1
+Adama Traoré,Attacking Midfielder (Right),178.0,72.0,Wolverhampton Wanderers,Midfielder,Right,1
+Serge Aurier,"Defender (Centre, Left, Right)",176.0,76.0,Tottenham,Defender,Centre,3
+Héctor Bellerín,Defender (Right),178.0,74.0,Arsenal,Defender,Right,1
+Andrés Lioi,Attacking Midfielder (Right),175.0,72.9825,Rosario Central,Midfielder,Right,1
+Jan-Arie van der Heijden,Defender (Centre),185.0,76.0,Feyenoord,Defender,Centre,1
+Mahmut Tekdemir,Defender (Centre),178.0,72.0,Istanbul Basaksehir,Defender,Centre,1
+Almamy Touré,"Defender (Centre, Right)",183.0,72.0,Eintracht Frankfurt,Defender,Centre,2
+Jack Lankester,Forward,176.82833333333335,72.9825,Ipswich,Forward,None,1
+Bressan,Defender (Centre),182.0,74.0,FC Dallas,Defender,Centre,1
+Brandt Bronico,Defensive Midfielder (C),176.0,70.0,Chicago Fire,Defensive Midfielder,None,1
+Andrés Rentería,Forward,179.0,79.0,San Lorenzo,Forward,None,1
+Erik Durm,"Defender (Left, Right)",183.0,72.0,Huddersfield,Defender,Left,2
+Maciej Rybus,Defender (Left),173.0,75.0,Lokomotiv Moscow,Defender,Left,1
+Kevin Stewart,Defensive Midfielder (C),181.0,73.0,Hull,Defensive Midfielder,None,1
+Olamide Shodipo,Attacking Midfielder (Left),176.0,72.9825,Queens Park Rangers,Midfielder,Left,1
+Daniel Steininger,Forward,187.0,79.0,Greuther Fuerth,Forward,None,1
+Georgy Schennikov,Defender (Left),180.0,75.0,CSKA Moscow,Defender,Left,1
+Ben Wiles,Midfielder (Centre),175.0,66.0,Rotherham,Midfielder,Centre,1
+Bruno Fernandes,"Midfielder (Centre, Left, Right)",179.0,69.0,Sporting CP,Midfielder,Centre,3
+Kelyn Rowe,Defender (Left),173.0,69.0,Sporting Kansas City,Defender,Left,1
+Luca Siligardi,"Attacking Midfielder (Left, Right)",180.0,72.0,Parma Calcio 1913,Midfielder,Left,2
+Alexander Rossipal,Defender,184.0,78.0,Sandhausen,Defender,None,1
+Jubal,Defender (Centre),190.0,79.0,Boavista,Defender,Centre,1
+Vukasin Jovanovic,Defender (Centre),189.0,88.0,Bordeaux,Defender,Centre,1
+David Atanga,Attacking Midfielder (Right),180.0,65.0,Greuther Fuerth,Midfielder,Right,1
+Davinson Sánchez,Defender (Centre),187.0,81.0,Tottenham,Defender,Centre,1
+Daan Klomp,Defender (Centre),187.0,82.0,NAC Breda,Defender,Centre,1
+Rodrigo Arciero,Defender (Right),181.0,77.0,Banfield,Defender,Right,1
+Mauricio Pereyra,"Midfielder (Centre, Left, Right)",170.0,63.0,FC Krasnodar,Midfielder,Centre,3
+Johannes Flum,Defender (Centre),190.0,82.0,St. Pauli,Defender,Centre,1
+Josh Tymon,Defender (Left),178.0,74.0,Stoke,Defender,Left,1
+Ali Adnan,Defender (Left),185.0,85.0,Vancouver Whitecaps,Defender,Left,1
+Kwadwo Asamoah,Defender (Left),173.0,75.0,Inter,Defender,Left,1
+Lukas Fröde,Defensive Midfielder (C),192.0,85.0,Duisburg,Defensive Midfielder,None,1
+Matthias Verreth,Forward,182.0,81.0,PSV Eindhoven,Forward,None,1
+Tom Barlow,Forward,188.0,84.0,New York Red Bulls,Forward,None,1
+Mauricio Toni,Defender,185.0,77.0,Talleres,Defender,None,1
+Waldemar Sobota,"Attacking Midfielder (Centre, Left, Right)",175.0,63.0,St. Pauli,Midfielder,Centre,3
+Ilya Abaev,Goalkeeper,193.0,90.0,FC Rostov,Goalkeeper,None,1
+Adam Armstrong,"Attacking Midfielder (Left, Right)",172.0,69.0,Blackburn,Midfielder,Left,2
+Michael Frey,Forward,188.0,86.0,Fenerbahce,Forward,None,1
+Enzo Loiodice,Defensive Midfielder (C),176.0,60.0,Dijon,Defensive Midfielder,None,1
+Gaël Clichy,Defender (Left),176.0,65.0,Istanbul Basaksehir,Defender,Left,1
+Jackson Irvine,"Midfielder (Centre, Left)",189.0,70.0,Hull,Midfielder,Centre,2
+João Lopes,Goalkeeper,188.0,83.0,Santa Clara,Goalkeeper,None,1
+Bram Nuytinck,Defender (Centre),190.0,80.0,Udinese,Defender,Centre,1
+Tin Jedvaj,"Defender (Centre, Left, Right)",184.0,82.0,Bayer Leverkusen,Defender,Centre,3
+Claudio Spinelli,Forward,176.82833333333335,72.9825,Argentinos Juniors,Forward,None,1
+Carraça,Defender (Right),177.0,74.0,Boavista,Defender,Right,1
+Kikas,Forward,177.0,71.0,Belenenses SAD,Forward,None,1
+Atakan Akkaynak,Midfielder (Centre),180.0,73.0,Willem II,Midfielder,Centre,1
+Luca Zidane,Goalkeeper,183.0,77.0,Real Madrid,Goalkeeper,None,1
+Dario Melnjak,Defender (Left),180.0,72.9825,Rizespor,Defender,Left,1
+James McClean,"Midfielder (Centre, Left, Right)",180.0,70.0,Stoke,Midfielder,Centre,3
+Joaquín Correa,"Attacking Midfielder (Centre, Left)",189.0,75.0,Lazio,Midfielder,Centre,2
+Rubén Rochina,"Midfielder (Centre, Left, Right)",182.0,76.0,Levante,Midfielder,Centre,3
+Benjamin Pavard,"Defender (Centre, Right)",186.0,76.0,VfB Stuttgart,Defender,Centre,2
+Thomas Bruns,"Attacking Midfielder (Centre, Left)",177.0,69.0,FC Groningen,Midfielder,Centre,2
+Chadrac Akolo,Attacking Midfielder (Centre),172.0,72.0,VfB Stuttgart,Midfielder,Centre,1
+Chris Mepham,Defender (Centre),191.0,84.0,Bournemouth,Defender,Centre,1
+Papy Djilobodji,Defender (Centre),193.0,82.0,Guingamp,Defender,Centre,1
+Michael de Leeuw,"Attacking Midfielder (Centre, Left, Right)",178.0,67.0,FC Emmen,Midfielder,Centre,3
+Gonzalo Asis,Defender,174.0,65.0,Independiente,Defender,None,1
+Borja Valle,Midfielder,177.0,74.0,Deportivo La Coruna,Midfielder,None,1
+Felix Platte,Forward,190.0,90.0,Darmstadt,Forward,None,1
+Pol Llonch,Midfielder (Centre),171.0,70.0,Willem II,Midfielder,Centre,1
+Callum Elder,Defender (Left),180.0,67.0,Ipswich,Defender,Left,1
+Abel Hernández,Forward,185.0,70.0,CSKA Moscow,Forward,None,1
+João Novais,"Attacking Midfielder (Centre, Left, Right)",179.0,72.0,Braga,Midfielder,Centre,3
+Charles,Defensive Midfielder (C),173.0,72.0,Antalyaspor,Defensive Midfielder,None,1
+Jozabed Sánchez,Midfielder (Centre),180.0,65.0,Celta Vigo,Midfielder,Centre,1
+Marcelo,Defender (Centre),182.0,74.0,Chicago Fire,Defender,Centre,1
+Lionel Carole,Defender (Left),178.0,79.0,Strasbourg,Defender,Left,1
+Fábio Pacheco,Defensive Midfielder (C),180.0,67.0,Moreirense,Defensive Midfielder,None,1
+Sebastian Rode,Defender (Right),179.0,75.0,Eintracht Frankfurt,Defender,Right,1
+Fredy Montero,Attacking Midfielder (Centre),176.0,73.0,Vancouver Whitecaps,Midfielder,Centre,1
+Francesco Magnanelli,Defensive Midfielder (C),181.0,79.0,Sassuolo,Defensive Midfielder,None,1
+Pablo Fornals,"Midfielder (Centre, Left, Right)",178.0,67.0,Villarreal,Midfielder,Centre,3
+Miiko Albornoz,Defender (Left),180.0,80.0,Hannover 96,Defender,Left,1
+Tim van de Berg,Defender,189.0,81.0,Heracles,Defender,None,1
+Maximilian Bauer,Defender,189.0,84.0,Greuther Fuerth,Defender,None,1
+Ryan Williams,"Attacking Midfielder (Centre, Left, Right)",173.0,76.0,Rotherham,Midfielder,Centre,3
+Caner Cavlan,Defender (Left),175.0,70.0,FC Emmen,Defender,Left,1
+Gonzalo Maroni,Attacking Midfielder (Centre),170.0,67.0,Talleres,Midfielder,Centre,1
+Zeki Yavru,Defender (Right),178.0,72.0,Akhisarspor,Defender,Right,1
+Johannes van den Bergh,Defender (Left),183.0,75.0,Holstein Kiel,Defender,Left,1
+Nicolás Linares,Defensive Midfielder (C),175.0,72.0,Banfield,Defensive Midfielder,None,1
+Roberto Piccoli,Forward,176.82833333333335,72.9825,Atalanta,Forward,None,1
+Jimmy Briand,"Midfielder (Left, Right)",181.0,84.0,Bordeaux,Midfielder,Left,2
+Justen Glad,Defender (Centre),183.0,66.0,Real Salt Lake,Defender,Centre,1
+Semi Ajayi,Defender (Centre),193.0,83.0,Rotherham,Defender,Centre,1
+Kike Márquez,Forward,176.0,72.0,Extremadura,Forward,None,1
+James Chester,"Defender (Centre, Left, Right)",177.0,75.0,Aston Villa,Defender,Centre,3
+Ben Alnwick,Goalkeeper,188.0,81.0,Bolton,Goalkeeper,None,1
+Hassane Kamara,Defender (Left),168.0,67.0,Reims,Defender,Left,1
+Joe Mattock,Defender (Left),181.0,78.0,Rotherham,Defender,Left,1
+Emil Krafth,Defender (Right),184.0,83.0,Amiens,Defender,Right,1
+Cyrus Christie,Defender (Right),188.0,78.0,Fulham,Defender,Right,1
+Carlos Pita,Midfielder,185.0,84.0,Lugo,Midfielder,None,1
+Nicolás Schiappacasse,Forward,180.0,73.0,Parma Calcio 1913,Forward,None,1
+Tolgay Arslan,Midfielder (Centre),180.0,77.0,Fenerbahce,Midfielder,Centre,1
+Tobias Reithmeir,Defender,190.0,87.0,FC Heidenheim,Defender,None,1
+Sean Klaiber,Defender (Right),184.0,77.0,FC Utrecht,Defender,Right,1
+Jannik Pohl,Forward,183.0,77.0,FC Groningen,Forward,None,1
+Gastón Campi,"Defender (Centre, Left)",192.0,80.0,Chaves,Defender,Centre,2
+Jasmin Kurtic,"Midfielder (Centre, Left)",186.0,88.0,SPAL 2013,Midfielder,Centre,2
+Matheus Reis,Defender (Left),184.0,79.0,Rio Ave,Defender,Left,1
+Federico Mattiello,"Midfielder (Left, Right)",182.0,73.0,Bologna,Midfielder,Left,2
+Miles Robinson,Defender (Centre),188.0,84.0,Atlanta United,Defender,Centre,1
+José Luis Palomino,Defender (Centre),190.0,78.0,Atalanta,Defender,Centre,1
+Nathaniel Clyne,Defender (Right),175.0,67.0,Bournemouth,Defender,Right,1
+Francesco Acerbi,Defender (Centre),192.0,88.0,Lazio,Defender,Centre,1
+Tim Chow,Midfielder (Centre),180.0,72.0,Henan Jianye,Midfielder,Centre,1
+Cole Skuse,Defensive Midfielder (C),185.0,72.0,Ipswich,Defensive Midfielder,None,1
+Daniel Lasure,Defender,176.0,72.0,Real Zaragoza,Defender,None,1
+Sergi Palencia,Defender (Right),172.0,69.0,Bordeaux,Defender,Right,1
+Kevin Vázquez,Defender,173.0,72.0,Celta Vigo,Defender,None,1
+Raphael Framberger,Defender (Right),179.0,73.0,Augsburg,Defender,Right,1
+Anton Belov,Defender,191.0,81.0,Anzhi Makhachkala,Defender,None,1
+Nélson Semedo,Defender (Right),177.0,67.0,Barcelona,Defender,Right,1
+André-Frank Zambo Anguissa,Defensive Midfielder (C),184.0,78.0,Fulham,Defensive Midfielder,None,1
+Marc-Aurèle Caillard,Goalkeeper,191.0,87.0,Guingamp,Goalkeeper,None,1
+Arturo Vidal,Midfielder (Centre),180.0,75.0,Barcelona,Midfielder,Centre,1
+Luciano Abecasis,Defender (Right),175.0,73.0,Godoy Cruz,Defender,Right,1
+Alexis Maldonado,Defender (Centre),188.0,86.0,Banfield,Defender,Centre,1
+Filip Kusic,Defender (Centre),187.0,78.0,Erzgebirge Aue,Defender,Centre,1
+Laurent Depoitre,Forward,191.0,91.0,Huddersfield,Forward,None,1
+Michel Vorm,Goalkeeper,183.0,84.0,Tottenham,Goalkeeper,None,1
+Theodor Gebre Selassie,"Defender (Left, Right)",181.0,71.0,Werder Bremen,Defender,Left,2
+Vladimir Poluyakhtov,Defender (Left),180.0,78.0,Krylya Sovetov Samara,Defender,Left,1
+Oussama Tannane,"Attacking Midfielder (Left, Right)",177.0,80.0,FC Utrecht,Midfielder,Left,2
+Dusan Vlahovic,Forward,190.0,75.0,Fiorentina,Forward,None,1
+Diego Lainez,Midfielder,167.0,58.0,Real Betis,Midfielder,None,1
+Thomas Amilivia,Midfielder,178.0,75.0,Argentinos Juniors,Midfielder,None,1
+Stefan Posch,Defender (Centre),188.0,76.0,Hoffenheim,Defender,Centre,1
+Agustín Allione,"Attacking Midfielder (Centre, Left, Right)",169.0,69.0,Rosario Central,Midfielder,Centre,3
+Romain Métanire,Defender (Right),178.0,72.0,Minnesota United,Defender,Right,1
+Nahitan Nández,Defensive Midfielder (C),172.0,70.0,Boca Juniors,Defensive Midfielder,None,1
+Jake Livermore,Defender (Centre),181.0,91.0,West Bromwich Albion,Defender,Centre,1
+Paolo Goltz,Defender (Centre),183.0,80.0,Boca Juniors,Defender,Centre,1
+Aleksandar Katai,"Attacking Midfielder (Centre, Left, Right)",182.0,70.0,Chicago Fire,Midfielder,Centre,3
+Oumar Niasse,Forward,182.0,75.0,Cardiff,Forward,None,1
+Aymen Barkok,Attacking Midfielder (Centre),188.0,75.0,Fortuna Duesseldorf,Midfielder,Centre,1
+Filip Djuricic,"Attacking Midfielder (Centre, Left, Right)",176.0,69.0,Sassuolo,Midfielder,Centre,3
+Klaus Gjasula,Defensive Midfielder (C),192.0,84.0,Paderborn,Defensive Midfielder,None,1
+Benjamin Mendy,Defender (Left),185.0,85.0,ManCity,Defender,Left,1
+Luciano Slagveer,Attacking Midfielder (Right),178.0,74.0,FC Emmen,Midfielder,Right,1
+Marc Muniesa,"Defender (Centre, Left)",179.0,72.0,Girona,Defender,Centre,2
+Lechii Sadulaev,Midfielder,178.0,65.0,FK Akhmat,Midfielder,None,1
+Kenedy,Defender (Left),182.0,77.0,Newcastle United,Defender,Left,1
+Melvyn Lorenzen,Attacking Midfielder (Left),188.0,86.0,ADO Den Haag,Midfielder,Left,1
+Manu García,Defensive Midfielder (C),182.0,74.0,Deportivo Alaves,Defensive Midfielder,None,1
+Leon Musaev,Midfielder,182.0,73.0,Zenit St. Petersburg,Midfielder,None,1
+Denis Glushakov,Midfielder (Centre),182.0,80.0,Spartak Moscow,Midfielder,Centre,1
+Tiago Mesquita,Defender (Right),178.0,77.0,Feirense,Defender,Right,1
+Murat Yildirim,Midfielder (Centre),171.0,68.0,Yeni Malatyaspor,Midfielder,Centre,1
+José Adolfo Valencia,Attacking Midfielder (Right),186.0,82.0,Feirense,Midfielder,Right,1
+Filippo Costa,Midfielder (Left),175.0,70.0,SPAL 2013,Midfielder,Left,1
+Marcel Schmelzer,"Defender (Centre, Left)",180.0,74.0,Borussia Dortmund,Defender,Centre,2
+Jean-Kévin Augustin,Attacking Midfielder (Right),177.0,69.0,RasenBallsport Leipzig,Midfielder,Right,1
+Cheikh M'Bengue,"Defender (Centre, Left)",182.0,79.0,Shenzhen FC,Defender,Centre,2
+Jonathan Sandoval,Defender (Right),179.0,76.0,Argentinos Juniors,Defender,Right,1
+Luciano Vietto,Attacking Midfielder (Right),174.0,69.0,Fulham,Midfielder,Right,1
+Ivan Radovanovic,Defensive Midfielder (C),186.0,80.0,Genoa,Defensive Midfielder,None,1
+Nicklas Pedersen,Forward,187.0,76.0,FC Emmen,Forward,None,1
+Alfie Mawson,Defender (Centre),188.0,81.0,Fulham,Defender,Centre,1
+Enzo Kalinski,Defensive Midfielder (C),182.0,73.0,Estudiantes,Defensive Midfielder,None,1
+Reece Burke,"Defender (Centre, Right)",189.0,81.0,Hull,Defender,Centre,2
+Yuri Nesterenko,Goalkeeper,189.0,85.0,FC Yenisey Krasnoyarsk,Goalkeeper,None,1
+Daniel Bentley,Goalkeeper,188.0,72.0,Brentford,Goalkeeper,None,1
+Manuel Fernandes,"Midfielder (Centre, Left)",176.0,75.0,Lokomotiv Moscow,Midfielder,Centre,2
+Federico Marchetti,Goalkeeper,188.0,76.0,Genoa,Goalkeeper,None,1
+Willian José,Forward,189.0,93.0,Real Sociedad,Forward,None,1
+Elías Gómez,Defender (Left),180.0,82.0,Argentinos Juniors,Defender,Left,1
+Manu Barreiro,Forward,191.0,81.0,Lugo,Forward,None,1
+Oliver Norwood,Midfielder (Centre),180.0,75.0,Sheffield United,Midfielder,Centre,1
+Eric Alexander,"Midfielder (Centre, Left, Right)",186.0,75.0,FC Cincinnati,Midfielder,Centre,3
+Mevlüt Erdinc,Forward,181.0,85.0,Antalyaspor,Forward,None,1
+Takashi Usami,"Attacking Midfielder (Left, Right)",178.0,77.0,Fortuna Duesseldorf,Midfielder,Left,2
+Lucas Woudenberg,Defender (Left),186.0,70.0,SC Heerenveen,Defender,Left,1
+Jonas Knudsen,"Defender (Centre, Left)",185.0,72.0,Ipswich,Defender,Centre,2
+Caleb Stanko,Midfielder,180.0,81.0,FC Cincinnati,Midfielder,None,1
+Carlos Ponck,Defender (Centre),183.0,84.0,Aves,Defender,Centre,1
+Dairon Asprilla,"Attacking Midfielder (Left, Right)",178.0,70.0,Portland Timbers,Midfielder,Left,2
+Lucas Moura,"Attacking Midfielder (Centre, Left, Right)",172.0,72.0,Tottenham,Midfielder,Centre,3
+Andrew Surman,"Midfielder (Centre, Left)",178.0,73.0,Bournemouth,Midfielder,Centre,2
+Robin Koch,Defender (Centre),192.0,85.0,Freiburg,Defender,Centre,1
+Viktor Vasin,Defender (Centre),192.0,83.0,CSKA Moscow,Defender,Centre,1
+Lucas Melano,"Attacking Midfielder (Left, Right)",170.0,71.0,Portland Timbers,Midfielder,Left,2
+Grzegorz Krychowiak,Defender (Centre),186.0,83.0,Lokomotiv Moscow,Defender,Centre,1
+Iago Herrerín,Goalkeeper,187.0,88.0,Athletic Bilbao,Goalkeeper,None,1
+Mikhail Lysov,Defender (Left),182.0,72.0,Lokomotiv Moscow,Defender,Left,1
+Ben Thompson,Attacking Midfielder (Centre),180.0,72.9825,Millwall,Midfielder,Centre,1
+Joe Bryan,Defender (Left),170.0,72.0,Fulham,Defender,Left,1
+Brian Rowe,Goalkeeper,183.0,84.0,Orlando City,Goalkeeper,None,1
+Matt Crooks,Midfielder (Centre),183.0,72.0,Rotherham,Midfielder,Centre,1
+Ömer Sismanoglu,Attacking Midfielder (Centre),186.0,77.0,Yeni Malatyaspor,Midfielder,Centre,1
+Kirill Panchenko,"Attacking Midfielder (Centre, Left)",185.0,80.0,Dinamo Moscow,Midfielder,Centre,2
+Delano van Crooij,Goalkeeper,185.0,75.0,VVV-Venlo,Goalkeeper,None,1
+Hilal Ben Moussa,Defensive Midfielder (C),180.0,74.0,FC Emmen,Defensive Midfielder,None,1
+Tyler Adams,"Midfielder (Centre, Right)",176.0,68.0,RasenBallsport Leipzig,Midfielder,Centre,2
+Henk Veerman,Forward,201.0,90.0,St. Pauli,Forward,None,1
+Hakan Özmert,Midfielder (Centre),178.0,76.0,Antalyaspor,Midfielder,Centre,1
+Eric Remedi,Defensive Midfielder (C),169.0,72.0,Atlanta United,Defensive Midfielder,None,1
+Aníbal Godoy,Defensive Midfielder (C),180.0,72.0,San Jose Earthquakes,Defensive Midfielder,None,1
+Alper Potuk,"Attacking Midfielder (Centre, Left, Right)",181.0,70.0,Fenerbahce,Midfielder,Centre,3
+Cristian Martínez,"Attacking Midfielder (Left, Right)",170.0,79.0,Chicago Fire,Midfielder,Left,2
+Mihail Levashov,Goalkeeper,190.0,85.0,Arsenal Tula,Goalkeeper,None,1
+Washington Camacho,"Midfielder (Centre, Left, Right)",177.0,73.0,Rosario Central,Midfielder,Centre,3
+Yvon Mvogo,Goalkeeper,190.0,90.0,RasenBallsport Leipzig,Goalkeeper,None,1
+Rafael Crivellaro,Attacking Midfielder (Centre),183.0,79.0,Feirense,Midfielder,Centre,1
+Christopher Handke,Defender (Centre),191.0,85.0,Magdeburg,Defender,Centre,1
+Jamilu Collins,Defender (Left),178.0,76.0,Paderborn,Defender,Left,1
+Florian Baak,Defender,191.0,90.0,Hertha Berlin,Defender,None,1
+Alex Akande,Forward,182.0,77.0,Dalian Yifang,Forward,None,1
+Aytac Kara,Midfielder (Centre),188.0,81.0,Bursaspor,Midfielder,Centre,1
+Özer Hurmaci,"Midfielder (Centre, Left, Right)",176.0,70.0,Sivasspor,Midfielder,Centre,3
+Malcom,"Attacking Midfielder (Centre, Left, Right)",172.0,74.0,Barcelona,Midfielder,Centre,3
+Brad Smith,Defender (Left),178.0,70.0,Seattle Sounders FC,Defender,Left,1
+Saad Abdul-Salaam,Defender (Right),193.0,84.0,Seattle Sounders FC,Defender,Right,1
+Ibrahima Cissé,Midfielder (Centre),184.0,82.0,Fulham,Midfielder,Centre,1
+Gavin Massey,Attacking Midfielder (Right),177.0,80.0,Wigan,Midfielder,Right,1
+Konrad Laimer,Defender (Right),180.0,72.0,RasenBallsport Leipzig,Defender,Right,1
+Aleksey Gritsaenko,Defender (Centre),186.0,80.0,FC Yenisey Krasnoyarsk,Defender,Centre,1
+Artem Golubev,Midfielder,181.0,70.0,FC Krasnodar,Midfielder,None,1
+Jack Price,Defensive Midfielder (C),191.0,87.0,Colorado Rapids,Defensive Midfielder,None,1
+Michael Ihiekwe,Defender (Centre),185.0,80.0,Rotherham,Defender,Centre,1
+Adrián Dalmau,Forward,181.0,74.0,Heracles,Forward,None,1
+Matías Vecino,Midfielder (Centre),187.0,81.0,Inter,Midfielder,Centre,1
+Enis Bardhi,"Attacking Midfielder (Centre, Left)",172.0,67.0,Levante,Midfielder,Centre,2
+Chechu Dorado,Defender (Centre),180.0,70.0,Real Zaragoza,Defender,Centre,1
+Mikel Merino,Midfielder (Centre),188.0,83.0,Real Sociedad,Midfielder,Centre,1
+Johannes Wurtz,Midfielder (Centre),182.0,76.0,Darmstadt,Midfielder,Centre,1
+Sebastián Villa,Attacking Midfielder (Right),178.0,65.0,Boca Juniors,Midfielder,Right,1
+Michael Ratajczak,Goalkeeper,189.0,85.0,Paderborn,Goalkeeper,None,1
+Mbilla Etame,"Attacking Midfielder (Left, Right)",180.0,77.0,Alanyaspor,Midfielder,Left,2
+Josh Vela,Defender (Right),181.0,73.0,Bolton,Defender,Right,1
+Vladislav Ignatjev,Defender (Right),180.0,72.0,Lokomotiv Moscow,Defender,Right,1
+Makhete Diop,Forward,188.0,72.9825,Beijing Renhe,Forward,None,1
+Leandro Sapetti,Defender (Left),176.0,71.0,Aldosivi,Defender,Left,1
+Ferhat Öztorun,Defender (Left),176.0,73.0,Konyaspor,Defender,Left,1
+Santi Mina,"Attacking Midfielder (Left, Right)",181.0,77.0,Valencia,Midfielder,Left,2
+Calvin Verdonk,Defender (Left),174.0,67.0,Feyenoord,Defender,Left,1
+Hassani Dotson,Midfielder,180.0,77.0,Minnesota United,Midfielder,None,1
+Mike te Wierik,"Defender (Centre, Right)",191.0,73.0,FC Groningen,Defender,Centre,2
+Víctor Cabrera,Defender (Centre),179.0,80.0,Montreal Impact,Defender,Centre,1
+Matteo Scozzarella,Midfielder (Centre),170.0,65.0,Parma Calcio 1913,Midfielder,Centre,1
+Ryan Bennett,Defender (Centre),188.0,70.0,Wolverhampton Wanderers,Defender,Centre,1
+Mads Bech Sörensen,Defender (Centre),176.82833333333335,72.9825,Brentford,Defender,Centre,1
+Oliver Baumann,Goalkeeper,187.0,82.0,Hoffenheim,Goalkeeper,None,1
+Ogenyi Onazi,Defensive Midfielder (C),173.0,73.0,Trabzonspor,Defensive Midfielder,None,1
+Baptiste Santamaría,Defensive Midfielder (C),183.0,73.0,Angers,Defensive Midfielder,None,1
+Fede Vico,Midfielder,176.0,70.0,Granada,Midfielder,None,1
+João Camacho,"Attacking Midfielder (Left, Right)",174.0,70.0,Nacional,Midfielder,Left,2
+Arkadiusz Milik,Forward,186.0,78.0,Napoli,Forward,None,1
+João Palhinha,Defensive Midfielder (C),189.0,82.0,Braga,Defensive Midfielder,None,1
+Karl Toko Ekambi,Attacking Midfielder (Left),185.0,74.0,Villarreal,Midfielder,Left,1
+Bilal Kisa,Midfielder (Centre),180.0,71.0,Akhisarspor,Midfielder,Centre,1
+Rudy Gestede,Forward,193.0,86.0,Middlesbrough,Forward,None,1
+Lucas Olaza,Defender (Left),173.0,68.0,Celta Vigo,Defender,Left,1
+Vítor Bruno,Defender (Left),171.0,65.0,Feirense,Defender,Left,1
+Otávio,Defensive Midfielder (C),176.0,73.0,Bordeaux,Defensive Midfielder,None,1
+Cristian Borja,Defender (Left),178.0,70.0,Sporting CP,Defender,Left,1
+Ollie Watkins,"Attacking Midfielder (Left, Right)",180.0,72.9825,Brentford,Midfielder,Left,2
+Leandro Paredes,Defensive Midfielder (C),180.0,75.0,Zenit St. Petersburg,Defensive Midfielder,None,1
+Duván Vergara,Forward,173.0,72.0,Rosario Central,Forward,None,1
+Dmitri Kombarov,Defender (Left),181.0,73.0,Spartak Moscow,Defender,Left,1
+Fernando Monetti,Goalkeeper,184.0,78.0,San Lorenzo,Goalkeeper,None,1
+Bastos,Defender (Centre),184.0,77.0,Lazio,Defender,Centre,1
+Daniel Carvajal,Defender (Right),173.0,73.0,Real Madrid,Defender,Right,1
+Abduhamit Abdugheni,Midfielder,185.0,75.0,Jiangsu Suning FC,Midfielder,None,1
+Ceyhun Gülselam,Midfielder (Centre),192.0,88.0,Alanyaspor,Midfielder,Centre,1
+Lorenzo De Silvestri,Defender (Right),186.0,84.0,Torino,Defender,Right,1
+Kevin Müller,Goalkeeper,190.0,90.0,FC Heidenheim,Goalkeeper,None,1
+Facundo Roncaglia,"Defender (Centre, Left, Right)",179.0,76.0,Valencia,Defender,Centre,3
+Dominic Calvert-Lewin,Attacking Midfielder (Left),176.0,71.0,Everton,Midfielder,Left,1
+Remi Matthews,Goalkeeper,184.0,78.0,Bolton,Goalkeeper,None,1
+Nayef Aguerd,Defender (Centre),188.0,76.0,Dijon,Defender,Centre,1
+Billy Jones,"Defender (Centre, Left, Right)",181.0,77.0,Rotherham,Defender,Centre,3
+Wilfried Kanga,Forward,185.0,76.0,Angers,Forward,None,1
+Filipe Melo,Defensive Midfielder (C),189.0,82.0,Chaves,Defensive Midfielder,None,1
+Mike Maignan,Goalkeeper,191.0,89.0,Lille,Goalkeeper,None,1
+Nicky Medja Beloko,Midfielder,177.0,65.0,Fiorentina,Midfielder,None,1
+Riccardo Meggiorini,Forward,182.0,76.0,Chievo,Forward,None,1
+Karim Benzema,Forward,185.0,81.0,Real Madrid,Forward,None,1
+Emmanuel Más,Defender (Left),180.0,73.0,Boca Juniors,Defender,Left,1
+Damian Szymanski,Midfielder (Centre),181.0,70.0,FK Akhmat,Midfielder,Centre,1
+Diego Mercado,Midfielder,170.0,71.0,Independiente,Midfielder,None,1
+Bernardo,"Defender (Left, Right)",186.0,76.0,Brighton,Defender,Left,2
+Emanuel Taffertshofer,Defensive Midfielder (C),175.0,71.0,Sandhausen,Defensive Midfielder,None,1
+Mathias Jensen,Midfielder,173.0,68.0,Celta Vigo,Midfielder,None,1
+Edin Visca,"Attacking Midfielder (Left, Right)",172.0,67.0,Istanbul Basaksehir,Midfielder,Left,2
+Ramón Azeez,Midfielder (Centre),169.0,67.0,Granada,Midfielder,Centre,1
+Cris,Defensive Midfielder (C),175.0,70.0,Feirense,Defensive Midfielder,None,1
+Luke Steele,Goalkeeper,188.0,76.0,Nottingham Forest,Goalkeeper,None,1
+Niklas Moisander,Defender (Centre),183.0,75.0,Werder Bremen,Defender,Centre,1
+Abdoulaye Diaby,"Attacking Midfielder (Left, Right)",173.0,71.0,Sporting CP,Midfielder,Left,2
+Dmitriy Stotskiy,"Defender (Left, Right)",171.0,63.0,FC Krasnodar,Defender,Left,2
+Mats Hummels,Defender (Centre),191.0,92.0,Bayern Munich,Defender,Centre,1
+Wes Hoolahan,"Attacking Midfielder (Centre, Left, Right)",168.0,71.0,West Bromwich Albion,Midfielder,Centre,3
+Michael Breij,Forward,181.0,72.0,FC Groningen,Forward,None,1
+Matías Romero,Midfielder (Centre),176.0,73.0,Argentinos Juniors,Midfielder,Centre,1
+Mike Havekotte,Goalkeeper,184.0,80.0,ADO Den Haag,Goalkeeper,None,1
+Toni Prats,Goalkeeper,185.0,85.0,Mallorca,Goalkeeper,None,1
+Nejc Skubic,Defender (Right),178.0,75.0,Konyaspor,Defender,Right,1
+Jordan Harvey,Defender (Left),181.0,78.0,Los Angeles FC,Defender,Left,1
+Thomas Monconduit,Defensive Midfielder (C),184.0,83.0,Amiens,Defensive Midfielder,None,1
+Nordi Mukiele,"Defender (Centre, Right)",185.0,74.0,RasenBallsport Leipzig,Defender,Centre,2
+Jeremiah Gutjahr,Defender (Left),178.0,73.0,Chicago Fire,Defender,Left,1
+Pol Lirola,Defender (Right),183.0,70.0,Sassuolo,Defender,Right,1
+Bekim Balaj,Forward,188.0,78.0,FK Akhmat,Forward,None,1
+Diego Demme,Defensive Midfielder (C),170.0,68.0,RasenBallsport Leipzig,Defensive Midfielder,None,1
+Edgar Prib,Defender (Left),180.0,77.0,Hannover 96,Defender,Left,1
+Toni Kroos,Midfielder (Centre),183.0,76.0,Real Madrid,Midfielder,Centre,1
+Wilfrid Kaptoum,Midfielder (Centre),174.0,72.0,Real Betis,Midfielder,Centre,1
+Alhassane Keita,Forward,183.0,78.0,Belenenses SAD,Forward,None,1
+Sokratis,"Defender (Centre, Right)",186.0,85.0,Arsenal,Defender,Centre,2
+Radosav Petrovic,Midfielder (Centre),193.0,83.0,Sporting CP,Midfielder,Centre,1
+Kevin Mac Allister,"Defender (Left, Right)",175.0,72.0,Boca Juniors,Defender,Left,2
+Tim Skarke,Attacking Midfielder (Right),179.0,70.0,FC Heidenheim,Midfielder,Right,1
+Fernando Godoy,Defensive Midfielder (C),172.0,70.0,Aldosivi,Defensive Midfielder,None,1
+Ismail Köybasi,"Defender (Left, Right)",177.0,75.0,Fenerbahce,Defender,Left,2
+Ola Kamara,Attacking Midfielder (Left),184.0,81.0,Shenzhen FC,Midfielder,Left,1
+George Byers,Midfielder (Centre),180.0,73.0,Swansea,Midfielder,Centre,1
+Roland Sallai,Attacking Midfielder (Left),183.0,77.0,Freiburg,Midfielder,Left,1
+Tyrone Mears,Defender (Right),181.0,74.0,West Bromwich Albion,Defender,Right,1
+Víctor Laguardia,Defender (Centre),185.0,80.0,Deportivo Alaves,Defender,Centre,1
+Alexander González,Defender,185.0,75.0,Elche,Defender,None,1
+Serkan Kirintili,Goalkeeper,185.0,78.0,Konyaspor,Goalkeeper,None,1
+Emiliano Moretti,"Defender (Centre, Left)",185.0,80.0,Torino,Defender,Centre,2
+Chung-Yong Lee,"Midfielder (Centre, Left, Right)",180.0,70.0,Bochum,Midfielder,Centre,3
+Daniel Butterworth,Forward,176.82833333333335,72.9825,Blackburn,Forward,None,1
+Shamit Shome,Midfielder (Centre),175.0,69.0,Montreal Impact,Midfielder,Centre,1
+Michael Barrios,"Attacking Midfielder (Left, Right)",163.0,61.0,FC Dallas,Midfielder,Left,2
+Jimmy Durmaz,"Attacking Midfielder (Centre, Left, Right)",180.0,69.0,Toulouse,Midfielder,Centre,3
+Vedat Muriqi,Forward,194.0,92.0,Rizespor,Forward,None,1
+Santiago Mosquera,Attacking Midfielder (Left),168.0,70.0,FC Dallas,Midfielder,Left,1
+Raheem Sterling,"Midfielder (Centre, Left, Right)",170.0,69.0,ManCity,Midfielder,Centre,3
+Björn Engels,Defender (Centre),194.0,83.0,Reims,Defender,Centre,1
+Vyacheslav Podberezkin,"Midfielder (Centre, Left, Right)",187.0,76.0,Rubin Kazan,Midfielder,Centre,3
+Senad Lulic,Defender (Left),183.0,75.0,Lazio,Defender,Left,1
+Jimmy Maurer,Goalkeeper,188.0,85.0,FC Dallas,Goalkeeper,None,1
+Jalil Elías,Defensive Midfielder (C),180.0,70.0,Godoy Cruz,Defensive Midfielder,None,1
+Joaquín Varela,Defender (Centre),190.0,72.9825,Godoy Cruz,Defender,Centre,1
+Nicolò Zaniolo,"Attacking Midfielder (Centre, Right)",190.0,79.0,Roma,Midfielder,Centre,2
+Marcelo Miño,Goalkeeper,186.0,72.9825,Rosario Central,Goalkeeper,None,1
+Roy Beerens,"Attacking Midfielder (Centre, Left, Right)",173.0,63.0,Vitesse,Midfielder,Centre,3
+Giannelli Imbula,Midfielder (Centre),186.0,78.0,Rayo Vallecano,Midfielder,Centre,1
+Danil Stepanov,Defender,172.0,68.0,Rubin Kazan,Defender,None,1
+Marcelo Saracchi,Defender (Left),172.0,69.0,RasenBallsport Leipzig,Defender,Left,1
+Ryo Miyaichi,"Midfielder (Left, Right)",183.0,71.0,St. Pauli,Midfielder,Left,2
+Patrik Schick,Attacking Midfielder (Right),186.0,73.0,Roma,Midfielder,Right,1
+Pierluigi Gollini,Goalkeeper,188.0,80.0,Atalanta,Goalkeeper,None,1
+Federico Fazio,Defender (Centre),195.0,85.0,Roma,Defender,Centre,1
+Jay-Roy Grot,"Attacking Midfielder (Left, Right)",193.0,98.0,VVV-Venlo,Midfielder,Left,2
+Matías Kranevitter,Defensive Midfielder (C),178.0,74.0,Zenit St. Petersburg,Defensive Midfielder,None,1
+Andrés Ponce,Forward,182.0,80.0,Anzhi Makhachkala,Forward,None,1
+Denis Odoi,"Defender (Centre, Left, Right)",177.0,72.0,Fulham,Defender,Centre,3
+,,176.82833333333335,72.9825,SPAL 2013,,None,1
+Darren Potter,Defensive Midfielder (C),185.0,72.0,Rotherham,Defensive Midfielder,None,1
+Rúrik Gíslason,"Midfielder (Left, Right)",184.0,80.0,Sandhausen,Midfielder,Left,2
+James Igbekeme,Midfielder,170.0,66.0,Real Zaragoza,Midfielder,None,1
+Erik Lamela,"Attacking Midfielder (Centre, Left, Right)",181.0,79.0,Tottenham,Midfielder,Centre,3
+Pascal Testroet,Forward,185.0,84.0,Erzgebirge Aue,Forward,None,1
+Lorenzo Melgarejo,Defender (Left),171.0,78.0,Spartak Moscow,Defender,Left,1
+Gastón Pereiro,"Attacking Midfielder (Centre, Left, Right)",188.0,76.0,PSV Eindhoven,Midfielder,Centre,3
+Florian Carstens,Defender (Centre),191.0,87.0,St. Pauli,Defender,Centre,1
+Román Martínez,Midfielder (Centre),185.0,74.0,San Lorenzo,Midfielder,Centre,1
+Álex López,Forward,186.0,84.0,Mallorca,Forward,None,1
+Tomás Cardona,Defender (Centre),188.0,80.0,Godoy Cruz,Defender,Centre,1
+George Melkadze,Attacking Midfielder (Left),180.0,77.0,Spartak Moscow,Midfielder,Left,1
+Héctor Verdés,Defender,185.0,80.0,Rayo Majadahonda,Defender,None,1
+Vicente Gómez,Defensive Midfielder (C),187.0,76.0,Deportivo La Coruna,Defensive Midfielder,None,1
+Marcin Kaminski,Defender (Centre),192.0,82.0,Fortuna Duesseldorf,Defender,Centre,1
+Boulaye Dia,Forward,176.82833333333335,72.9825,Reims,Forward,None,1
+Moussa Diaby,Midfielder (Left),170.0,65.0,Paris Saint-Germain,Midfielder,Left,1
+Javier Mascherano,Defender (Centre),174.0,73.0,Hebei CFFC,Defender,Centre,1
+Keinan Davis,Forward,178.0,68.0,Aston Villa,Forward,None,1
+Joe Newell,"Midfielder (Centre, Left)",180.0,71.0,Rotherham,Midfielder,Centre,2
+Saman Ghoddos,Attacking Midfielder (Left),176.0,75.0,Amiens,Midfielder,Left,1
+Anthony Jackson-Hamel,Forward,186.0,82.0,Montreal Impact,Forward,None,1
+Fehmi Mert Günok,Goalkeeper,196.0,76.0,Istanbul Basaksehir,Goalkeeper,None,1
+Diego Capel,Attacking Midfielder (Left),173.0,69.0,Extremadura,Midfielder,Left,1
+Elías Pereyra,Defender (Left),172.0,68.0,San Lorenzo,Defender,Left,1
+Andrea Petagna,Forward,190.0,85.0,SPAL 2013,Forward,None,1
+Agustín Heredia,Defender,192.0,83.0,Godoy Cruz,Defender,None,1
+David Texeira,Forward,183.0,82.0,Moreirense,Forward,None,1
+Karim Rekik,"Defender (Centre, Left)",186.0,84.0,Hertha Berlin,Defender,Centre,2
+Lukas Gugganig,Defender (Centre),191.0,83.0,Greuther Fuerth,Defender,Centre,1
+Laurent Ciman,Defender (Centre),182.0,68.0,Toronto FC,Defender,Centre,1
+Ezequiel Videla,Midfielder (Centre),176.0,73.0,Aldosivi,Midfielder,Centre,1
+Ivan Novoseltsev,"Defender (Centre, Left, Right)",190.0,80.0,Anzhi Makhachkala,Defender,Centre,3
+Sory Kaba,Forward,191.0,80.0,Dijon,Forward,None,1
+Carlos Pomares,Defender,176.82833333333335,72.9825,Extremadura,Defender,None,1

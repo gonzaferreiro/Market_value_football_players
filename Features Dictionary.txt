@@ -1,0 +1,103 @@
+This file contains a detailed description of each one of the variables used in this project:
+
+
+team_clas: String | Categories | Ranking category of the team where the player is right now
+league: String | Categories | League where the player’s team belongs
+height: Numeric | Individual | Height of the player
+weight: Numeric | Individual | Weight of the player
+pos_def : String | Categories | Position of the player in the field
+pref_side: String | Categories | Side of the field preffered for the player
+sides: Numeric | Individual | Number of sides where the player can play
+highest_value: Numeric | Individual | Highest value of their career
+current_log : Numeric | Individual | Log transformation of the player’s current value
+double_trans: Numeric | Individual | Double log transformation of the current value [Not used]
+nat_team_min: Numeric | Individual | Number of minutes played with its national team
+type_agent: String | Categories | Size of the agent of the player
+nat_team_min_pond: Numeric | Individual | Minutes played with te national team according to the international ranking of each country according to the Fifa’s Ranking of Nations
+age_group: String | Categories | Age of the player according to categories from 17 to +35
+days_miss: Numeric | Individual | Number of days missed because of injuries of suspensions
+games_miss: Numeric | Individual | Number of games missed due to injuries of suspensions
+miss_days_per_y: Numeric | Individual | Considering a career start at the age of 17, this ingeneered features shows the number of days missed pero year
+google_res: Numeric | Individual | Number of results of searching in Google the name of each player with the name of the team where he’s playing right now
+tw_index: Numeric | Individual | Index created out of the sentiment expressed out of the last 200 tweets about the player. Being Positive +1, Negative -1 and Netural equal to 0
+last_interception: Numeric | Individual | Stats about last season interceptions
+last_tackles: Numeric | Individual | Stats about last season tackles
+last_fouls: Numeric | Individual | Stats about last season fouls
+last_offsideswon: Numeric | Individual | Stats about last season offisdes won
+last_clearence: Numeric | Individual | Stats about last season clearences
+last_wasdribbled: Numeric | Individual | Stats about last season tackles
+last_blocks: Numeric | Individual | Stats about last season blocks
+last_owngoals: Numeric | Individual | Stats about last season own goals made
+last_keypasses: Numeric | Individual | Stats about last season key passes
+last_dribbles: Numeric | Individual | Stats about last season dribbles
+last_fouled: Numeric | Individual | Stats about last season fouls received
+last_offsidesdone: Numeric | Individual | Stats about last season offsides done
+last_disposeseed: Numeric | Individual | Stats about last season disposeseed ocassions
+last_badcontrol: Numeric | Individual | Stats about last season bad controls
+last_mins: Numeric | Individual | Stats about last season number of minutes played
+last_goals: Numeric | Individual | Stats about last season goals made
+last_assist: Numeric | Individual | Stats about last season assistances given
+last_yellow: Numeric | Individual | Stats about last season yellow cards received
+last_red: Numeric | Individual | Stats about last season red cards received
+last_shots: Numeric | Individual | Stats about last season shots
+last_passes: Numeric | Individual | Stats about last season passes
+last_aerial: Numeric | Individual | Stats about last season aerial wons
+last_mom: Numeric | Individual | How many times he was Man of the Match last season
+last_rating: Numeric | Individual | Stats about last season overall rating
+last_goals_permin: Numeric | Individual | Stats about last season goals per minute played
+last_assist_permin: Numeric | Individual | Stats about last season assistances per minute played
+last_yellow_permin: Numeric | Individual | Stats about last season yellow cards p/minute played
+last_red_permin: Numeric | Individual | Stats about last season red cards p/minute played
+last_mom_permin: Numeric | Individual | Stats about last number of times the player was selected Man Of the Match per minute played
+previous_interception: Numeric | Individual | Stats about previous seasons mean interceptions
+previous_tackles: Numeric | Individual | Stats about previous seasons average tackles
+previous_fouls: Numeric | Individual | Stats about previous seasons average fouls made
+previous_offsideswon: Numeric | Individual | Stats about previous seasons mean offsides won
+previous_clearence: Numeric | Individual | Stats about previous seasons mean clearances
+previous_wasdribbled: Numeric | Individual | Mean times he was dribbled in previous seasons
+previous_blocks: Numeric | Individual | Stats about previous seasons average blocks made
+previous_owngoals: Numeric | Individual | Stats about previous seasons mean own goals made
+previous_keypasses: Numeric | Individual | Stats about previous seasons mean key passes
+previous_dribbles: Numeric | Individual | Stats about previous seasons mean dribbles made
+previous_fouled: Numeric | Individual | Stats about previous seasons mean times he was fouled
+previous_offsidesdone: Numeric | Individual | Stats about previous seasons mean offsides won
+previous_disposeseed: Numeric | Individual | Mean times he was dispossed in previous seasons
+previous_badcontrol: Numeric | Individual | Stats about previous seasons bad controls made
+previous_shots: Numeric | Individual | Stats about previous seasons shots made
+previous_passes: Numeric | Individual | Stats about previous seasons passes made
+Previous_aerial: : Numeric | Individual | Stats about previous seasons mean aerial wons
+previous_rating: Numeric | Individual | Stats about previous seasons average rating
+previous_mins: Numeric | Individual | Stats about previous seasons minutes played
+previous_goals: Numeric | Individual | Stats about previous seasons goals made
+previous_assist: Numeric | Individual | Stats about previous seasons assistances given
+previous_yellow: Numeric | Individual | Stats about previous seasons yellow cards received
+previous_red: Numeric | Individual | Stats about previous seasons rec cards received
+previous_mom: Numeric | Individual | Number of times he was man of the match in previous seasons
+previous_goals_permin: Numeric | Individual | Stats about previous seasons number of goals per minute played
+previous_assist_permin: Numeric | Individual | Stats about previous seasons assistance given per minute played
+previous_yellow_permin: Numeric | Individual | Stats about previous seasons yellow cards received per minute played
+previous_red_permin: Numeric | Individual | Stats about previous seasons red cards received per minute played
+previous_mom_permin: Numeric | Individual | Number of times he was Man Of the March in previous seasons
+Continental Club Winner: Numeric | Individual | 1 for each time he acquire this award/recognition
+Continental Nat Winner: Numeric | Individual | 1 for each time he acquire this award/recognition
+Minor individuals: Numeric | Individual | 1 for each time he acquire this award/recognition
+League T2 Club Winner: Numeric | Individual | 1 for each time he acquire this award/recognition
+Top individuals: Numeric | Individual | 1 for each time he acquire this award/recognition
+League T1 Club Winner: Numeric | Individual | 1 for each time he acquire this award/recognition
+Continental Club Runner-up: Numeric | Individual | 1 for each time he acquire this award/recognition
+Continental Nat Runner-up: Numeric | Individual | 1 for each time he acquire this award/recognition
+Major individuals: Numeric | Individual | 1 for each time he acquire this award/recognition
+League T1 Runner-up: Numeric | Individual | 1 for each time he acquire this award/recognition
+Under Continental Runner-up: Numeric | Individual | 1 for each time he acquire this award/recognition
+Under Continental Winner: Numeric | Individual | 1 for each time he acquire this award/recognition
+FIFA Club World Cup participant: Numeric | Individual | 1 for each time he acquire this award/recognition 
+FIFA Club World Cup winner: Numeric | Individual | 1 for each time he acquire this award/recognition 
+Olympic medalist: Numeric | Individual | 1 for each time he acquire this award/recognition 
+League T2 Runner-up: Numeric | Individual | 1 for each time he acquire this award/recognition
+Second place at the Olympic Games: Numeric | Individual | 1 for each time he acquire this award/recognition 
+Third place at the Olympic Games: Numeric | Individual | 1 for each time he acquire this award/recognition
+World Cup participant: Numeric | Individual | 1 for each time he acquire this award/recognition
+World Cup runner-up: Numeric | Individual | 1 for each time he acquire this award/recognition
+World Cup third place: Numeric | Individual | 1 for each time he acquire this award/recognition
+World Cup winner: Numeric | Individual | 1 for each time he acquire this award/recognition
+total_awards: Numeric | Individual | Total number of awards won by the player

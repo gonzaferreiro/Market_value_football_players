@@ -1,0 +1,201 @@
+Ranking,Team,Country
+1,Barcelona,SPA
+2,Real Madrid,SPA
+3,River Plate,ARG
+4,Manchester City,ENG
+5,Atlético Madrid,SPA
+6,Palmeiras,BRA
+7,Boca Juniors,ARG
+8,Cruzeiro,BRA
+9,Sevilla,SPA
+10,Valencia,SPA
+11,Grêmio,BRA
+12,Juventus,ITA
+13,Liverpool,ENG
+14,Chelsea,ENG
+15,Flamengo,BRA
+16,Bayern München,GER
+17,Atlético PR,BRA
+18,Monterrey,MEX
+19,Tottenham Hotspur,ENG
+20,Eintracht Frankfurt,GER
+21,Arsenal,ENG
+22,Napoli,ITA
+23,Defensa y Justicia,ARG
+24,Tigres UANL,MEX
+25,Ajax,NET
+26,Porto,POR
+27,Racing Club,ARG
+28,PSG,FRA
+29,Benfica,POR
+30,Roma,ITA
+31,Santos Laguna,MEX
+32,Internazionale,ITA
+33,Manchester United,ENG
+34,Villarreal,SPA
+35,RB Leipzig,GER
+36,Junior,COL
+37,Ulsan,KOR
+38,Getafe,SPA
+39,Jeonbuk Motors,KOR
+40,Real Betis,SPA
+41,América,MEX
+42,Al Hilal,SAU
+43,Kashima Antlers,JAP
+44,Internacional,BRA
+45,Cruz Azul,MEX
+46,Borussia Dortmund,GER
+47,Lazio,ITA
+48,Atlético Tucumán,ARG
+49,Daegu,KOR
+50,Independiente,ARG
+51,Al Nassr,SAU
+52,Rennes,FRA
+53,Slavia Praha,CZE
+54,Atlético Mineiro,BRA
+55,Salzburg,AUS
+56,Olympique Lyonnais,FRA
+57,Beijing Guoan,CHI
+58,Atalanta,ITA
+59,Al Ahly,EGY
+60,Zenit,RUS
+61,Genk,BEL
+62,Bahia,BRA
+63,Milan,ITA
+64,São Paulo,BRA
+65,Corinthians,BRA
+66,Krasnodar,RUS
+67,Vélez Sarsfield,ARG
+68,Espanyol,SPA
+69,Dynamo Kyiv,UKR
+70,Atlético Nacional,COL
+71,Sporting CP,POR
+72,Bayer Leverkusen,GER
+73,Athletic Club,SPA
+74,Cerro Porteño,PAR
+75,Gimnasia La Plata,ARG
+76,San Lorenzo,ARG
+77,Libertad,PAR
+78,Guangzhou Evergrande,CHI
+79,Shandong Luneng,CHI
+80,Santos,BRA
+81,Unión Santa Fe,ARG
+82,Shakhtar Donetsk,UKR
+83,Shanghai SIPG,CHI
+84,Rosario Central,ARG
+85,Deportivo Alavés,SPA
+86,Godoy Cruz,ARG
+87,León,MEX
+88,PAOK,GRE
+89,Fluminense,BRA
+90,Al Taawon,SAU
+91,Eibar,SPA
+92,Schalke 04,GER
+93,Tigre,ARG
+94,Deportes Tolima,COL
+95,Talleres Córdoba,ARG
+96,Millonarios,COL
+97,Real Sociedad,SPA
+98,Leganés,SPA
+99,Botafogo,BRA
+100,Al Ahli,SAU
+101,Lokomotiv Moskva,RUS
+102,Olimpia,PAR
+103,Huracán,ARG
+104,Lanús,ARG
+105,Toluca,MEX
+106,Estudiantes,ARG
+107,Levante,SPA
+108,Bordeaux,FRA
+109,Wolfsburg,GER
+110,Pachuca,MEX
+111,Al Ittihad,SAU
+112,Newell's Old Boys,ARG
+113,Watford,ENG
+114,Olympiakos Piraeus,GRE
+115,Suwon Bluewings,KOR
+116,Torino,ITA
+117,Gyeongnam,KOR
+118,CSKA Moskva,RUS
+119,Hoffenheim,GER
+120,Asyouty Sport,EGY
+121,Pumas UNAM,MEX
+122,Chapecoense,BRA
+123,Banfield,ARG
+124,Crvena Zvezda,SER
+125,Werder Bremen,GER
+126,Zamalek,EGY
+127,Nacional,URU
+128,Standard Liège,BEL
+129,Mamelodi Sundowns,SOU
+130,Girona,SPA
+131,Vasco da Gama,BRA
+132,Wolverhampton Wanderers,ENG
+133,Once Caldas,COL
+134,Galatasaray,TUR
+135,Celtic,SCO
+136,Santa Fe,COL
+137,Al Shabab,SAU
+138,Viktoria Plzeň,CZE
+139,Colón,ARG
+140,Aldosivi,ARG
+141,Tijuana,MEX
+142,Fiorentina,ITA
+143,Lille,FRA
+144,Borussia M'gladbach,GER
+145,Celta de Vigo,SPA
+146,Ceará,BRA
+147,København,DEN
+148,Club Brugge,BEL
+149,Crystal Palace,ENG
+150,Puebla,MEX
+151,Patronato,ARG
+152,Beşiktaş,TUR
+153,Sporting Braga,POR
+154,Leicester City,ENG
+155,Young Boys,SWI
+156,Spartak Moskva,RUS
+157,Independiente Medellín,COL
+158,Sporting KC,USA
+159,West Ham United,ENG
+160,Deportivo Cali,COL
+161,Sampdoria,ITA
+162,Rangers,SCO
+163,Sport Recife,BRA
+164,Real Valladolid,SPA
+165,Malmö FF,SWE
+166,Persepolis,IRA
+167,San Martín San Juan,ARG
+168,Necaxa,MEX
+169,PSV,NET
+170,Gent,BEL
+171,Maccabi Tel Aviv,ISR
+172,Al Faisaly,SAU
+173,SPAL,ITA
+174,La Equidad,COL
+175,Lobos BUAP,MEX
+176,AEK Athens,GRE
+177,Apollon,CYP
+178,Rostov,RUS
+179,Midtjylland,DEN
+180,Pohang Steelers,KOR
+181,América Mineiro,BRA
+182,Al Wahda,SAU
+183,Belgrano,ARG
+184,ES Tunis,TUN
+185,Ismaily,EGY
+186,AEK Larnaca,CYP
+187,Brighton & Hove Albion,ENG
+188,Morelia,MEX
+189,Guadalajara,MEX
+190,Olympique Marseille,FRA
+191,Cagliari,ITA
+192,Querétaro,MEX
+193,Dinamo Zagreb,CRO
+194,Saint-Étienne,FRA
+195,Atlanta United,USA
+196,Arsenal Tula,RUS
+197,Everton,ENG
+198,AFC Bournemouth,ENG
+199,Nantes,FRA
+200,Peñarol,URU

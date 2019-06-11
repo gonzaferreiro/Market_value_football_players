@@ -1,0 +1,1098 @@
+interception,tackles,fouls,offsideswon,clearence,wasdribbled,blocks,owngoals,team,link
+1.1,2.3,0.5,0.1,2.2,1.2,0.2,1,Vitesse,/Players/313996/Show/Max-Clark
+1.3,2.8,1.3,0.4,4,1.3,0.4,-,Vitesse,/Players/313996/Show/Max-Clark
+1,1.3,0.6,0.7,3.7,0.2,0.6,-,Levante,/Players/109896/Show/Sergio-Postigo
+1.3,1.2,0.4,1.2,4.7,0.5,0.4,1,Levante,/Players/109896/Show/Sergio-Postigo
+0.2,0.7,1.5,-,1,0.4,-,-,Duisburg,/Players/132901/Show/Stanislav-Iljutcenko
+0.2,0.7,2.1,0.1,1,0.5,0.2,-,Duisburg,/Players/132901/Show/Stanislav-Iljutcenko
+0.6,0.3,1.1,-,0.3,0.6,0.1,-,Duisburg,/Players/132901/Show/Stanislav-Iljutcenko
+2,3.8,1.7,-,1.9,2,0.3,-,Boca Juniors,/Players/125246/Show/Iván-Marcone
+2,4,0.8,0.1,0.8,1.6,0.3,-,Boca Juniors,/Players/125246/Show/Iván-Marcone
+2.3,2.9,1.2,0.1,0.9,0.9,0.2,-,Boca Juniors,/Players/125246/Show/Iván-Marcone
+0.7,1.1,1.4,-,0.1,1.2,-,-,Montpellier,/Players/114169/Show/Florent-Mollet
+0.5,1.1,1.5,-,0.3,1,-,-,Montpellier,/Players/114169/Show/Florent-Mollet
+0.7,0.8,0.8,-,0.2,0.5,-,-,Montpellier,/Players/114169/Show/Florent-Mollet
+1.7,1.4,1.2,0.5,4,0.6,0.5,-,Girona,/Players/140803/Show/Juanpe
+1.5,1.4,1.4,0.8,3.8,0.4,0.5,-,Girona,/Players/140803/Show/Juanpe
+-,-,-,-,1,-,-,1,Fiorentina,/Players/300590/Show/Alban-Lafont
+0.1,-,-,-,0.9,0.1,-,-,Fiorentina,/Players/300590/Show/Alban-Lafont
+0.1,0.1,0.1,-,1,-,-,-,Fiorentina,/Players/300590/Show/Alban-Lafont
+0.1,-,-,-,1,-,-,-,Fiorentina,/Players/300590/Show/Alban-Lafont
+1.6,1,1,0.6,4.4,0.3,0.7,-,Braga,/Players/289112/Show/Bruno-Viana
+2,1.1,1.1,0.3,4.3,0.2,0.7,-,Braga,/Players/289112/Show/Bruno-Viana
+1.7,1,0.7,1,3.7,-,0.3,-,Braga,/Players/289112/Show/Bruno-Viana
+1.3,1,1,1.3,6.3,-,-,-,Braga,/Players/289112/Show/Bruno-Viana
+2.4,0.9,0.8,0.6,5.8,0.3,0.8,-,Braga,/Players/289112/Show/Bruno-Viana
+-,0.1,0.1,-,0.9,-,-,-,Sampdoria,/Players/254692/Show/Emil-Audero
+-,-,-,-,-,-,-,-,Sampdoria,/Players/254692/Show/Emil-Audero
+1.1,2.2,1,-,1.3,1.2,0.1,1,VfB Stuttgart,/Players/11269/Show/Christian-Gentner
+1.3,3.4,2.1,-,1.6,1.5,0.2,-,VfB Stuttgart,/Players/11269/Show/Christian-Gentner
+1.7,2,1.6,-,1.9,1.4,0.4,-,VfB Stuttgart,/Players/11269/Show/Christian-Gentner
+2.1,2.3,1.8,0.1,2,1.2,0.2,1,VfB Stuttgart,/Players/11269/Show/Christian-Gentner
+2.3,2.5,1.5,0.1,1.6,1.8,0.1,-,VfB Stuttgart,/Players/11269/Show/Christian-Gentner
+2.2,3,1.7,0.1,1.9,2.4,0.4,-,VfB Stuttgart,/Players/11269/Show/Christian-Gentner
+2.5,3.1,1.9,-,1.1,2.1,0.2,-,VfB Stuttgart,/Players/11269/Show/Christian-Gentner
+1,3.2,1.1,0.1,0.9,1.7,-,-,VfB Stuttgart,/Players/11269/Show/Christian-Gentner
+1.2,1.1,0.7,-,0.8,1.1,0.2,-,VfB Stuttgart,/Players/11269/Show/Christian-Gentner
+1.4,1.8,1.2,-,0.9,1.3,0.1,-,VfB Stuttgart,/Players/11269/Show/Christian-Gentner
+1.5,2.6,1.3,-,0.8,1,0.1,-,VfB Stuttgart,/Players/11269/Show/Christian-Gentner
+0.7,1.8,0.8,0.2,1.8,1.3,-,-,VfB Stuttgart,/Players/11269/Show/Christian-Gentner
+-,-,-,-,0.6,-,-,-,Millwall,/Players/120105/Show/Jordan-Archer
+-,-,-,-,0.9,-,-,-,Millwall,/Players/120105/Show/Jordan-Archer
+0.8,1.4,0.3,-,1.3,0.6,0.2,-,Rio Ave,/Players/330612/Show/Afonso-Figueiredo
+-,1.2,0.6,0.2,0.8,0.4,-,-,Rio Ave,/Players/330612/Show/Afonso-Figueiredo
+1,1.2,0.2,-,1.8,1.2,0.2,-,Rio Ave,/Players/330612/Show/Afonso-Figueiredo
+1,3.9,1.7,-,1.7,2,0.1,-,Real Salt Lake,/Players/74141/Show/Everton-Luiz
+0.3,1.1,0.9,-,0.7,0.4,0.1,-,Real Salt Lake,/Players/74141/Show/Everton-Luiz
+0.9,2,1.2,-,0.5,2.1,0.1,-,Real Salt Lake,/Players/74141/Show/Everton-Luiz
+2.2,2.5,3.2,-,1.7,2.3,-,-,Real Salt Lake,/Players/74141/Show/Everton-Luiz
+1.2,2,0.5,0.3,2.1,1.1,0.1,-,Liverpool,/Players/318871/Show/Trent-Alexander-Arnold
+1.8,1.9,0.7,-,1.7,0.5,-,-,Liverpool,/Players/318871/Show/Trent-Alexander-Arnold
+-,-,-,-,-,-,-,-,Liverpool,/Players/318871/Show/Trent-Alexander-Arnold
+2.2,2.5,1,0.4,2.5,1.2,0.2,-,Liverpool,/Players/318871/Show/Trent-Alexander-Arnold
+1.5,1.9,0.6,0.4,2.1,0.7,0.3,-,Liverpool,/Players/318871/Show/Trent-Alexander-Arnold
+0.4,0.6,0.1,-,1.6,0.6,0.1,-,Liverpool,/Players/318871/Show/Trent-Alexander-Arnold
+2,1,-,1,-,-,1,-,Liverpool,/Players/318871/Show/Trent-Alexander-Arnold
+0.3,0.6,0.9,-,0.3,-,-,-,FC Dallas,/Players/270584/Show/Dominique-Badji
+0.2,0.6,2.7,-,0.4,0.4,0.1,-,FC Dallas,/Players/270584/Show/Dominique-Badji
+0.1,0.4,1,-,0.6,-,-,-,FC Dallas,/Players/270584/Show/Dominique-Badji
+0.2,0.9,1.5,-,0.6,0.2,0.1,-,FC Dallas,/Players/270584/Show/Dominique-Badji
+0.3,0.5,1.5,-,0.8,0.3,0.1,-,FC Dallas,/Players/270584/Show/Dominique-Badji
+0.3,0.7,1.6,-,0.1,0.1,-,-,FC Dallas,/Players/270584/Show/Dominique-Badji
+1.9,2,1.4,0.7,5.2,0.3,0.5,-,Arsenal,/Players/80921/Show/Shkodran-Mustafi
+1.3,0.7,1.3,0.7,2.8,0.2,0.3,-,Arsenal,/Players/80921/Show/Shkodran-Mustafi
+2,2.4,0.5,0.4,5.5,1.5,-,-,Arsenal,/Players/80921/Show/Shkodran-Mustafi
+2.1,2.4,1,0.7,6.3,1,0.6,-,Arsenal,/Players/80921/Show/Shkodran-Mustafi
+4,2,-,-,-,2,1,-,Arsenal,/Players/80921/Show/Shkodran-Mustafi
+1.9,1.7,1.4,1.1,5,1.1,0.1,-,Arsenal,/Players/80921/Show/Shkodran-Mustafi
+2.5,2.2,1.3,1.2,5,0.8,0.2,-,Arsenal,/Players/80921/Show/Shkodran-Mustafi
+4.4,2.7,1.1,0.6,5.3,0.8,0.7,1,Arsenal,/Players/80921/Show/Shkodran-Mustafi
+6.7,2.3,1,1,5.3,0.3,0.7,-,Arsenal,/Players/80921/Show/Shkodran-Mustafi
+5,2.2,2,0.2,2.6,0.4,1.4,-,Arsenal,/Players/80921/Show/Shkodran-Mustafi
+2.9,1.4,1,0.6,6.8,0.5,0.5,1,Arsenal,/Players/80921/Show/Shkodran-Mustafi
+3.5,1.5,1.5,-,-,1,0.5,-,Arsenal,/Players/80921/Show/Shkodran-Mustafi
+3,2.5,1.6,0.6,7.1,0.8,0.7,1,Arsenal,/Players/80921/Show/Shkodran-Mustafi
+-,0.3,0.3,0.3,1.3,-,-,-,Arsenal,/Players/80921/Show/Shkodran-Mustafi
+5,-,-,-,3,1,1,-,Arsenal,/Players/80921/Show/Shkodran-Mustafi
+1.8,1.5,1.5,0.2,5.2,0.5,0.3,-,Arsenal,/Players/80921/Show/Shkodran-Mustafi
+1.1,0.2,0.6,1,3.3,0.1,0.6,-,Nacional,/Players/322792/Show/Lazar-Rosic
+1.1,0.8,1.3,0.3,3.7,0.2,0.7,-,Nacional,/Players/322792/Show/Lazar-Rosic
+0.5,-,0.5,0.5,3,0.5,-,-,Nacional,/Players/322792/Show/Lazar-Rosic
+2.3,1.3,1.1,0.7,4.5,0.3,0.6,1,Nacional,/Players/322792/Show/Lazar-Rosic
+2.5,1.5,0.5,1,6.3,1.7,1.2,-,Nacional,/Players/322792/Show/Lazar-Rosic
+0.2,0.4,1.3,0.1,0.3,0.4,-,-,RasenBallsport Leipzig,/Players/362758/Show/Matheus-Cunha
+0.2,2.2,1.8,-,1,1.3,-,-,RasenBallsport Leipzig,/Players/362758/Show/Matheus-Cunha
+0.3,2.4,1,-,0.3,0.8,-,-,Montreal Impact,/Players/330643/Show/Orji-Okwonkwo
+0.1,0.5,0.8,-,-,-,-,-,Montreal Impact,/Players/330643/Show/Orji-Okwonkwo
+0.1,0.9,0.5,-,0.1,0.3,-,-,Montreal Impact,/Players/330643/Show/Orji-Okwonkwo
+0.2,0.7,0.6,-,0.4,0.1,-,-,Montreal Impact,/Players/330643/Show/Orji-Okwonkwo
+0.9,2.5,1.6,-,0.5,1.3,0.2,-,Ipswich,/Players/103835/Show/Gwion-Edwards
+1,2.2,1.1,-,1.8,1.8,0.2,-,Rizespor,/Players/43619/Show/Abdullah-Durak
+-,0.5,0.5,-,0.5,0.5,-,-,Rizespor,/Players/43619/Show/Abdullah-Durak
+2.2,2.5,1.1,-,1,2.1,0.3,-,Rizespor,/Players/43619/Show/Abdullah-Durak
+1.1,1.5,0.7,0.1,0.4,0.7,0.1,-,Rizespor,/Players/43619/Show/Abdullah-Durak
+0.4,0.5,1.3,-,0.3,0.3,0.3,-,Braga,/Players/352932/Show/Ricardo-Ryller
+1,-,-,-,-,-,-,-,Braga,/Players/352932/Show/Ricardo-Ryller
+0.4,0.8,0.8,-,0.8,0.6,-,-,ADO Den Haag,/Players/115422/Show/Elson-Hooi
+0.1,0.5,0.4,-,0.4,0.4,-,-,ADO Den Haag,/Players/115422/Show/Elson-Hooi
+0.1,0.7,0.9,-,0.1,-,-,-,ADO Den Haag,/Players/115422/Show/Elson-Hooi
+0.5,0.7,0.6,-,0.8,0.5,0.1,-,ADO Den Haag,/Players/115422/Show/Elson-Hooi
+0.8,1.8,0.6,0.4,2,0.2,0.2,-,FC Rostov,/Players/328541/Show/Evgeni-Chernov
+0.7,0.9,0.6,0.1,1.1,0.3,0.2,-,FC Rostov,/Players/328541/Show/Evgeni-Chernov
+1,1.5,0.6,0.1,2.8,0.3,0.3,-,FC Rostov,/Players/328541/Show/Evgeni-Chernov
+0.7,1.3,0.2,-,1.5,0.2,0.5,-,FC Rostov,/Players/328541/Show/Evgeni-Chernov
+-,-,-,-,0.9,-,-,-,SC Heerenveen,/Players/115650/Show/Warner-Hahn
+-,-,-,-,0.3,-,-,-,SC Heerenveen,/Players/115650/Show/Warner-Hahn
+-,-,-,-,0.5,-,-,1,SC Heerenveen,/Players/115650/Show/Warner-Hahn
+-,-,-,-,0.7,-,-,-,SC Heerenveen,/Players/115650/Show/Warner-Hahn
+-,-,-,1,-,1,-,-,Deportivo Alaves,/Players/369560/Show/Álex-Blanco
+0.9,1.3,1,-,0.7,1.9,0.1,-,Atlanta United,/Players/334566/Show/Julian-Gressel
+1.4,2.2,1.1,0.2,1.2,1.8,0.1,-,Atlanta United,/Players/334566/Show/Julian-Gressel
+0.7,1.2,0.9,-,0.2,1,0.1,-,Atlanta United,/Players/334566/Show/Julian-Gressel
+2.1,3.3,1.4,0.3,3.8,0.8,0.3,-,Genoa,/Players/13895/Show/Domenico-Criscito
+2,3,1,1,2,-,-,-,Genoa,/Players/13895/Show/Domenico-Criscito
+2.3,5.2,1.7,0.2,4,1.8,0.3,-,Genoa,/Players/13895/Show/Domenico-Criscito
+2,2.8,1.3,0.1,3.2,0.6,0.3,-,Genoa,/Players/13895/Show/Domenico-Criscito
+2.7,2.6,1.3,0.6,3.7,0.6,0.4,-,Genoa,/Players/13895/Show/Domenico-Criscito
+3,2.9,1.4,0.1,3.3,0.4,0.3,-,Genoa,/Players/13895/Show/Domenico-Criscito
+2.3,2.4,1,0.6,2,0.5,0.1,-,Genoa,/Players/13895/Show/Domenico-Criscito
+4.2,3.2,2.3,0.3,4.2,0.8,-,-,Genoa,/Players/13895/Show/Domenico-Criscito
+1.8,3.8,1,0.7,3.5,0.7,0.7,-,Genoa,/Players/13895/Show/Domenico-Criscito
+2.3,2.3,1.5,-,3.5,0.5,-,-,Genoa,/Players/13895/Show/Domenico-Criscito
+3,2.7,1.3,0.7,2.7,0.7,0.2,-,Genoa,/Players/13895/Show/Domenico-Criscito
+0.7,1.4,0.6,0.3,3.3,0.3,-,-,Genoa,/Players/13895/Show/Domenico-Criscito
+2.7,2.2,1.6,0.2,2.9,0.4,0.3,-,Genoa,/Players/13895/Show/Domenico-Criscito
+-,6,1,-,3,1,-,-,Genoa,/Players/13895/Show/Domenico-Criscito
+4,4.7,1.7,0.3,5,0.3,0.3,-,Genoa,/Players/13895/Show/Domenico-Criscito
+3.3,4.3,2,-,4,1,0.9,-,Genoa,/Players/13895/Show/Domenico-Criscito
+2.7,3.8,1.3,0.3,6.1,0.9,0.4,-,Genoa,/Players/13895/Show/Domenico-Criscito
+2.8,3.3,1.6,0.2,6.2,0.7,0.4,-,Genoa,/Players/13895/Show/Domenico-Criscito
+1.3,0.8,1.1,0.3,5.9,0.1,0.5,-,Nottingham Forest,/Players/73258/Show/Alexander-Milosevic
+1.9,1.1,0.9,0.9,5.5,0.1,0.9,-,Nottingham Forest,/Players/73258/Show/Alexander-Milosevic
+3,2,-,-,5,-,1,-,Nottingham Forest,/Players/73258/Show/Alexander-Milosevic
+1.9,1.4,1.4,0.8,4.4,0.3,0.6,-,Nottingham Forest,/Players/73258/Show/Alexander-Milosevic
+1.3,1,1,1.3,5.3,0.5,1.5,-,Nottingham Forest,/Players/73258/Show/Alexander-Milosevic
+-,-,-,-,-,-,-,-,Nottingham Forest,/Players/73258/Show/Alexander-Milosevic
+2,1.4,0.7,0.4,4.5,0.4,0.3,-,Amiens,/Players/361890/Show/Jordan-Lefort
+0.1,0.3,1.8,-,1.2,0.2,-,-,Rosario Central,/Players/303659/Show/Fernando-Zampedri
+0.3,0.5,2.7,-,1,0.3,0.2,-,Rosario Central,/Players/303659/Show/Fernando-Zampedri
+-,0.2,1.5,-,0.9,0.1,0.1,-,Rosario Central,/Players/303659/Show/Fernando-Zampedri
+0.1,0.3,0.9,-,0.3,0.3,-,-,Rosario Central,/Players/303659/Show/Fernando-Zampedri
+1,1.6,0.9,0.4,3.6,0.3,0.9,1,Colorado Rapids,/Players/354258/Show/Deklan-Wynne
+1.5,1.1,1,0.2,3.3,0.6,0.2,-,Colorado Rapids,/Players/354258/Show/Deklan-Wynne
+0.9,1.5,0.8,-,0.4,0.7,0.1,-,Liverpool,/Players/68659/Show/Jordan-Henderson
+1.1,1.6,0.9,0.1,0.6,0.8,-,-,Liverpool,/Players/68659/Show/Jordan-Henderson
+-,1,1.5,-,-,1,-,-,Liverpool,/Players/68659/Show/Jordan-Henderson
+1.6,2.4,1.4,0.1,0.9,1.6,0.5,-,Liverpool,/Players/68659/Show/Jordan-Henderson
+1.1,1.9,1,-,0.7,1.3,0.1,-,Liverpool,/Players/68659/Show/Jordan-Henderson
+1.7,3.7,1.2,-,1.7,1.6,0.1,-,Liverpool,/Players/68659/Show/Jordan-Henderson
+0.8,1.6,0.6,-,1,1.4,0.4,-,Liverpool,/Players/68659/Show/Jordan-Henderson
+0.8,2.3,0.5,-,0.8,2,-,-,Liverpool,/Players/68659/Show/Jordan-Henderson
+1.3,2.4,0.6,0.1,1,1,0.1,-,Liverpool,/Players/68659/Show/Jordan-Henderson
+0.8,1.8,2.6,-,1.2,1.4,-,-,Liverpool,/Players/68659/Show/Jordan-Henderson
+2,6,1,-,1,3,-,-,Liverpool,/Players/68659/Show/Jordan-Henderson
+0.8,2.3,0.9,-,1.7,0.8,0.2,-,Liverpool,/Players/68659/Show/Jordan-Henderson
+-,-,1,-,-,1,-,-,Liverpool,/Players/68659/Show/Jordan-Henderson
+1,2.4,1,0.1,1.8,1.1,0.3,-,Liverpool,/Players/68659/Show/Jordan-Henderson
+1,1,0.5,-,1.5,-,-,-,Liverpool,/Players/68659/Show/Jordan-Henderson
+2,-,1,-,0.7,0.3,0.3,-,Liverpool,/Players/68659/Show/Jordan-Henderson
+1.7,1.9,1.1,-,1.6,0.1,0.1,-,Liverpool,/Players/68659/Show/Jordan-Henderson
+1.1,1.2,0.7,-,0.4,0.4,0.2,-,Liverpool,/Players/68659/Show/Jordan-Henderson
+0.5,0.5,0.5,-,0.5,0.5,-,-,Liverpool,/Players/68659/Show/Jordan-Henderson
+1.5,1.4,0.7,-,0.4,0.5,0.1,-,Liverpool,/Players/68659/Show/Jordan-Henderson
+1.7,1.7,0.7,-,0.9,1,0.2,-,Liverpool,/Players/68659/Show/Jordan-Henderson
+2.1,1.8,1.1,-,1.2,0.7,0.1,-,Liverpool,/Players/68659/Show/Jordan-Henderson
+0.5,1.4,1.5,-,0.8,1.2,0.5,-,Anzhi Makhachkala,/Players/334749/Show/Kamil-Zakirov
+1.2,1.9,0.9,0.4,2.2,1,0.2,-,Fortuna Duesseldorf,/Players/115983/Show/Niko-Gießelmann
+1.6,2.2,1.2,0.2,3,0.8,0.5,-,Fortuna Duesseldorf,/Players/115983/Show/Niko-Gießelmann
+3,2.5,1.3,0.5,2.7,0.7,0.3,-,Fortuna Duesseldorf,/Players/115983/Show/Niko-Gießelmann
+1.7,1.9,0.8,0.1,2.5,0.9,0.2,-,Fortuna Duesseldorf,/Players/115983/Show/Niko-Gießelmann
+-,2.3,0.3,-,-,1,-,-,FC Dallas,/Players/371543/Show/Thomas-Roberts
+1,-,-,-,-,-,-,-,Brentford,/Players/370314/Show/Jan-Zamburek
+1,0.7,0.5,0.2,4.9,0.5,0.4,-,Fortuna Duesseldorf,/Players/303431/Show/Robin-Bormuth
+1.3,1,0.6,0.9,4.7,0.3,0.6,-,Fortuna Duesseldorf,/Players/303431/Show/Robin-Bormuth
+1.6,1.2,1,0.3,4.9,0.2,0.9,-,Fortuna Duesseldorf,/Players/303431/Show/Robin-Bormuth
+2.1,2.4,1.9,0.3,3.9,0.7,0.5,-,Hertha Berlin,/Players/332120/Show/Jordan-Torunarigha
+1.9,1.5,0.8,0.4,3.5,0.5,1.1,-,Hertha Berlin,/Players/332120/Show/Jordan-Torunarigha
+3,3,1.7,0.7,2.3,0.7,-,-,Hertha Berlin,/Players/332120/Show/Jordan-Torunarigha
+1.8,0.9,0.8,0.6,3.6,0.3,0.1,-,Hertha Berlin,/Players/332120/Show/Jordan-Torunarigha
+1.8,1.2,1.4,0.3,5.5,0.6,0.4,-,Aston Villa,/Players/13727/Show/Mile-Jedinak
+1.2,1.8,1.3,0.3,4.8,1.1,0.3,-,Aston Villa,/Players/13727/Show/Mile-Jedinak
+2.3,2.1,1.6,0.1,4.7,0.6,0.6,-,Aston Villa,/Players/13727/Show/Mile-Jedinak
+1,6,4,-,-,-,-,-,Aston Villa,/Players/13727/Show/Mile-Jedinak
+1,1.7,2,-,0.7,-,0.3,-,Aston Villa,/Players/13727/Show/Mile-Jedinak
+2,1.9,1.3,-,2.1,1,0.4,-,Aston Villa,/Players/13727/Show/Mile-Jedinak
+3.4,3.3,2,-,3.5,1.1,0.6,-,Aston Villa,/Players/13727/Show/Mile-Jedinak
+3.7,3.5,1.6,0.1,3.7,1.1,0.4,-,Aston Villa,/Players/13727/Show/Mile-Jedinak
+1.7,2.3,2,-,1,1.7,1,-,Aston Villa,/Players/13727/Show/Mile-Jedinak
+1,-,-,-,2,1,-,-,Aston Villa,/Players/123167/Show/Tyrone-Mings
+1.2,0.8,-,0.2,1.6,0.2,0.4,-,Aston Villa,/Players/123167/Show/Tyrone-Mings
+1.5,0.3,0.5,0.5,3.3,-,0.5,-,Aston Villa,/Players/123167/Show/Tyrone-Mings
+0.7,1.4,1,0.6,5.7,0.4,0.7,2,Aston Villa,/Players/123167/Show/Tyrone-Mings
+2,-,-,-,-,-,-,-,Aston Villa,/Players/123167/Show/Tyrone-Mings
+2.7,2.2,1.1,0.4,3.7,0.6,0.3,-,Aston Villa,/Players/123167/Show/Tyrone-Mings
+0.2,0.8,0.5,0.2,2.7,0.2,0.1,-,Aston Villa,/Players/123167/Show/Tyrone-Mings
+2,2,-,-,2,-,-,-,Aston Villa,/Players/318449/Show/John-McGinn
+1.5,4,1,-,1,1.5,-,-,Aston Villa,/Players/318449/Show/John-McGinn
+0.4,0.9,1.2,-,0.3,0.9,-,-,Wolverhampton Wanderers,/Players/235755/Show/Diogo-Jota
+0.4,1.1,1.6,-,0.5,1.6,-,-,Wolverhampton Wanderers,/Players/235755/Show/Diogo-Jota
+0.2,0.9,1.3,-,-,0.3,-,-,Wolverhampton Wanderers,/Players/235755/Show/Diogo-Jota
+0.4,0.5,0.5,-,0.1,0.4,-,-,Wolverhampton Wanderers,/Players/235755/Show/Diogo-Jota
+0.1,0.7,0.6,-,-,0.4,-,-,New York Red Bulls,/Players/371022/Show/Omir-Fernandez
+0.6,1.6,1,0.1,0.6,0.9,0.1,-,Eibar,/Players/127764/Show/Gonzalo-Escalante
+1.1,2.1,0.9,-,0.6,0.8,0.1,-,Eibar,/Players/127764/Show/Gonzalo-Escalante
+1.4,2,1.7,-,0.7,0.9,0.1,-,Eibar,/Players/127764/Show/Gonzalo-Escalante
+2.6,3.4,2.4,-,1.2,1.5,0.4,-,Eibar,/Players/127764/Show/Gonzalo-Escalante
+-,0.3,0.8,-,1.4,0.3,0.2,-,San Lorenzo,/Players/121476/Show/Nicolás-Blandi
+0.1,0.4,1.4,-,1.4,-,0.1,-,San Lorenzo,/Players/121476/Show/Nicolás-Blandi
+0.2,0.5,1,0.1,1.2,0.3,0.1,-,San Lorenzo,/Players/121476/Show/Nicolás-Blandi
+0.2,0.2,1.3,-,0.2,-,-,-,San Lorenzo,/Players/121476/Show/Nicolás-Blandi
+1.4,2.5,1,-,2.7,1.3,0.5,-,ADO Den Haag,/Players/122972/Show/Danny-Bakker
+1.9,2.5,1.2,0.4,3,1.7,0.8,-,ADO Den Haag,/Players/122972/Show/Danny-Bakker
+2.1,2.5,1.2,0.3,4.1,1.2,0.7,-,ADO Den Haag,/Players/122972/Show/Danny-Bakker
+1.8,2.2,1.6,-,2.2,1.4,0.3,-,ADO Den Haag,/Players/122972/Show/Danny-Bakker
+1.4,1.5,0.5,-,1.4,1.2,0.1,-,ADO Den Haag,/Players/122972/Show/Danny-Bakker
+0.9,2.3,1,0.4,2.7,1,0.6,-,ADO Den Haag,/Players/122972/Show/Danny-Bakker
+0.1,0.2,1,0.1,0.4,0.3,-,-,Eibar,/Players/102157/Show/Charles
+0.2,0.4,1.4,-,0.3,0.2,-,-,Eibar,/Players/102157/Show/Charles
+0.2,0.2,0.9,-,0.6,0.3,0.1,-,Eibar,/Players/102157/Show/Charles
+0.4,0.6,1.7,-,1.3,0.4,0.1,1,Eibar,/Players/102157/Show/Charles
+0.1,0.4,0.9,-,0.5,0.1,-,-,Eibar,/Players/102157/Show/Charles
+0.3,0.4,1.7,-,0.7,0.3,0.2,-,Eibar,/Players/102157/Show/Charles
+-,0.2,1,-,0.8,0.7,0.1,-,Velez Sarsfield,/Players/303890/Show/Leandro-Fernández
+0.2,0.9,1.6,-,0.8,0.7,-,-,Velez Sarsfield,/Players/303890/Show/Leandro-Fernández
+-,-,1,-,-,-,-,-,Velez Sarsfield,/Players/303890/Show/Leandro-Fernández
+0.4,1.3,1.2,-,0.2,0.5,-,-,Velez Sarsfield,/Players/303890/Show/Leandro-Fernández
+0.1,-,-,-,0.5,-,-,-,CSKA Moscow,/Players/10112/Show/Igor-Akinfeev
+-,-,-,-,0.2,-,-,-,CSKA Moscow,/Players/10112/Show/Igor-Akinfeev
+-,-,-,-,0.7,-,-,-,CSKA Moscow,/Players/10112/Show/Igor-Akinfeev
+0.2,-,-,-,1,-,-,-,CSKA Moscow,/Players/10112/Show/Igor-Akinfeev
+-,-,-,-,0.6,-,-,-,CSKA Moscow,/Players/10112/Show/Igor-Akinfeev
+0.1,0.1,-,-,0.6,-,-,-,CSKA Moscow,/Players/10112/Show/Igor-Akinfeev
+0.2,-,0.2,-,1.5,-,-,1,CSKA Moscow,/Players/10112/Show/Igor-Akinfeev
+-,-,-,-,0.4,-,-,-,CSKA Moscow,/Players/10112/Show/Igor-Akinfeev
+0.1,-,-,-,0.7,0.1,-,-,CSKA Moscow,/Players/10112/Show/Igor-Akinfeev
+-,-,-,-,1.5,-,-,1,CSKA Moscow,/Players/10112/Show/Igor-Akinfeev
+-,0.3,-,-,0.7,0.2,-,-,CSKA Moscow,/Players/10112/Show/Igor-Akinfeev
+-,-,-,-,0.5,-,-,-,CSKA Moscow,/Players/10112/Show/Igor-Akinfeev
+-,-,-,-,1.3,-,-,-,CSKA Moscow,/Players/10112/Show/Igor-Akinfeev
+-,-,0.2,-,0.8,-,-,-,CSKA Moscow,/Players/10112/Show/Igor-Akinfeev
+-,-,-,-,0.6,0.1,-,-,CSKA Moscow,/Players/10112/Show/Igor-Akinfeev
+-,-,-,-,1,-,-,-,CSKA Moscow,/Players/10112/Show/Igor-Akinfeev
+0.1,-,-,-,1.4,0.1,-,-,CSKA Moscow,/Players/10112/Show/Igor-Akinfeev
+0.3,0.7,0.4,-,0.1,0.2,0.2,-,Colorado Rapids,/Players/371033/Show/Andre-Shinyashiki
+0.9,0.7,0.9,0.6,5.9,0.2,0.8,1,Millwall,/Players/235842/Show/Jake-Cooper
+0.6,0.7,0.9,0.6,6.9,0.2,0.7,-,Millwall,/Players/235842/Show/Jake-Cooper
+-,-,0.3,-,1,-,-,-,Millwall,/Players/235842/Show/Jake-Cooper
+1.8,1.1,0.6,0.7,7.8,0.3,0.9,-,Millwall,/Players/235842/Show/Jake-Cooper
+0.9,0.5,0.9,0.7,5.7,0.1,0.3,-,Millwall,/Players/235842/Show/Jake-Cooper
+0.3,0.8,0.7,-,0.3,0.7,0.3,-,Paris Saint-Germain,/Players/50835/Show/Neymar
+0.3,0.8,0.7,-,0.1,0.9,-,-,Paris Saint-Germain,/Players/50835/Show/Neymar
+0.1,1.6,1.1,-,-,0.9,-,-,Paris Saint-Germain,/Players/50835/Show/Neymar
+0.3,1,1.2,-,-,1.7,-,-,Paris Saint-Germain,/Players/50835/Show/Neymar
+0.3,1.3,1.2,-,0.1,0.5,-,-,Paris Saint-Germain,/Players/50835/Show/Neymar
+0.2,1.8,1.4,-,0.2,1.1,-,-,Paris Saint-Germain,/Players/50835/Show/Neymar
+-,1,0.8,-,-,0.4,0.2,-,Paris Saint-Germain,/Players/50835/Show/Neymar
+0.3,0.8,1.4,-,-,0.5,-,-,Paris Saint-Germain,/Players/50835/Show/Neymar
+0.6,1.4,1.3,-,-,1.1,-,-,Paris Saint-Germain,/Players/50835/Show/Neymar
+-,0.5,2.5,-,0.5,-,-,-,Paris Saint-Germain,/Players/50835/Show/Neymar
+0.3,1.3,1,-,0.2,0.5,-,-,Paris Saint-Germain,/Players/50835/Show/Neymar
+0.4,0.9,1.3,-,0.2,1.3,-,-,Paris Saint-Germain,/Players/50835/Show/Neymar
+0.3,0.8,1.1,-,0.2,0.3,-,-,Paris Saint-Germain,/Players/50835/Show/Neymar
+0.8,1.1,1.6,-,0.1,0.9,-,-,Paris Saint-Germain,/Players/50835/Show/Neymar
+0.2,1.4,1.6,-,-,1.2,0.2,-,Paris Saint-Germain,/Players/50835/Show/Neymar
+1,1,3,-,-,-,-,-,Paris Saint-Germain,/Players/50835/Show/Neymar
+0.6,1,3.6,-,-,0.8,-,-,Paris Saint-Germain,/Players/50835/Show/Neymar
+0.2,0.6,0.4,-,0.5,0.6,-,-,Arsenal,/Players/44120/Show/Pierre-Emerick-Aubameyang
+0.3,0.5,0.8,-,0.5,0.5,0.2,-,Arsenal,/Players/44120/Show/Pierre-Emerick-Aubameyang
+0.2,0.3,1.1,-,0.1,0.4,0.1,-,Arsenal,/Players/44120/Show/Pierre-Emerick-Aubameyang
+-,0.2,0.7,-,-,0.3,-,-,Arsenal,/Players/44120/Show/Pierre-Emerick-Aubameyang
+0.2,0.4,0.1,-,0.5,0.5,0.1,-,Arsenal,/Players/44120/Show/Pierre-Emerick-Aubameyang
+0.3,0.5,0.7,-,0.1,0.2,-,-,Arsenal,/Players/44120/Show/Pierre-Emerick-Aubameyang
+0.2,0.2,0.6,-,0.2,0.3,0.1,-,Arsenal,/Players/44120/Show/Pierre-Emerick-Aubameyang
+0.3,0.2,0.9,-,0.1,0.3,0.1,-,Arsenal,/Players/44120/Show/Pierre-Emerick-Aubameyang
+0.2,0.3,0.5,-,0.1,0.5,-,-,Arsenal,/Players/44120/Show/Pierre-Emerick-Aubameyang
+-,0.3,0.7,-,0.3,-,-,-,Arsenal,/Players/44120/Show/Pierre-Emerick-Aubameyang
+0.5,0.6,1.1,-,0.3,0.7,0.1,-,Arsenal,/Players/44120/Show/Pierre-Emerick-Aubameyang
+-,1.5,0.4,-,0.1,1.1,-,-,Arsenal,/Players/44120/Show/Pierre-Emerick-Aubameyang
+0.4,0.9,0.7,-,0.4,0.6,-,-,Arsenal,/Players/44120/Show/Pierre-Emerick-Aubameyang
+0.7,1.4,0.8,-,0.2,1.3,0.1,-,Arsenal,/Players/44120/Show/Pierre-Emerick-Aubameyang
+0.5,0.7,0.6,-,0.4,0.3,0.1,-,Arsenal,/Players/44120/Show/Pierre-Emerick-Aubameyang
+0.8,1.1,1.1,-,0.5,0.4,0.1,-,Arsenal,/Players/44120/Show/Pierre-Emerick-Aubameyang
+0.3,1.1,0.9,-,0.2,0.2,0.2,-,Arsenal,/Players/44120/Show/Pierre-Emerick-Aubameyang
+1.1,1.3,1.3,-,0.5,0.5,0.1,-,Arsenal,/Players/44120/Show/Pierre-Emerick-Aubameyang
+0.5,0.5,1,-,-,0.1,-,-,Arsenal,/Players/44120/Show/Pierre-Emerick-Aubameyang
+0.2,0.7,3.2,-,1.1,0.4,0.2,-,Darmstadt,/Players/113772/Show/Serdar-Dursun
+0.1,0.3,1.4,-,0.6,0.2,-,-,Darmstadt,/Players/113772/Show/Serdar-Dursun
+0.3,0.9,2.1,-,1.1,0.2,-,-,Darmstadt,/Players/113772/Show/Serdar-Dursun
+0.9,3.4,2.4,-,1.3,1.4,0.6,-,Udinese,/Players/12462/Show/Valon-Behrami
+1.1,3.2,2.3,-,0.8,1.8,0.8,-,Udinese,/Players/12462/Show/Valon-Behrami
+1.2,2.7,1.1,0.1,0.8,1.6,0.4,-,Udinese,/Players/12462/Show/Valon-Behrami
+1.3,3.5,2.3,-,0.5,1.3,0.3,-,Udinese,/Players/12462/Show/Valon-Behrami
+2.3,3.1,1.5,-,0.5,1.6,0.2,-,Udinese,/Players/12462/Show/Valon-Behrami
+2.9,4.2,2.9,0.1,2,2,0.3,-,Udinese,/Players/12462/Show/Valon-Behrami
+2.5,2.8,1.5,-,1,1.3,0.8,-,Udinese,/Players/12462/Show/Valon-Behrami
+1.8,4,2,0.1,1,1.5,0.3,1,Udinese,/Players/12462/Show/Valon-Behrami
+2,2.2,2.2,-,1,0.7,0.3,-,Udinese,/Players/12462/Show/Valon-Behrami
+2.7,2.3,3,-,1.3,2.3,-,-,Udinese,/Players/12462/Show/Valon-Behrami
+0.5,3.5,2,-,0.5,3.5,0.5,-,Udinese,/Players/12462/Show/Valon-Behrami
+1.8,4.9,2.5,0.1,2.4,2,0.3,-,Udinese,/Players/12462/Show/Valon-Behrami
+0.7,4.7,3,-,2.3,0.3,0.7,-,Udinese,/Players/12462/Show/Valon-Behrami
+2.1,4.9,2.5,-,1.6,1,0.3,-,Udinese,/Players/12462/Show/Valon-Behrami
+1.5,2.9,2.2,-,1.3,0.4,0.4,-,Udinese,/Players/12462/Show/Valon-Behrami
+1.1,3.4,1.7,0.1,0.7,1.4,0.3,-,Udinese,/Players/12462/Show/Valon-Behrami
+1.8,4,1.3,-,1.1,1.1,0.2,-,Udinese,/Players/12462/Show/Valon-Behrami
+0.1,0.3,0.3,-,0.2,0.2,0.1,-,Lugo,/Players/137587/Show/Cristian-Herrera
+0.1,0.3,0.9,-,0.6,-,-,-,Lugo,/Players/137587/Show/Cristian-Herrera
+2.3,2,1.3,0.4,1.8,1,0.4,-,Nacional,/Players/361987/Show/Kalindi
+1.2,1.7,1.3,0.6,4.8,0.2,1.2,1,Sampdoria,/Players/128740/Show/Lorenzo-Tonelli
+1.8,1.8,0.3,2,2.5,1,0.3,-,Sampdoria,/Players/128740/Show/Lorenzo-Tonelli
+2,0.5,2,0.5,2.5,-,0.5,-,Sampdoria,/Players/128740/Show/Lorenzo-Tonelli
+0.3,2,2,1,3.7,0.3,0.3,-,Sampdoria,/Players/128740/Show/Lorenzo-Tonelli
+3.1,1.8,1.1,1.7,5.1,0.3,1,-,Sampdoria,/Players/128740/Show/Lorenzo-Tonelli
+1.3,1.8,1.5,2.4,6,0.5,1.1,-,Sampdoria,/Players/128740/Show/Lorenzo-Tonelli
+-,1,-,-,0.5,-,-,-,Rayo Majadahonda,/Players/276481/Show/Enzo-Zidane
+-,-,-,-,0.9,0.1,-,-,Eintracht Frankfurt,/Players/66424/Show/Kevin-Trapp
+0.1,-,-,-,1.3,-,-,-,Eintracht Frankfurt,/Players/66424/Show/Kevin-Trapp
+-,-,-,-,0.5,-,-,-,Eintracht Frankfurt,/Players/66424/Show/Kevin-Trapp
+0.5,-,-,-,3,-,-,-,Eintracht Frankfurt,/Players/66424/Show/Kevin-Trapp
+0.1,-,-,-,0.8,-,-,-,Eintracht Frankfurt,/Players/66424/Show/Kevin-Trapp
+0.1,-,0.1,-,0.2,-,-,-,Eintracht Frankfurt,/Players/66424/Show/Kevin-Trapp
+-,-,-,-,0.3,-,-,-,Eintracht Frankfurt,/Players/66424/Show/Kevin-Trapp
+-,-,-,-,0.7,-,-,-,Eintracht Frankfurt,/Players/66424/Show/Kevin-Trapp
+-,-,-,-,0.6,-,-,-,Eintracht Frankfurt,/Players/66424/Show/Kevin-Trapp
+-,-,-,-,0.5,0.1,-,-,Eintracht Frankfurt,/Players/66424/Show/Kevin-Trapp
+-,-,-,-,0.8,-,-,-,Eintracht Frankfurt,/Players/66424/Show/Kevin-Trapp
+-,-,-,-,1.1,0.1,-,-,Eintracht Frankfurt,/Players/66424/Show/Kevin-Trapp
+-,-,0.1,-,1.9,0.1,-,-,Eintracht Frankfurt,/Players/66424/Show/Kevin-Trapp
+0.1,0.2,1.3,-,0.8,0.3,0.1,-,Amiens,/Players/236506/Show/Serhou-Guirassy
+0.4,0.5,1.1,-,1.1,0.2,-,-,Amiens,/Players/236506/Show/Serhou-Guirassy
+0.1,0.2,1.3,-,0.7,0.3,0.1,-,Amiens,/Players/236506/Show/Serhou-Guirassy
+-,0.4,1,-,0.8,0.2,-,-,Amiens,/Players/236506/Show/Serhou-Guirassy
+-,-,1,-,0.3,-,-,-,Amiens,/Players/236506/Show/Serhou-Guirassy
+0.1,0.1,1.1,-,0.8,0.3,-,-,Amiens,/Players/236506/Show/Serhou-Guirassy
+0.9,2.2,1.6,-,0.8,1.5,0.4,-,Hoffenheim,/Players/115166/Show/Kerem-Demirbay
+0.8,1.4,2.2,-,0.4,2,0.2,-,Hoffenheim,/Players/115166/Show/Kerem-Demirbay
+0.7,2,1.5,-,0.8,0.8,0.2,-,Hoffenheim,/Players/115166/Show/Kerem-Demirbay
+1.3,2.3,2,-,0.5,1.8,0.3,-,Hoffenheim,/Players/115166/Show/Kerem-Demirbay
+1.6,2,1.9,-,0.5,1,-,-,Hoffenheim,/Players/115166/Show/Kerem-Demirbay
+1.2,2.2,2.1,-,0.2,0.8,-,-,Hoffenheim,/Players/115166/Show/Kerem-Demirbay
+0.7,1,-,-,0.3,0.3,0.3,-,Hoffenheim,/Players/115166/Show/Kerem-Demirbay
+1.1,1.5,0.3,0.1,1.7,0.6,0.1,-,Yeni Malatyaspor,/Players/86029/Show/Bulent-Cevahir
+2.5,2.2,0.8,0.3,3.3,0.3,0.4,-,Yeni Malatyaspor,/Players/86029/Show/Bulent-Cevahir
+0.7,0.3,0.5,0.2,0.3,0.5,0.3,-,SD Huesca,/Players/363482/Show/Juan-Aguilera
+1.6,2.6,1.3,0.1,2.9,0.9,0.3,-,VVV-Venlo,/Players/343313/Show/Moreno-Rutten
+2.3,2.1,0.9,0.1,2.6,1.3,0.5,-,VVV-Venlo,/Players/343313/Show/Moreno-Rutten
+-,0.1,0.1,-,1.6,-,-,-,Portland Timbers,/Players/126946/Show/Jeff-Attinella
+0.1,-,-,-,1.1,0.1,-,-,Portland Timbers,/Players/126946/Show/Jeff-Attinella
+0.1,0.1,-,-,0.8,-,-,-,Portland Timbers,/Players/126946/Show/Jeff-Attinella
+-,-,-,-,1.8,-,-,-,Portland Timbers,/Players/126946/Show/Jeff-Attinella
+-,0.1,-,-,1,-,-,-,Portland Timbers,/Players/126946/Show/Jeff-Attinella
+-,-,-,-,1.2,0.1,-,-,Portland Timbers,/Players/126946/Show/Jeff-Attinella
+0.2,-,-,-,1.4,-,-,-,Portland Timbers,/Players/126946/Show/Jeff-Attinella
+1.6,2.2,1.2,0.8,4.1,0.4,0.6,-,VfB Stuttgart,/Players/356743/Show/Ozan-Kabak
+1.5,2.2,1.4,0.9,3.5,0.7,0.5,-,VfB Stuttgart,/Players/356743/Show/Ozan-Kabak
+3.3,4.3,1.3,1,3,0.8,0.5,-,VfB Stuttgart,/Players/356743/Show/Ozan-Kabak
+-,-,1,-,-,-,-,-,VfB Stuttgart,/Players/356743/Show/Ozan-Kabak
+0.8,0.8,1.2,-,0.1,0.4,0.1,-,Holstein Kiel,/Players/330780/Show/László-Bénes
+-,3,-,-,-,-,-,-,Holstein Kiel,/Players/330780/Show/László-Bénes
+0.5,-,1,-,0.5,0.5,0.5,-,Holstein Kiel,/Players/330780/Show/László-Bénes
+1.1,0.6,0.6,-,0.6,0.1,-,-,Holstein Kiel,/Players/330780/Show/László-Bénes
+0.1,0.5,0.9,-,0.4,0.4,-,-,Hoffenheim,/Players/78970/Show/Ishak-Belfodil
+0.2,1,0.6,-,0.2,0.2,-,-,Hoffenheim,/Players/78970/Show/Ishak-Belfodil
+-,0.3,2.5,-,0.3,0.1,-,-,Hoffenheim,/Players/78970/Show/Ishak-Belfodil
+0.4,1,2.4,-,0.6,-,-,-,Hoffenheim,/Players/78970/Show/Ishak-Belfodil
+-,0.3,2.8,-,-,0.3,-,-,Hoffenheim,/Players/78970/Show/Ishak-Belfodil
+0.3,0.7,2.1,-,0.3,0.3,0.1,-,Hoffenheim,/Players/78970/Show/Ishak-Belfodil
+0.1,0.6,1.1,-,0.3,-,-,-,Hoffenheim,/Players/78970/Show/Ishak-Belfodil
+0.1,1.1,2,-,0.1,0.3,-,-,Hoffenheim,/Players/78970/Show/Ishak-Belfodil
+0.3,0.8,1.9,-,0.3,0.2,0.1,-,Hoffenheim,/Players/78970/Show/Ishak-Belfodil
+0.4,0.6,1,-,0.1,0.1,-,-,Hoffenheim,/Players/78970/Show/Ishak-Belfodil
+-,-,-,-,-,-,-,-,Hoffenheim,/Players/78970/Show/Ishak-Belfodil
+0.3,0.1,0.7,-,-,0.1,-,-,Hoffenheim,/Players/78970/Show/Ishak-Belfodil
+-,-,-,-,0.3,-,-,-,Hoffenheim,/Players/78970/Show/Ishak-Belfodil
+2.9,3.6,2.2,0.3,1.2,1.1,0.1,-,Nacional,/Players/296124/Show/Mauro-Cerqueira
+1.3,2,0.8,-,1.3,-,0.3,-,Nacional,/Players/296124/Show/Mauro-Cerqueira
+1.1,1.3,0.8,0.1,1.4,0.6,0.2,-,Napoli,/Players/106931/Show/Mário-Rui
+1.3,2.3,-,-,2.5,0.5,0.3,-,Napoli,/Players/106931/Show/Mário-Rui
+1.2,1.3,1.2,0.8,3.3,0.8,0.2,1,Napoli,/Players/106931/Show/Mário-Rui
+1.3,2.3,2.3,1,5,0.3,0.3,-,Napoli,/Players/106931/Show/Mário-Rui
+0.6,2.2,1.7,0.6,1.2,0.9,0.2,-,Napoli,/Players/106931/Show/Mário-Rui
+0.5,1,1,-,1,-,-,-,Napoli,/Players/106931/Show/Mário-Rui
+0.5,0.5,-,-,-,0.5,-,-,Napoli,/Players/106931/Show/Mário-Rui
+0.2,1.6,0.6,-,1.6,0.2,-,-,Napoli,/Players/106931/Show/Mário-Rui
+1.5,1.5,1.5,0.5,3,1,-,-,Napoli,/Players/106931/Show/Mário-Rui
+2.6,1.8,1,0.9,2.3,0.5,0.2,-,Napoli,/Players/106931/Show/Mário-Rui
+1.7,1.5,0.9,0.3,2.7,0.6,0.3,-,Napoli,/Players/106931/Show/Mário-Rui
+2.1,2.3,0.6,0.5,2.9,0.6,0.5,1,Huddersfield,/Players/109117/Show/Terence-Kongolo
+1,4,-,1,7,1,3,-,Huddersfield,/Players/109117/Show/Terence-Kongolo
+1.7,2,1.7,0.3,4.7,0.7,1,-,Huddersfield,/Players/109117/Show/Terence-Kongolo
+2.5,2.5,0.4,0.5,4.9,0.6,0.5,-,Huddersfield,/Players/109117/Show/Terence-Kongolo
+1.7,1.9,0.9,0.2,3.3,0.3,0.3,-,Huddersfield,/Players/109117/Show/Terence-Kongolo
+3.5,2,1.3,0.5,4,0.3,0.3,-,Huddersfield,/Players/109117/Show/Terence-Kongolo
+2,3,1,0.3,3.6,0.3,0.3,-,Huddersfield,/Players/109117/Show/Terence-Kongolo
+1.7,1.7,0.9,2,6.1,0.3,0.3,-,Huddersfield,/Players/109117/Show/Terence-Kongolo
+2.4,2.1,0.9,0.8,6.5,0.4,0.5,-,Huddersfield,/Players/109117/Show/Terence-Kongolo
+2.4,2.1,0.7,0.2,3.8,0.5,0.1,-,Huddersfield,/Players/109117/Show/Terence-Kongolo
+-,-,-,-,1,-,-,-,Huddersfield,/Players/109117/Show/Terence-Kongolo
+0.3,1,0.7,-,0.4,0.2,0.1,-,Krylya Sovetov Samara,/Players/75823/Show/Pavel-Yakovlev
+1.2,1.1,0.8,0.2,0.9,0.3,0.1,-,Krylya Sovetov Samara,/Players/75823/Show/Pavel-Yakovlev
+1,1,1.4,-,1,0.6,-,-,Krylya Sovetov Samara,/Players/75823/Show/Pavel-Yakovlev
+0.3,0.5,0.8,-,-,0.1,-,-,Krylya Sovetov Samara,/Players/75823/Show/Pavel-Yakovlev
+1.4,1.1,1,-,0.6,0.4,-,-,Krylya Sovetov Samara,/Players/75823/Show/Pavel-Yakovlev
+1.2,1.9,0.9,-,1.6,0.6,0.1,-,Krylya Sovetov Samara,/Players/75823/Show/Pavel-Yakovlev
+0.2,0.7,1,-,0.7,0.2,0.1,-,Krylya Sovetov Samara,/Players/75823/Show/Pavel-Yakovlev
+0.7,1,1.3,-,0.7,0.7,-,-,Krylya Sovetov Samara,/Players/75823/Show/Pavel-Yakovlev
+0.6,1.9,1.7,-,0.3,1.2,0.1,-,Bologna,/Players/83651/Show/Nicola-Sansone
+-,-,1,-,-,-,-,-,Bologna,/Players/83651/Show/Nicola-Sansone
+0.3,0.3,1.3,-,-,0.7,-,-,Bologna,/Players/83651/Show/Nicola-Sansone
+0.1,0.4,0.2,-,0.1,0.8,-,-,Bologna,/Players/83651/Show/Nicola-Sansone
+-,0.7,0.3,-,-,-,-,-,Bologna,/Players/83651/Show/Nicola-Sansone
+0.2,0.5,0.9,-,0.1,0.5,0.1,-,Bologna,/Players/83651/Show/Nicola-Sansone
+-,-,0.7,-,-,0.8,-,-,Bologna,/Players/83651/Show/Nicola-Sansone
+0.6,0.7,1.4,-,0.1,1.1,0.1,-,Bologna,/Players/83651/Show/Nicola-Sansone
+0.4,0.7,0.7,-,0.3,1.1,-,-,Bologna,/Players/83651/Show/Nicola-Sansone
+0.7,1.1,1.2,-,0.2,0.8,-,-,Bologna,/Players/83651/Show/Nicola-Sansone
+0.2,0.5,0.4,-,0.2,0.2,0.1,-,Bologna,/Players/83651/Show/Nicola-Sansone
+-,0.7,-,-,0.3,0.3,-,-,Bologna,/Players/83651/Show/Nicola-Sansone
+0.4,0.7,0.4,-,-,0.5,-,-,Bologna,/Players/83651/Show/Nicola-Sansone
+0.6,1.6,1.3,0.1,0.6,0.4,0.1,-,Eibar,/Players/363496/Show/Marc-Cucurella
+-,-,1,-,-,-,-,-,Augsburg,/Players/6577/Show/Jan-Ingwer-Callsen-Bracker
+1.1,1.2,1.3,0.3,5.7,0.1,1.7,-,Augsburg,/Players/6577/Show/Jan-Ingwer-Callsen-Bracker
+-,-,-,-,-,-,-,-,Augsburg,/Players/6577/Show/Jan-Ingwer-Callsen-Bracker
+2.5,1.1,1.4,0.4,4.2,0.6,1.2,-,Augsburg,/Players/6577/Show/Jan-Ingwer-Callsen-Bracker
+1.3,1.3,1.3,0.3,3,0.5,1.8,-,Augsburg,/Players/6577/Show/Jan-Ingwer-Callsen-Bracker
+2.2,1.4,1.3,0.7,6,0.8,0.8,-,Augsburg,/Players/6577/Show/Jan-Ingwer-Callsen-Bracker
+1.2,1.8,1.8,0.6,5.9,1.1,0.8,1,Augsburg,/Players/6577/Show/Jan-Ingwer-Callsen-Bracker
+2,1.8,1.3,0.6,5,0.9,0.7,-,Augsburg,/Players/6577/Show/Jan-Ingwer-Callsen-Bracker
+1.9,1.8,1.7,0.3,2.5,0.9,0.4,-,Augsburg,/Players/6577/Show/Jan-Ingwer-Callsen-Bracker
+1.3,2.5,0.3,0.8,3.5,-,0.3,-,Augsburg,/Players/6577/Show/Jan-Ingwer-Callsen-Bracker
+0.8,2,1.3,0.7,3,0.6,0.9,1,Barcelona,/Players/236511/Show/Clément-Lenglet
+0.7,2.3,1,1,3.3,0.5,0.9,-,Barcelona,/Players/236511/Show/Clément-Lenglet
+1,1.9,1.5,0.6,4.3,0.5,0.8,-,Barcelona,/Players/236511/Show/Clément-Lenglet
+1.9,1.8,1.4,0.9,3.6,0.2,0.8,-,Barcelona,/Players/236511/Show/Clément-Lenglet
+1.5,2.8,2.1,0.1,3.5,0.8,0.4,-,Barcelona,/Players/236511/Show/Clément-Lenglet
+1,4,1,-,-,1,-,-,Barcelona,/Players/236511/Show/Clément-Lenglet
+2.6,2.5,1.2,0.7,5.1,0.7,0.6,-,Barcelona,/Players/236511/Show/Clément-Lenglet
+0.3,1.3,0.6,-,0.4,0.5,0.1,-,Eintracht Frankfurt,/Players/19087/Show/Jonathan-de-Guzmán
+0.4,0.2,0.6,-,0.1,0.3,-,-,Eintracht Frankfurt,/Players/19087/Show/Jonathan-de-Guzmán
+0.8,1,1,-,0.6,0.6,-,-,Eintracht Frankfurt,/Players/19087/Show/Jonathan-de-Guzmán
+0.4,0.7,0.5,-,0.4,0.3,-,-,Eintracht Frankfurt,/Players/19087/Show/Jonathan-de-Guzmán
+-,-,0.2,-,0.2,0.4,-,-,Eintracht Frankfurt,/Players/19087/Show/Jonathan-de-Guzmán
+0.3,0.6,0.8,-,0.2,0.1,-,-,Eintracht Frankfurt,/Players/19087/Show/Jonathan-de-Guzmán
+0.4,0.8,0.5,-,-,0.3,0.1,-,Eintracht Frankfurt,/Players/19087/Show/Jonathan-de-Guzmán
+1,2,0.4,-,0.4,0.9,0.3,-,Eintracht Frankfurt,/Players/19087/Show/Jonathan-de-Guzmán
+0.8,1.2,0.7,-,0.4,0.7,0.1,-,Eintracht Frankfurt,/Players/19087/Show/Jonathan-de-Guzmán
+1,-,2.7,-,-,0.7,-,-,Eintracht Frankfurt,/Players/19087/Show/Jonathan-de-Guzmán
+1.3,1.2,0.9,-,0.6,0.5,0.1,1,Eintracht Frankfurt,/Players/19087/Show/Jonathan-de-Guzmán
+0.7,1.3,0.8,-,0.6,0.3,-,-,Eintracht Frankfurt,/Players/19087/Show/Jonathan-de-Guzmán
+1,2,2,-,-,-,-,-,Eintracht Frankfurt,/Players/19087/Show/Jonathan-de-Guzmán
+1.5,0.7,1,-,0.2,0.3,-,-,Eintracht Frankfurt,/Players/19087/Show/Jonathan-de-Guzmán
+1.6,1.1,1.4,-,0.1,0.5,0.1,-,Eintracht Frankfurt,/Players/19087/Show/Jonathan-de-Guzmán
+0.1,0.3,0.5,0.1,0.5,0.3,0.1,-,Boca Juniors,/Players/125262/Show/Darío-Benedetto
+-,0.3,1.1,-,0.7,0.2,0.3,-,Boca Juniors,/Players/125262/Show/Darío-Benedetto
+0.1,0.2,1.2,0.1,0.6,0.3,0.1,-,Boca Juniors,/Players/125262/Show/Darío-Benedetto
+2.4,3.3,1.5,0.2,2.1,1.1,0.1,-,Braga,/Players/135523/Show/Marcelo-Goiano
+1.9,2.7,1.5,0.2,2.1,0.7,0.4,-,Braga,/Players/135523/Show/Marcelo-Goiano
+0.8,3,1.5,0.3,2,0.5,0.2,-,Braga,/Players/135523/Show/Marcelo-Goiano
+2.2,2.2,1.5,0.3,2.4,0.6,0.2,-,Braga,/Players/135523/Show/Marcelo-Goiano
+3.5,1.7,0.7,0.3,2.5,-,0.2,-,Braga,/Players/135523/Show/Marcelo-Goiano
+2.8,2.7,0.9,0.4,2.3,0.7,-,-,Braga,/Players/135523/Show/Marcelo-Goiano
+-,0.2,0.5,-,0.5,0.1,-,-,Boca Juniors,/Players/246390/Show/Ramón-Ábila
+0.1,0.1,0.5,-,0.1,0.3,-,-,Boca Juniors,/Players/246390/Show/Ramón-Ábila
+-,0.2,0.2,-,1,0.3,0.1,-,Boca Juniors,/Players/246390/Show/Ramón-Ábila
+-,0.1,0.5,-,0.4,0.1,-,-,Boca Juniors,/Players/246390/Show/Ramón-Ábila
+0.1,0.1,0.6,-,0.2,0.1,-,1,Boca Juniors,/Players/246390/Show/Ramón-Ábila
+0.1,0.1,0.7,0.1,0.8,0.2,0.1,-,Boca Juniors,/Players/246390/Show/Ramón-Ábila
+0.6,0.8,1,-,0.4,1.3,0.1,-,Sporting Kansas City,/Players/354096/Show/Yohan-Croizet
+0.3,1.1,0.7,-,0.3,0.6,-,-,Sporting Kansas City,/Players/354096/Show/Yohan-Croizet
+1.4,3.2,2.3,0.1,2,1.2,0.1,-,Erzgebirge Aue,/Players/285942/Show/Calogero-Rizzuto
+1.4,3.7,1.8,0.1,2.3,1,0.3,-,Erzgebirge Aue,/Players/285942/Show/Calogero-Rizzuto
+2.8,3.1,1.1,0.2,3,1.3,0.2,-,Erzgebirge Aue,/Players/285942/Show/Calogero-Rizzuto
+0.4,0.8,0.4,-,0.3,0.3,-,-,Krylya Sovetov Samara,/Players/7181/Show/Aleksandr-Samedov
+0.3,1.4,0.7,0.1,0.3,1.1,0.2,-,Krylya Sovetov Samara,/Players/7181/Show/Aleksandr-Samedov
+0.5,-,0.5,-,-,-,-,-,Krylya Sovetov Samara,/Players/7181/Show/Aleksandr-Samedov
+0.5,-,0.5,-,1.5,1,-,-,Krylya Sovetov Samara,/Players/7181/Show/Aleksandr-Samedov
+0.4,1,1,-,0.4,0.3,0.1,-,Krylya Sovetov Samara,/Players/7181/Show/Aleksandr-Samedov
+0.7,0.6,1.4,-,0.1,1.1,-,-,Krylya Sovetov Samara,/Players/7181/Show/Aleksandr-Samedov
+0.5,0.8,0.6,-,0.4,0.5,-,-,Krylya Sovetov Samara,/Players/7181/Show/Aleksandr-Samedov
+0.4,1.2,1.6,-,0.6,1.2,-,-,Krylya Sovetov Samara,/Players/7181/Show/Aleksandr-Samedov
+0.8,1.4,0.9,-,0.3,0.5,0.1,-,Krylya Sovetov Samara,/Players/7181/Show/Aleksandr-Samedov
+2.1,0.5,1.8,-,0.6,0.6,0.1,-,Krylya Sovetov Samara,/Players/7181/Show/Aleksandr-Samedov
+1.1,0.7,0.7,-,0.3,0.9,0.1,-,Krylya Sovetov Samara,/Players/7181/Show/Aleksandr-Samedov
+1,-,-,-,-,-,-,-,Krylya Sovetov Samara,/Players/7181/Show/Aleksandr-Samedov
+0.3,0.6,0.6,-,0.5,0.4,-,-,Krylya Sovetov Samara,/Players/7181/Show/Aleksandr-Samedov
+0.7,1.7,0.3,0.3,0.7,0.7,-,-,Krylya Sovetov Samara,/Players/7181/Show/Aleksandr-Samedov
+1.1,1.2,0.4,-,1,0.4,0.3,-,Wigan,/Players/30395/Show/Darron-Gibson
+1.1,2,0.7,0.1,1.4,1.5,0.4,-,Wigan,/Players/30395/Show/Darron-Gibson
+1.2,1.1,1,-,1.5,0.7,0.2,-,Wigan,/Players/30395/Show/Darron-Gibson
+0.6,0.6,0.6,-,2.1,0.4,0.3,-,Wigan,/Players/30395/Show/Darron-Gibson
+0.5,0.5,0.8,-,0.3,-,0.3,-,Wigan,/Players/30395/Show/Darron-Gibson
+1,1.2,0.6,-,1.7,0.3,0.3,-,Wigan,/Players/30395/Show/Darron-Gibson
+-,1,-,-,1,-,-,-,Wigan,/Players/30395/Show/Darron-Gibson
+1.5,1.9,0.8,-,1.6,0.6,0.2,-,Wigan,/Players/30395/Show/Darron-Gibson
+1,2,-,-,-,2,1,-,Wigan,/Players/30395/Show/Darron-Gibson
+1.9,1.9,0.9,-,1.6,0.7,0.4,-,Wigan,/Players/30395/Show/Darron-Gibson
+1.3,1.7,1.7,-,1,1,0.3,-,Wigan,/Players/30395/Show/Darron-Gibson
+0.7,0.8,0.6,-,0.8,0.3,0.1,-,Wigan,/Players/30395/Show/Darron-Gibson
+1.5,0.3,0.8,-,0.8,-,-,-,Wigan,/Players/30395/Show/Darron-Gibson
+0.7,0.9,0.5,-,0.7,0.5,0.2,-,Wigan,/Players/30395/Show/Darron-Gibson
+0.5,1,1.3,-,0.5,0.6,0.1,-,Sivasspor,/Players/99460/Show/Serhiy-Rybalka
+0.5,1,1,-,0.5,0.8,0.1,-,Sivasspor,/Players/99460/Show/Serhiy-Rybalka
+1.2,1.6,1.6,-,0.4,1.6,-,-,Sivasspor,/Players/99460/Show/Serhiy-Rybalka
+2.9,1.9,2,-,1.6,1.6,0.4,-,Sivasspor,/Players/99460/Show/Serhiy-Rybalka
+2.4,2.3,1.6,-,2.8,2,0.5,-,Sivasspor,/Players/99460/Show/Serhiy-Rybalka
+2,3,2.4,-,2.4,1.6,-,-,Sivasspor,/Players/99460/Show/Serhiy-Rybalka
+0.7,1,2.1,0.1,1.1,0.5,0.1,-,Santa Clara,/Players/122185/Show/Martin-Chrien
+-,-,-,-,1,-,-,-,Santa Clara,/Players/122185/Show/Martin-Chrien
+0.5,1.8,1.2,-,1.5,0.4,0.4,-,Nottingham Forest,/Players/35691/Show/Claudio-Yacob
+1,2.3,1.6,-,1.6,0.9,0.4,-,Nottingham Forest,/Players/35691/Show/Claudio-Yacob
+1.6,2.8,1.2,0.1,1.8,1.4,0.5,-,Nottingham Forest,/Players/35691/Show/Claudio-Yacob
+3.5,3.2,1.8,0.1,1.9,2,0.4,-,Nottingham Forest,/Players/35691/Show/Claudio-Yacob
+2,3.4,1.4,-,2.1,2.2,0.6,-,Nottingham Forest,/Players/35691/Show/Claudio-Yacob
+1.7,3.8,1.4,-,2,1.7,0.4,-,Nottingham Forest,/Players/35691/Show/Claudio-Yacob
+1.5,3.6,2,0.1,2.7,1,0.5,-,Nottingham Forest,/Players/35691/Show/Claudio-Yacob
+0.6,2.4,1.4,0.2,2.4,0.6,0.2,-,Granada,/Players/125594/Show/Nicolás-Aguirre
+-,2.3,1.8,-,-,0.5,0.3,-,Granada,/Players/125594/Show/Nicolás-Aguirre
+0.7,0.9,0.7,-,1.3,0.3,0.3,-,Granada,/Players/125594/Show/Nicolás-Aguirre
+2.5,2.3,1.6,1.2,5.9,0.5,1.3,-,Velez Sarsfield,/Players/126255/Show/Lautaro-Gianetti
+5,1.2,1.4,0.6,5,-,0.2,-,Velez Sarsfield,/Players/126255/Show/Lautaro-Gianetti
+4.1,2.6,1.3,0.7,3.9,0.8,0.1,-,Velez Sarsfield,/Players/126255/Show/Lautaro-Gianetti
+3.4,3.6,1.5,1.1,5.5,0.5,0.9,-,Velez Sarsfield,/Players/126255/Show/Lautaro-Gianetti
+2.1,1.8,0.4,0.3,4.5,0.8,0.7,-,Cardiff,/Players/42573/Show/Bruno-Ecuele-Manga
+2.3,2.4,0.9,0.4,6.3,0.8,0.4,-,Cardiff,/Players/42573/Show/Bruno-Ecuele-Manga
+3.1,1.8,0.6,0.2,6.9,0.5,0.8,-,Cardiff,/Players/42573/Show/Bruno-Ecuele-Manga
+2.8,1.4,0.3,0.8,5.9,0.3,0.6,-,Cardiff,/Players/42573/Show/Bruno-Ecuele-Manga
+2,2.7,1.3,1.3,4.7,0.3,1,-,Cardiff,/Players/42573/Show/Bruno-Ecuele-Manga
+4.1,2.1,0.6,0.8,7.6,0.8,0.8,-,Cardiff,/Players/42573/Show/Bruno-Ecuele-Manga
+1,2.3,0.3,-,9.3,0.3,0.3,-,Cardiff,/Players/42573/Show/Bruno-Ecuele-Manga
+2.5,2.3,0.8,0.9,7.1,0.6,0.7,-,Cardiff,/Players/42573/Show/Bruno-Ecuele-Manga
+3.9,1.8,0.7,1,7.9,0.5,0.8,-,Cardiff,/Players/42573/Show/Bruno-Ecuele-Manga
+2.4,2.1,0.8,1,11.8,0.2,0.5,1,Cardiff,/Players/42573/Show/Bruno-Ecuele-Manga
+2.3,1.8,0.7,1,8.1,0.2,0.7,1,Cardiff,/Players/42573/Show/Bruno-Ecuele-Manga
+0.4,0.9,1.2,0.1,1.2,0.6,0.1,-,Swansea,/Players/138695/Show/Oliver-McBurnie
+-,-,-,-,-,-,-,-,Swansea,/Players/138695/Show/Oliver-McBurnie
+0.4,1.6,1.1,-,0.6,1.2,-,-,Swansea,/Players/138695/Show/Oliver-McBurnie
+-,0.4,0.4,-,0.3,0.2,-,-,Swansea,/Players/138695/Show/Oliver-McBurnie
+-,0.2,0.2,-,-,0.4,-,-,Swansea,/Players/138695/Show/Oliver-McBurnie
+-,-,-,-,1,-,-,-,Antalyaspor,/Players/79809/Show/Ferhat-Kaplan
+-,0.1,-,-,0.7,0.2,-,-,Antalyaspor,/Players/79809/Show/Ferhat-Kaplan
+0.1,-,-,-,0.9,-,-,-,Antalyaspor,/Players/79809/Show/Ferhat-Kaplan
+-,0.2,-,-,1.4,-,-,-,Antalyaspor,/Players/79809/Show/Ferhat-Kaplan
+-,0.1,-,-,1.3,0.1,-,-,Antalyaspor,/Players/79809/Show/Ferhat-Kaplan
+1.5,1.1,1.2,0.8,5.2,0.2,0.9,-,Konyaspor,/Players/43031/Show/Fallou-Diagne
+1.6,1.1,1,0.8,3.9,0.5,0.6,-,Konyaspor,/Players/43031/Show/Fallou-Diagne
+1.5,1,-,-,2,-,1,-,Konyaspor,/Players/43031/Show/Fallou-Diagne
+1.8,1,1.6,-,2.5,0.8,0.6,-,Konyaspor,/Players/43031/Show/Fallou-Diagne
+3,1.8,1.5,0.8,4,0.5,0.5,1,Konyaspor,/Players/43031/Show/Fallou-Diagne
+1.5,1.2,1,0.5,5.3,0.5,0.7,1,Konyaspor,/Players/43031/Show/Fallou-Diagne
+1.3,1.7,1.3,1,7.3,0.7,0.7,-,Konyaspor,/Players/43031/Show/Fallou-Diagne
+2.1,2.1,1.5,0.9,6.4,0.5,0.5,-,Konyaspor,/Players/43031/Show/Fallou-Diagne
+2.6,1.6,0.9,1,5.6,0.5,0.4,-,Konyaspor,/Players/43031/Show/Fallou-Diagne
+3.2,1.3,1.8,0.7,5.5,0.7,0.7,-,Konyaspor,/Players/43031/Show/Fallou-Diagne
+1.1,1.4,1.6,0.5,1.9,0.4,0.6,-,Real Betis,/Players/90115/Show/Aissa-Mandi
+1.7,1.2,1.5,0.7,1,-,0.8,-,Real Betis,/Players/90115/Show/Aissa-Mandi
+2.1,1.6,1,0.9,3.7,0.4,0.7,-,Real Betis,/Players/90115/Show/Aissa-Mandi
+2.3,1.7,1.1,0.5,3.1,0.3,0.9,-,Real Betis,/Players/90115/Show/Aissa-Mandi
+3.4,1.3,0.7,1,5,0.4,0.6,-,Real Betis,/Players/90115/Show/Aissa-Mandi
+2.3,0.5,1,0.3,3,0.8,-,-,Real Betis,/Players/90115/Show/Aissa-Mandi
+2,2.2,0.8,0.3,3.8,0.8,0.2,-,Real Betis,/Players/90115/Show/Aissa-Mandi
+2.2,3.1,1.3,0.3,3.5,0.9,0.3,1,Real Betis,/Players/90115/Show/Aissa-Mandi
+2.3,3.7,1.3,0.7,3.3,1.3,0.3,-,Real Betis,/Players/90115/Show/Aissa-Mandi
+1.8,3.2,1.2,0.2,3.5,0.7,0.1,-,Real Betis,/Players/90115/Show/Aissa-Mandi
+0.2,0.2,0.7,-,0.3,-,-,-,Holstein Kiel,/Players/330791/Show/Aaron-Seydel
+0.1,0.6,0.9,-,0.8,0.1,-,-,Holstein Kiel,/Players/330791/Show/Aaron-Seydel
+0.2,0.2,1,-,0.3,-,-,-,Holstein Kiel,/Players/330791/Show/Aaron-Seydel
+0.5,-,-,-,-,-,-,-,Holstein Kiel,/Players/330791/Show/Aaron-Seydel
+0.1,0.2,1.9,-,1.2,0.3,-,-,Celta Vigo,/Players/344119/Show/Maxi-Gómez
+0.1,0.2,1.5,-,0.9,0.5,0.1,-,Celta Vigo,/Players/344119/Show/Maxi-Gómez
+-,0.5,0.5,-,-,-,-,-,Celta Vigo,/Players/344119/Show/Maxi-Gómez
+1.7,1.3,1.2,-,1.1,0.3,0.2,-,FC Krasnodar,/Players/132578/Show/Yuri-Gazinskiy
+2.1,2,1.2,-,1.2,1.2,0.2,-,FC Krasnodar,/Players/132578/Show/Yuri-Gazinskiy
+4.3,0.8,0.8,-,2.3,-,-,-,FC Krasnodar,/Players/132578/Show/Yuri-Gazinskiy
+2.2,1.6,0.9,0.1,1.5,0.6,0.3,-,FC Krasnodar,/Players/132578/Show/Yuri-Gazinskiy
+1.6,2,1.6,0.1,1,0.7,0.2,-,FC Krasnodar,/Players/132578/Show/Yuri-Gazinskiy
+2.8,1.7,1.7,-,1.2,0.8,0.3,-,FC Krasnodar,/Players/132578/Show/Yuri-Gazinskiy
+1,1,1.5,-,2,0.8,-,-,FC Krasnodar,/Players/132578/Show/Yuri-Gazinskiy
+1.4,1.1,1.2,-,0.6,0.1,0.1,-,FC Krasnodar,/Players/132578/Show/Yuri-Gazinskiy
+0.7,0.4,0.9,-,0.1,0.3,-,-,FC Krasnodar,/Players/132578/Show/Yuri-Gazinskiy
+2.5,1.7,0.8,-,1.2,1,-,-,FC Krasnodar,/Players/132578/Show/Yuri-Gazinskiy
+4,2.3,1.9,-,2,1.5,0.3,-,FC Krasnodar,/Players/132578/Show/Yuri-Gazinskiy
+1.9,1.8,1.4,-,2,0.5,0.4,-,FC Krasnodar,/Players/132578/Show/Yuri-Gazinskiy
+0.8,1.3,0.9,-,0.1,0.6,-,-,Guingamp,/Players/93147/Show/Nicolas-Benezet
+0.4,1.3,0.8,-,0.2,0.9,0.1,-,Guingamp,/Players/93147/Show/Nicolas-Benezet
+0.6,1.2,0.6,-,0.8,0.4,-,-,Guingamp,/Players/93147/Show/Nicolas-Benezet
+1.4,1.8,0.8,-,0.2,0.8,-,-,Guingamp,/Players/93147/Show/Nicolas-Benezet
+0.7,1.9,0.7,-,0.2,1.1,0.1,-,Guingamp,/Players/93147/Show/Nicolas-Benezet
+0.6,1.3,1.2,-,0.1,0.7,0.1,-,Guingamp,/Players/93147/Show/Nicolas-Benezet
+1.1,1.8,1.2,-,0.6,0.9,-,-,Guingamp,/Players/93147/Show/Nicolas-Benezet
+0.9,0.6,0.3,-,0.9,0.7,0.2,-,ADO Den Haag,/Players/67062/Show/John-Goossens
+3,1,1,-,3,1,-,-,ADO Den Haag,/Players/67062/Show/John-Goossens
+0.8,0.5,0.4,-,0.3,0.3,-,-,ADO Den Haag,/Players/67062/Show/John-Goossens
+0.3,0.6,0.5,-,0.3,0.5,-,-,ADO Den Haag,/Players/67062/Show/John-Goossens
+0.1,-,0.1,-,0.6,0.1,-,-,Antalyaspor,/Players/34272/Show/Ruud-Boffin
+-,0.1,-,0.1,0.9,0.1,-,-,Antalyaspor,/Players/34272/Show/Ruud-Boffin
+-,-,-,-,0.8,0.2,-,-,Antalyaspor,/Players/34272/Show/Ruud-Boffin
+-,-,-,-,0.9,-,-,-,Antalyaspor,/Players/34272/Show/Ruud-Boffin
+-,-,-,-,2,-,-,-,Antalyaspor,/Players/34272/Show/Ruud-Boffin
+1.5,1.3,1.1,0.9,5.5,0.3,0.9,-,FC Emmen,/Players/346321/Show/Nick-Kuipers
+1.4,1.3,0.4,0.3,6.4,0.6,1.1,-,FC Emmen,/Players/346321/Show/Nick-Kuipers
+0.8,0.8,1.2,0.4,4.4,0.6,0.2,-,FC Emmen,/Players/346321/Show/Nick-Kuipers
+0.2,0.4,1.1,0.1,1,0.3,-,-,Alanyaspor,/Players/24223/Show/Papiss-Demba-Cissé
+0.2,0.9,0.9,-,0.3,0.3,0.1,-,Alanyaspor,/Players/24223/Show/Papiss-Demba-Cissé
+0.1,0.4,1.1,0.1,0.1,0.3,-,-,Alanyaspor,/Players/24223/Show/Papiss-Demba-Cissé
+0.1,0.5,0.6,-,0.5,0.3,-,-,Alanyaspor,/Players/24223/Show/Papiss-Demba-Cissé
+-,-,-,-,-,-,-,-,Alanyaspor,/Players/24223/Show/Papiss-Demba-Cissé
+0.1,0.4,0.7,-,0.2,0.5,-,-,Alanyaspor,/Players/24223/Show/Papiss-Demba-Cissé
+0.4,0.7,0.5,-,0.5,-,-,-,Alanyaspor,/Players/24223/Show/Papiss-Demba-Cissé
+0.4,0.3,1,-,0.6,0.1,-,-,Alanyaspor,/Players/24223/Show/Papiss-Demba-Cissé
+0.7,1,1.7,-,0.6,0.4,0.1,-,Alanyaspor,/Players/24223/Show/Papiss-Demba-Cissé
+0.5,0.3,1.3,-,0.3,0.4,0.2,-,Alanyaspor,/Players/24223/Show/Papiss-Demba-Cissé
+0.9,0.9,0.9,-,0.6,0.2,-,-,Alanyaspor,/Players/24223/Show/Papiss-Demba-Cissé
+0.2,0.5,2,-,1,0.4,0.1,-,Alanyaspor,/Players/24223/Show/Papiss-Demba-Cissé
+0.1,0.7,1.2,-,0.4,0.2,0.1,1,Alanyaspor,/Players/24223/Show/Papiss-Demba-Cissé
+-,-,-,-,0.5,-,-,-,Millwall,/Players/68651/Show/Ben-Amos
+-,-,-,-,0.7,-,-,-,Millwall,/Players/68651/Show/Ben-Amos
+-,-,-,-,0.7,0.1,-,-,Millwall,/Players/68651/Show/Ben-Amos
+-,-,-,-,0.9,-,-,-,Millwall,/Players/68651/Show/Ben-Amos
+-,-,-,-,1,-,-,-,Millwall,/Players/68651/Show/Ben-Amos
+-,-,-,-,1,-,-,-,Millwall,/Players/68651/Show/Ben-Amos
+1.3,0.9,1,0.5,5.6,0.4,0.8,-,Chaves,/Players/50044/Show/Nikola-Maras
+0.9,1.1,0.9,0.7,3.9,0.5,0.8,-,Chaves,/Players/50044/Show/Nikola-Maras
+-,0.5,-,-,-,-,-,-,Holstein Kiel,/Players/349126/Show/Yann-Bisseck
+1,0.7,0.3,-,2.3,-,0.3,-,Holstein Kiel,/Players/349126/Show/Yann-Bisseck
+2.2,1.8,1.1,0.8,4.9,0.5,0.5,-,Athletic Bilbao,/Players/279839/Show/Yeray-Álvarez
+1.4,1.5,1.5,0.4,2.1,0.4,0.3,-,Athletic Bilbao,/Players/279839/Show/Yeray-Álvarez
+1.8,2.8,0.5,0.5,5.5,0.5,0.8,-,Athletic Bilbao,/Players/279839/Show/Yeray-Álvarez
+3.7,2.5,2,0.9,3.8,0.5,0.5,-,Athletic Bilbao,/Players/279839/Show/Yeray-Álvarez
+4.6,1.8,1.1,1.3,2.9,0.4,0.1,-,Athletic Bilbao,/Players/279839/Show/Yeray-Álvarez
+1.3,3.7,1.3,-,1.4,1.1,0.1,-,Estudiantes,/Players/323652/Show/Iván-Gómez
+1.8,2.9,1.4,0.1,0.7,1.5,0.4,1,Estudiantes,/Players/323652/Show/Iván-Gómez
+0.9,1.7,1.1,-,0.4,0.6,0.1,-,Estudiantes,/Players/323652/Show/Iván-Gómez
+0.1,-,-,-,0.8,0.1,-,-,FC Porto,/Players/2776/Show/Iker-Casillas
+0.1,-,-,-,1,0.1,-,-,FC Porto,/Players/2776/Show/Iker-Casillas
+-,-,-,-,0.7,-,-,-,FC Porto,/Players/2776/Show/Iker-Casillas
+-,-,-,-,0.7,-,-,-,FC Porto,/Players/2776/Show/Iker-Casillas
+-,-,-,-,0.6,-,-,-,FC Porto,/Players/2776/Show/Iker-Casillas
+-,-,-,-,0.4,-,-,-,FC Porto,/Players/2776/Show/Iker-Casillas
+-,-,-,-,0.5,-,-,1,FC Porto,/Players/2776/Show/Iker-Casillas
+-,-,-,-,0.3,-,-,-,FC Porto,/Players/2776/Show/Iker-Casillas
+-,-,-,-,0.8,-,-,-,FC Porto,/Players/2776/Show/Iker-Casillas
+-,-,-,-,1.2,0.1,-,-,FC Porto,/Players/2776/Show/Iker-Casillas
+-,0.5,-,-,-,-,-,-,FC Porto,/Players/2776/Show/Iker-Casillas
+-,-,-,-,0.9,0.2,-,-,FC Porto,/Players/2776/Show/Iker-Casillas
+-,-,-,-,0.5,1,-,-,FC Porto,/Players/2776/Show/Iker-Casillas
+-,-,-,-,0.7,-,-,-,FC Porto,/Players/2776/Show/Iker-Casillas
+-,-,0.1,-,0.8,-,-,-,FC Porto,/Players/2776/Show/Iker-Casillas
+-,-,-,-,1.6,-,-,-,FC Porto,/Players/2776/Show/Iker-Casillas
+0.2,-,-,-,1,-,-,-,FC Porto,/Players/2776/Show/Iker-Casillas
+-,-,-,-,0.9,0.1,-,-,FC Porto,/Players/2776/Show/Iker-Casillas
+-,-,-,-,1.3,-,-,-,FC Porto,/Players/2776/Show/Iker-Casillas
+-,-,-,-,1,0.1,-,-,FC Porto,/Players/2776/Show/Iker-Casillas
+-,-,-,-,0.9,-,-,-,FC Porto,/Players/2776/Show/Iker-Casillas
+-,-,-,-,1,0.1,-,-,FC Porto,/Players/2776/Show/Iker-Casillas
+-,-,0.3,-,0.8,-,-,-,FC Porto,/Players/2776/Show/Iker-Casillas
+1.2,1.9,1.1,-,0.8,0.3,0.1,-,Sandhausen,/Players/228636/Show/Maximilian-Jansen
+1.2,1.4,1.3,-,1.3,0.9,0.1,-,Sandhausen,/Players/228636/Show/Maximilian-Jansen
+0.4,0.8,0.9,1,2,1.2,0.6,-,Bochum,/Players/369463/Show/Dominik-Baumgartner
+-,-,-,-,-,-,-,-,Colorado Rapids,/Players/354259/Show/Niki-Jackson
+0.1,0.2,1.1,-,0.1,0.3,-,1,Colorado Rapids,/Players/354259/Show/Niki-Jackson
+0.9,2.2,1.6,-,1.8,1.1,-,-,Montpellier,/Players/369413/Show/Mathías-Suárez
+-,-,1,-,-,-,-,-,Mallorca,/Players/303555/Show/Nikola-Stojiljkovic
+-,0.2,0.5,-,0.1,0.2,-,-,Mallorca,/Players/303555/Show/Nikola-Stojiljkovic
+-,-,1,-,-,-,-,-,Mallorca,/Players/303555/Show/Nikola-Stojiljkovic
+0.1,0.5,1.2,-,0.3,0.2,-,-,Mallorca,/Players/303555/Show/Nikola-Stojiljkovic
+0.2,-,1.2,-,0.4,0.8,-,-,Mallorca,/Players/303555/Show/Nikola-Stojiljkovic
+0.2,0.7,0.8,-,0.8,0.3,-,-,Mallorca,/Players/303555/Show/Nikola-Stojiljkovic
+-,-,1,-,2,-,-,-,PSV Eindhoven,/Players/361839/Show/Jordan-Teze
+0.7,1.3,1.3,0.1,0.8,0.9,0.3,-,Levante,/Players/50069/Show/Nikola-Vukcevic
+2.7,2,2,-,1.7,1.7,-,-,Levante,/Players/50069/Show/Nikola-Vukcevic
+1.2,2.2,2.3,0.1,1.3,1.2,-,-,Levante,/Players/50069/Show/Nikola-Vukcevic
+1.6,2.5,1.6,0.1,1.4,1.5,0.1,-,Levante,/Players/50069/Show/Nikola-Vukcevic
+1.2,2.4,1.9,0.1,1.4,0.4,0.2,-,Levante,/Players/50069/Show/Nikola-Vukcevic
+2,1.8,2.2,-,1.5,0.3,0.5,-,Levante,/Players/50069/Show/Nikola-Vukcevic
+1.7,2.6,1,0.1,1.4,1.6,0.1,-,Levante,/Players/50069/Show/Nikola-Vukcevic
+1.5,1.8,1.6,-,2,1.3,0.4,-,Real Sociedad,/Players/87094/Show/Asier-Illarramendi
+2.1,2.4,0.9,0.1,0.8,1.5,0.2,-,Real Sociedad,/Players/87094/Show/Asier-Illarramendi
+1.9,1.4,0.9,-,0.5,1,0.3,-,Real Sociedad,/Players/87094/Show/Asier-Illarramendi
+3.5,3.1,1.6,-,1.7,1.4,0.3,1,Real Sociedad,/Players/87094/Show/Asier-Illarramendi
+3.5,3.1,1.3,0.1,1.5,1.1,0.2,-,Real Sociedad,/Players/87094/Show/Asier-Illarramendi
+1.4,1.2,0.7,-,0.9,0.6,0.2,-,Real Sociedad,/Players/87094/Show/Asier-Illarramendi
+1.3,1.1,0.3,-,0.1,0.4,0.1,-,Real Sociedad,/Players/87094/Show/Asier-Illarramendi
+1.3,2.2,0.8,-,0.4,0.6,0.1,-,Real Sociedad,/Players/87094/Show/Asier-Illarramendi
+1.4,1.4,0.7,-,0.4,0.7,-,-,Real Sociedad,/Players/87094/Show/Asier-Illarramendi
+1.8,2.6,1,-,1.2,0.6,0.2,-,Real Sociedad,/Players/87094/Show/Asier-Illarramendi
+2.3,3.8,1.6,0.1,1.6,1,0.4,-,Real Sociedad,/Players/87094/Show/Asier-Illarramendi
+5.2,3.4,1.5,-,1.2,0.7,0.3,-,Real Sociedad,/Players/87094/Show/Asier-Illarramendi
+4,3,2,-,1,-,0.3,-,Real Sociedad,/Players/87094/Show/Asier-Illarramendi
+0.8,1,0.6,-,0.9,0.6,-,-,Zenit St. Petersburg,/Players/20211/Show/Claudio-Marchisio
+0.6,1.2,1.4,-,0.8,1,0.2,-,Zenit St. Petersburg,/Players/20211/Show/Claudio-Marchisio
+0.3,1.1,0.5,-,0.4,1.1,0.1,-,Zenit St. Petersburg,/Players/20211/Show/Claudio-Marchisio
+-,1,-,-,1,1,-,-,Zenit St. Petersburg,/Players/20211/Show/Claudio-Marchisio
+2,1.1,1.2,-,0.8,0.8,0.1,-,Zenit St. Petersburg,/Players/20211/Show/Claudio-Marchisio
+1,1.1,1.6,-,0.9,0.8,0.1,-,Zenit St. Petersburg,/Players/20211/Show/Claudio-Marchisio
+2.8,2.1,1.4,-,1,1.3,0.1,-,Zenit St. Petersburg,/Players/20211/Show/Claudio-Marchisio
+3.8,1,1.2,-,1.2,1.4,0.2,-,Zenit St. Petersburg,/Players/20211/Show/Claudio-Marchisio
+2.1,2.4,1.4,-,1.2,1.3,0.2,-,Zenit St. Petersburg,/Players/20211/Show/Claudio-Marchisio
+2.6,1.8,0.8,-,1.4,1.1,0.1,-,Zenit St. Petersburg,/Players/20211/Show/Claudio-Marchisio
+1.4,2.2,1.1,-,0.6,1.3,0.1,-,Zenit St. Petersburg,/Players/20211/Show/Claudio-Marchisio
+0.5,1,1,-,0.8,1.3,-,-,Zenit St. Petersburg,/Players/20211/Show/Claudio-Marchisio
+1,2.9,1.6,-,0.7,1.3,0.1,-,Zenit St. Petersburg,/Players/20211/Show/Claudio-Marchisio
+1.7,1,2.3,-,1.3,1.3,-,-,Zenit St. Petersburg,/Players/20211/Show/Claudio-Marchisio
+1.3,1.5,1.8,-,-,0.5,-,-,Zenit St. Petersburg,/Players/20211/Show/Claudio-Marchisio
+1.5,2.7,1.8,-,0.9,1.1,0.2,-,Zenit St. Petersburg,/Players/20211/Show/Claudio-Marchisio
+3.1,2,1.9,-,1,0.8,0.1,-,Zenit St. Petersburg,/Players/20211/Show/Claudio-Marchisio
+1.3,2.3,1,-,2.2,1.2,0.2,-,Zenit St. Petersburg,/Players/20211/Show/Claudio-Marchisio
+2,2.3,1.5,-,0.9,1.1,0.1,-,Zenit St. Petersburg,/Players/20211/Show/Claudio-Marchisio
+2.4,2.3,1.3,-,1.1,1,0.2,-,Zenit St. Petersburg,/Players/20211/Show/Claudio-Marchisio
+2.1,1.8,2,-,1.1,0.9,0.3,-,Zenit St. Petersburg,/Players/20211/Show/Claudio-Marchisio
+1.3,2,1.3,-,0.3,0.8,-,-,Zenit St. Petersburg,/Players/20211/Show/Claudio-Marchisio
+0.6,0.2,-,-,0.2,0.8,-,-,FC Krasnodar,/Players/136825/Show/Kristoffer-Olsson
+1,1.8,2.5,-,0.3,1.3,0.3,-,FC Krasnodar,/Players/136825/Show/Kristoffer-Olsson
+3,2,1,-,-,1,-,-,FC Krasnodar,/Players/136825/Show/Kristoffer-Olsson
+1.9,2.7,1.1,-,0.6,1.3,0.1,-,FC Krasnodar,/Players/136825/Show/Kristoffer-Olsson
+2,2.3,1,-,1,1.9,-,-,FC Krasnodar,/Players/136825/Show/Kristoffer-Olsson
+1.6,2.1,1.7,-,0.4,0.4,0.3,-,CSKA Moscow,/Players/243757/Show/Ilzat-Akhmetov
+0.8,3,1,-,1,0.5,0.3,-,CSKA Moscow,/Players/243757/Show/Ilzat-Akhmetov
+0.7,-,1.3,-,-,-,-,-,CSKA Moscow,/Players/243757/Show/Ilzat-Akhmetov
+0.6,0.8,1,-,0.3,0.8,-,-,CSKA Moscow,/Players/243757/Show/Ilzat-Akhmetov
+0.3,0.3,0.7,-,-,-,-,-,CSKA Moscow,/Players/243757/Show/Ilzat-Akhmetov
+0.5,-,-,-,-,-,-,-,CSKA Moscow,/Players/243757/Show/Ilzat-Akhmetov
+0.7,0.6,0.4,-,0.1,0.1,0.1,-,CSKA Moscow,/Players/243757/Show/Ilzat-Akhmetov
+1.8,2,1.1,0.3,2.7,0.5,0.3,1,Everton,/Players/89925/Show/Lucas-Digne
+-,1,3,-,2,2,-,-,Everton,/Players/89925/Show/Lucas-Digne
+1,1.8,1,0.3,1.3,0.3,0.3,-,Everton,/Players/89925/Show/Lucas-Digne
+2,2.7,1.3,0.3,2,0.3,-,-,Everton,/Players/89925/Show/Lucas-Digne
+1.2,1.7,1.1,0.2,1.3,0.4,0.2,-,Everton,/Players/89925/Show/Lucas-Digne
+1,1,2.3,0.5,1.3,0.3,-,-,Everton,/Players/89925/Show/Lucas-Digne
+2,1.7,1.5,0.3,3.1,0.4,0.2,-,Everton,/Players/89925/Show/Lucas-Digne
+2.8,2.3,1.5,0.4,3.3,0.8,0.4,-,Everton,/Players/89925/Show/Lucas-Digne
+-,-,-,-,-,-,-,-,Everton,/Players/89925/Show/Lucas-Digne
+1.5,1.5,0.8,0.2,2.4,0.3,0.3,-,Everton,/Players/89925/Show/Lucas-Digne
+3.5,1.5,0.5,-,3,0.5,-,-,Everton,/Players/89925/Show/Lucas-Digne
+1.7,2.3,1,0.1,1.8,0.2,0.2,-,Everton,/Players/89925/Show/Lucas-Digne
+-,3,1,-,2,1,-,-,Everton,/Players/89925/Show/Lucas-Digne
+1.6,1.8,1.6,0.4,3.8,0.4,-,-,Everton,/Players/89925/Show/Lucas-Digne
+1.8,1.6,1.3,0.3,3.5,0.3,0.1,-,Everton,/Players/89925/Show/Lucas-Digne
+1.8,1.9,1.4,0.4,4.5,0.3,0.3,-,Everton,/Players/89925/Show/Lucas-Digne
+0.6,1.5,1.5,-,0.1,0.8,0.2,-,FK Akhmat,/Players/295763/Show/Ravanelli
+0.2,0.4,0.7,-,0.3,0.3,-,-,FK Akhmat,/Players/295763/Show/Ravanelli
+-,1,-,-,-,0.3,-,-,FK Akhmat,/Players/295763/Show/Ravanelli
+0.4,1.1,1.1,-,0.1,0.9,0.1,-,FK Akhmat,/Players/295763/Show/Ravanelli
+0.1,0.3,0.7,-,-,0.5,-,-,Barcelona,/Players/11119/Show/Lionel-Messi
+0.3,1,0.8,-,-,0.4,-,-,Barcelona,/Players/11119/Show/Lionel-Messi
+0.2,0.5,0.5,-,-,0.4,-,-,Barcelona,/Players/11119/Show/Lionel-Messi
+0.3,0.9,0.3,-,-,0.7,-,-,Barcelona,/Players/11119/Show/Lionel-Messi
+0.2,0.7,0.4,-,-,0.4,-,-,Barcelona,/Players/11119/Show/Lionel-Messi
+-,1.1,0.6,-,-,1,0.1,-,Barcelona,/Players/11119/Show/Lionel-Messi
+0.3,1.3,1,-,-,1.5,-,-,Barcelona,/Players/11119/Show/Lionel-Messi
+0.2,0.3,0.4,-,-,0.2,-,-,Barcelona,/Players/11119/Show/Lionel-Messi
+0.1,0.7,0.3,-,-,0.7,-,-,Barcelona,/Players/11119/Show/Lionel-Messi
+0.2,1,0.5,-,-,0.5,-,-,Barcelona,/Players/11119/Show/Lionel-Messi
+0.2,0.7,0.7,-,-,0.3,-,-,Barcelona,/Players/11119/Show/Lionel-Messi
+0.5,1.1,0.8,-,-,1.1,-,-,Barcelona,/Players/11119/Show/Lionel-Messi
+0.1,0.5,0.4,-,-,0.2,-,-,Barcelona,/Players/11119/Show/Lionel-Messi
+0.6,0.4,-,-,-,0.7,-,-,Barcelona,/Players/11119/Show/Lionel-Messi
+0.3,1.6,0.9,-,-,0.4,-,-,Barcelona,/Players/11119/Show/Lionel-Messi
+0.3,0.6,0.4,-,-,0.3,-,-,Barcelona,/Players/11119/Show/Lionel-Messi
+0.5,0.2,0.1,-,-,0.3,-,-,Barcelona,/Players/11119/Show/Lionel-Messi
+0.6,0.6,0.7,-,0.1,0.3,-,-,Barcelona,/Players/11119/Show/Lionel-Messi
+0.3,0.6,1.2,-,-,0.1,-,-,Barcelona,/Players/11119/Show/Lionel-Messi
+0.6,0.7,0.7,-,-,0.4,-,-,Barcelona,/Players/11119/Show/Lionel-Messi
+0.7,0.7,1.3,-,-,0.5,0.2,-,Barcelona,/Players/11119/Show/Lionel-Messi
+1.2,0.9,0.8,-,-,0.5,-,-,Barcelona,/Players/11119/Show/Lionel-Messi
+1,0.6,1,-,-,0.5,-,-,Barcelona,/Players/11119/Show/Lionel-Messi
+1.1,0.9,0.5,0.6,4.7,0.4,0.7,-,Napoli,/Players/12575/Show/Raúl-Albiol
+1.3,0.3,0.5,0.3,4.8,-,0.8,-,Napoli,/Players/12575/Show/Raúl-Albiol
+1,0.9,0.9,0.6,4.1,0.2,0.4,-,Napoli,/Players/12575/Show/Raúl-Albiol
+1,-,-,2,7,-,1,-,Napoli,/Players/12575/Show/Raúl-Albiol
+1.2,1.6,0.4,1,3.2,0.2,1,-,Napoli,/Players/12575/Show/Raúl-Albiol
+0.8,1.3,0.9,0.5,4.7,0.6,0.5,-,Napoli,/Players/12575/Show/Raúl-Albiol
+1,1.2,0.8,1,3.3,0.2,-,-,Napoli,/Players/12575/Show/Raúl-Albiol
+1.3,1.5,0.9,0.8,4.4,0.6,0.5,-,Napoli,/Players/12575/Show/Raúl-Albiol
+2.3,0.7,0.7,0.7,3,0.3,-,-,Napoli,/Players/12575/Show/Raúl-Albiol
+2.1,1.7,0.7,0.5,6.5,0.6,0.6,2,Napoli,/Players/12575/Show/Raúl-Albiol
+1.4,2,0.8,0.7,7.5,0.3,0.7,-,Napoli,/Players/12575/Show/Raúl-Albiol
+2.1,1.8,0.6,1.2,6.1,0.4,0.8,-,Napoli,/Players/12575/Show/Raúl-Albiol
+2.3,1.5,0.8,0.8,6.3,0.8,1.2,-,Napoli,/Players/12575/Show/Raúl-Albiol
+3,2.3,0.3,1,6,-,1.7,-,Napoli,/Players/12575/Show/Raúl-Albiol
+5,3,-,-,5,-,-,-,Napoli,/Players/12575/Show/Raúl-Albiol
+-,2,2,1,5,-,-,-,Napoli,/Players/12575/Show/Raúl-Albiol
+1.2,1.8,0.6,1.6,6.9,0.4,0.5,-,Napoli,/Players/12575/Show/Raúl-Albiol
+-,-,-,-,-,-,-,-,Napoli,/Players/12575/Show/Raúl-Albiol
+1.8,2.3,0.5,0.3,3.8,-,0.3,-,Napoli,/Players/12575/Show/Raúl-Albiol
+0.4,1.6,1.2,0.4,1.2,0.2,0.6,-,Napoli,/Players/12575/Show/Raúl-Albiol
+1.1,1.3,0.7,0.4,4.2,0.4,0.2,-,Napoli,/Players/12575/Show/Raúl-Albiol
+1.3,2.5,0.8,1.3,3.2,1,0.8,-,Napoli,/Players/12575/Show/Raúl-Albiol
+1.6,1.8,1.1,1.1,5,0.3,0.6,1,Napoli,/Players/12575/Show/Raúl-Albiol
+2.8,1.6,1.1,0.9,5.6,0.5,0.4,-,Napoli,/Players/12575/Show/Raúl-Albiol
+1.4,1.4,1.3,0.1,1.2,1.4,0.6,-,Estudiantes,/Players/125331/Show/Rodrigo-Braña
+2,3.7,1.3,-,1.2,1.8,0.2,-,Estudiantes,/Players/125331/Show/Rodrigo-Braña
+1.6,2.6,2,-,1.1,1.2,0.2,-,Estudiantes,/Players/125331/Show/Rodrigo-Braña
+1.4,3.3,2,0.1,1.3,1.1,0.5,-,Estudiantes,/Players/125331/Show/Rodrigo-Braña
+-,0.2,0.6,-,0.3,-,-,-,Werder Bremen,/Players/367480/Show/Joshua-Sargent
+1,1.5,1.6,-,0.3,1.6,-,-,San Lorenzo,/Players/91574/Show/Gonzalo-Castellani
+0.5,2,1.3,-,1.2,0.6,0.2,-,San Lorenzo,/Players/91574/Show/Gonzalo-Castellani
+0.7,1.5,1,-,0.5,0.6,-,-,San Lorenzo,/Players/91574/Show/Gonzalo-Castellani
+-,2,3,-,-,1,-,-,San Lorenzo,/Players/91574/Show/Gonzalo-Castellani
+2,1.5,0.3,-,0.5,0.6,0.1,-,San Lorenzo,/Players/91574/Show/Gonzalo-Castellani
+0.9,2.5,1.3,-,0.9,1.1,0.7,-,Bayer Leverkusen,/Players/110165/Show/Dominik-Kohr
+2.8,2.6,2.2,0.2,1,0.4,-,-,Bayer Leverkusen,/Players/110165/Show/Dominik-Kohr
+1.1,1.8,1.6,-,0.7,0.6,0.2,-,Bayer Leverkusen,/Players/110165/Show/Dominik-Kohr
+2.7,3.4,2.7,-,1.3,1.4,0.5,-,Bayer Leverkusen,/Players/110165/Show/Dominik-Kohr
+3,2,2.1,0.1,2.4,1.4,0.5,-,Bayer Leverkusen,/Players/110165/Show/Dominik-Kohr
+2.7,3.7,2.2,-,1.8,1.2,0.5,-,Bayer Leverkusen,/Players/110165/Show/Dominik-Kohr
+2,2.5,1.7,0.1,1.4,1.7,0.2,-,Bayer Leverkusen,/Players/110165/Show/Dominik-Kohr
+1,-,-,-,-,-,0.5,-,Bayer Leverkusen,/Players/110165/Show/Dominik-Kohr
+-,-,0.5,-,-,0.5,-,-,Bayer Leverkusen,/Players/110165/Show/Dominik-Kohr
+1.4,1.5,1.4,0.3,1.1,1.8,0.1,-,Bayer Leverkusen,/Players/110165/Show/Dominik-Kohr
+0.8,0.8,0.5,-,-,0.3,-,-,Bayer Leverkusen,/Players/110165/Show/Dominik-Kohr
+2.5,3,0.5,-,1.5,2,-,-,Bayer Leverkusen,/Players/110165/Show/Dominik-Kohr
+-,0.5,0.5,-,-,1,-,-,Bayer Leverkusen,/Players/110165/Show/Dominik-Kohr
+0.1,-,0.2,-,0.2,-,-,-,CSKA Moscow,/Players/334464/Show/Timur-Zhamaletdinov
+0.5,-,-,-,-,-,-,-,CSKA Moscow,/Players/334464/Show/Timur-Zhamaletdinov
+-,0.2,0.2,-,-,-,-,-,CSKA Moscow,/Players/334464/Show/Timur-Zhamaletdinov
+0.1,-,0.7,-,-,0.4,-,-,CSKA Moscow,/Players/334464/Show/Timur-Zhamaletdinov
+-,-,-,-,0.3,-,-,-,CSKA Moscow,/Players/334464/Show/Timur-Zhamaletdinov
+1.3,1.8,1.1,0.1,1.8,0.8,0.3,-,Chievo,/Players/339498/Show/Pawel-Jaroszynski
+1.9,1.8,1.1,0.2,3,0.8,0.4,-,Chievo,/Players/339498/Show/Pawel-Jaroszynski
+2.7,1.9,1.5,0.2,3.1,0.6,0.7,-,Augsburg,/Players/110266/Show/Rani-Khedira
+1.2,2.1,1.6,0.1,3.1,0.5,0.6,-,Augsburg,/Players/110266/Show/Rani-Khedira
+1,1.1,0.4,-,0.2,0.3,-,1,Augsburg,/Players/110266/Show/Rani-Khedira
+1.4,1.2,1.2,0.1,1.1,0.4,0.1,-,Augsburg,/Players/110266/Show/Rani-Khedira
+1.3,1.7,1.7,-,1.3,1.2,0.3,-,Augsburg,/Players/110266/Show/Rani-Khedira
+2.1,1.8,1,0.4,4.1,0.5,0.5,-,Defensa y Justicia,/Players/340105/Show/Lisandro-Martínez
+2.2,2,0.8,0.5,4.8,0.6,0.7,-,Defensa y Justicia,/Players/340105/Show/Lisandro-Martínez
+1,4,-,-,6,-,-,-,Defensa y Justicia,/Players/340105/Show/Lisandro-Martínez
+0.4,0.7,0.8,-,0.5,0.5,-,-,Yeni Malatyaspor,/Players/329387/Show/Ahmed-Ildiz
+0.2,0.8,0.5,-,0.6,0.8,0.1,-,Yeni Malatyaspor,/Players/329387/Show/Ahmed-Ildiz
+0.3,0.3,0.3,-,-,0.1,-,-,Yeni Malatyaspor,/Players/329387/Show/Ahmed-Ildiz
+1.4,1.1,1.7,0.5,3.3,0.8,0.6,-,Levante,/Players/326461/Show/Erick-Cabaco
+1.2,1.8,0.9,0.9,5.1,0.4,0.6,-,Levante,/Players/326461/Show/Erick-Cabaco
+2,1.5,0.7,0.8,5.4,0.7,0.8,-,Levante,/Players/326461/Show/Erick-Cabaco
+1,1.2,1.2,0.6,4.3,0.5,0.9,1,Antalyaspor,/Players/108056/Show/Salih-Dursun
+1.3,2,2.5,0.3,2.5,0.8,0.5,-,Antalyaspor,/Players/108056/Show/Salih-Dursun
+2.4,1.5,1.1,0.1,5,0.8,0.6,-,Antalyaspor,/Players/108056/Show/Salih-Dursun
+1.3,1.6,1.3,0.1,1.3,0.5,0.4,-,Antalyaspor,/Players/108056/Show/Salih-Dursun
+1.4,2,2.1,0.1,1.9,0.7,0.6,-,Antalyaspor,/Players/108056/Show/Salih-Dursun
+0.7,1,1.3,0.2,0.7,-,0.3,-,Antalyaspor,/Players/108056/Show/Salih-Dursun
+0.1,0.5,0.7,-,0.6,0.4,-,-,Fortuna Duesseldorf,/Players/13777/Show/Rouwen-Hennings
+0.2,0.9,1.7,-,1.1,0.3,0.2,-,Fortuna Duesseldorf,/Players/13777/Show/Rouwen-Hennings
+0.2,0.4,1.3,-,1.1,0.3,0.1,-,Fortuna Duesseldorf,/Players/13777/Show/Rouwen-Hennings
+0.5,-,5,-,3.5,-,0.5,-,Fortuna Duesseldorf,/Players/13777/Show/Rouwen-Hennings
+0.4,0.3,0.3,-,0.2,0.2,-,-,Fortuna Duesseldorf,/Players/13777/Show/Rouwen-Hennings
+0.6,0.9,1,-,0.4,0.6,0.2,-,Fortuna Duesseldorf,/Players/13777/Show/Rouwen-Hennings
+0.9,1.5,0.7,0.1,2.7,0.3,0.1,-,Newcastle United,/Players/109227/Show/Javier-Manquillo
+0.9,1.7,1.1,0.2,2.3,0.7,0.3,-,Newcastle United,/Players/109227/Show/Javier-Manquillo
+1.2,1.6,0.7,0.3,2.5,0.3,0.3,-,Newcastle United,/Players/109227/Show/Javier-Manquillo
+1.5,1.5,0.3,-,3,0.8,-,-,Newcastle United,/Players/109227/Show/Javier-Manquillo
+2.8,2.5,0.8,0.4,2,0.4,0.2,-,Newcastle United,/Players/109227/Show/Javier-Manquillo
+3,5.3,1.3,0.3,3.3,1.3,0.3,-,Newcastle United,/Players/109227/Show/Javier-Manquillo
+-,2,1,-,2,1,-,-,Newcastle United,/Players/109227/Show/Javier-Manquillo
+2.2,3.2,0.2,0.5,2.4,0.6,0.3,-,Newcastle United,/Players/109227/Show/Javier-Manquillo
+1,4.7,1.3,-,5,-,0.7,-,Newcastle United,/Players/109227/Show/Javier-Manquillo
+5,1,3,-,3,-,2,-,Newcastle United,/Players/109227/Show/Javier-Manquillo
+3,1.7,0.3,-,2,-,-,-,Newcastle United,/Players/109227/Show/Javier-Manquillo
+1.5,3.5,2,0.5,0.5,-,-,-,Newcastle United,/Players/109227/Show/Javier-Manquillo
+1.3,3.2,0.9,0.4,2.3,0.9,0.3,1,Angers,/Players/234365/Show/Vincent-Manceau
+1,2.5,0.8,0.3,2.6,1,0.1,-,Angers,/Players/234365/Show/Vincent-Manceau
+1.6,2.2,0.6,0.4,2,0.9,0.2,-,Angers,/Players/234365/Show/Vincent-Manceau
+1.9,1.7,0.5,0.1,1.9,0.7,0.1,-,Angers,/Players/234365/Show/Vincent-Manceau
+0.2,0.2,1.4,-,0.9,0.4,-,-,Konyaspor,/Players/103973/Show/Adis-Jahovic
+0.6,0.7,2,-,0.9,0.7,0.1,1,Konyaspor,/Players/103973/Show/Adis-Jahovic
+0.1,0.8,1.1,-,0.8,0.7,0.1,-,Konyaspor,/Players/103973/Show/Adis-Jahovic
+-,0.4,1.2,-,0.4,-,-,-,Konyaspor,/Players/103973/Show/Adis-Jahovic
+0.4,0.3,1.3,-,0.4,0.1,0.1,-,Konyaspor,/Players/103973/Show/Adis-Jahovic
+0.7,0.6,0.2,-,0.8,0.5,0.1,-,Swansea,/Players/90907/Show/Tom-Carroll
+0.5,-,1,-,-,-,-,-,Swansea,/Players/90907/Show/Tom-Carroll
+0.8,1.4,0.6,0.1,0.4,1.1,0.2,-,Swansea,/Players/90907/Show/Tom-Carroll
+-,-,-,-,-,-,-,-,Swansea,/Players/90907/Show/Tom-Carroll
+1.2,1.8,0.8,-,0.5,1.1,0.2,-,Swansea,/Players/90907/Show/Tom-Carroll
+0.9,2.3,0.9,-,0.6,0.4,-,-,Swansea,/Players/90907/Show/Tom-Carroll
+0.7,0.8,0.4,-,0.2,0.5,0.1,-,Swansea,/Players/90907/Show/Tom-Carroll
+2,4,0.5,-,0.5,2,-,-,Swansea,/Players/90907/Show/Tom-Carroll
+0.8,1.3,0.4,-,1.2,1.1,0.2,-,Swansea,/Players/90907/Show/Tom-Carroll
+0.8,2.4,0.5,-,0.8,0.9,0.3,-,Swansea,/Players/90907/Show/Tom-Carroll
+1.8,2.5,1.3,-,1.5,1.3,-,-,Swansea,/Players/90907/Show/Tom-Carroll
+0.3,0.9,0.3,-,0.1,0.1,-,-,Swansea,/Players/90907/Show/Tom-Carroll
+0.6,1.7,1.2,-,0.6,0.4,0.1,-,Parma Calcio 1913,/Players/41237/Show/Jonathan-Biabiany
+-,-,-,-,-,-,-,-,Parma Calcio 1913,/Players/41237/Show/Jonathan-Biabiany
+0.7,0.7,-,-,0.3,0.3,-,-,Parma Calcio 1913,/Players/41237/Show/Jonathan-Biabiany
+0.4,1.5,0.4,-,0.3,0.4,0.1,-,Parma Calcio 1913,/Players/41237/Show/Jonathan-Biabiany
+-,-,2,-,2,-,-,-,Parma Calcio 1913,/Players/41237/Show/Jonathan-Biabiany
+0.6,1.3,0.8,0.1,0.6,0.4,0.1,-,Parma Calcio 1913,/Players/41237/Show/Jonathan-Biabiany
+0.6,1.5,0.7,0.1,0.7,0.3,0.1,-,Parma Calcio 1913,/Players/41237/Show/Jonathan-Biabiany
+1.3,1.9,0.9,-,1.1,0.6,0.1,-,Parma Calcio 1913,/Players/41237/Show/Jonathan-Biabiany
+0.6,0.9,0.5,-,0.1,0.2,-,-,Parma Calcio 1913,/Players/41237/Show/Jonathan-Biabiany
+0.5,0.9,1,-,0.2,0.3,-,-,Parma Calcio 1913,/Players/41237/Show/Jonathan-Biabiany
+0.4,1,-,-,0.4,0.4,0.2,-,Parma Calcio 1913,/Players/41237/Show/Jonathan-Biabiany
+0.7,1.3,1.2,-,0.5,0.4,-,-,Parma Calcio 1913,/Players/41237/Show/Jonathan-Biabiany
+0.7,1,0.3,-,1.3,0.7,-,-,Rosario Central,/Players/303728/Show/Nahuel-Molina
+1.2,1.3,0.3,0.3,1.8,1.2,0.2,-,Rosario Central,/Players/303728/Show/Nahuel-Molina
+2,1.6,0.7,0.1,2.2,1.6,0.1,-,Rosario Central,/Players/303728/Show/Nahuel-Molina
+2,2.8,0.9,0.6,1.5,1.4,-,-,Rosario Central,/Players/303728/Show/Nahuel-Molina
+1.3,2,1.5,-,1.7,0.7,0.5,-,Strasbourg,/Players/92792/Show/Jonas-Martin
+0.9,2,1.5,-,0.8,1,0.1,-,Strasbourg,/Players/92792/Show/Jonas-Martin
+0.7,0.8,1,-,0.6,0.4,0.1,-,Strasbourg,/Players/92792/Show/Jonas-Martin
+1.9,1.8,0.9,-,1,0.9,0.2,-,Strasbourg,/Players/92792/Show/Jonas-Martin
+1.5,1.8,1,-,0.8,1.2,0.2,-,Strasbourg,/Players/92792/Show/Jonas-Martin
+0.7,1.1,0.5,-,0.8,0.4,0.2,-,Strasbourg,/Players/92792/Show/Jonas-Martin
+1,1,1,-,-,-,-,-,Strasbourg,/Players/92792/Show/Jonas-Martin
+0.6,0.4,0.8,-,0.5,0.3,-,-,Strasbourg,/Players/92792/Show/Jonas-Martin
+0.6,0.6,0.4,-,-,0.2,-,-,Strasbourg,/Players/92792/Show/Jonas-Martin
+0.2,0.4,0.4,0.1,0.2,0.1,-,-,Paderborn,/Players/301486/Show/Marlon-Ritter
+1.2,0.6,0.4,-,0.6,-,-,-,Paderborn,/Players/301486/Show/Marlon-Ritter
+0.1,0.6,1.1,0.1,0.6,0.2,-,-,Hebei CFFC,/Players/346110/Show/Ayoub-El-Kaabi
+0.1,0.7,1.2,-,0.3,0.4,0.1,-,Hebei CFFC,/Players/346110/Show/Ayoub-El-Kaabi
+-,-,1,-,0.5,-,-,-,Hebei CFFC,/Players/346110/Show/Ayoub-El-Kaabi
+1.2,1.8,0.8,0.1,2.1,0.9,0.3,-,Bournemouth,/Players/69877/Show/Adam-Smith
+1.1,1.8,0.9,0.1,2.1,1.1,0.3,-,Bournemouth,/Players/69877/Show/Adam-Smith
+1.5,2.4,1.3,0.2,2,1.3,0.4,1,Bournemouth,/Players/69877/Show/Adam-Smith
+1.4,2.3,1.1,0.1,1.6,0.9,0.2,-,Bournemouth,/Players/69877/Show/Adam-Smith
+0.4,0.9,0.8,-,0.4,0.3,-,-,Bournemouth,/Players/69877/Show/Adam-Smith
+0.6,0.8,1,-,0.8,0.2,0.2,-,Bournemouth,/Players/69877/Show/Adam-Smith
+1.1,2.8,1,0.1,2.9,1,0.1,-,Bournemouth,/Players/69877/Show/Adam-Smith
+3,3,1,-,-,1,-,-,Bournemouth,/Players/69877/Show/Adam-Smith
+1,1,-,-,-,-,1,-,Bournemouth,/Players/69877/Show/Adam-Smith
+0.8,1.2,0.5,0.1,1.8,0.7,0.1,-,Huddersfield,/Players/101664/Show/Chris-Löwe
+1.5,1.9,0.6,0.4,2.4,1,0.3,-,Huddersfield,/Players/101664/Show/Chris-Löwe
+1.8,1.9,0.6,0.3,2.7,0.6,0.2,-,Huddersfield,/Players/101664/Show/Chris-Löwe
+1.8,1.8,0.9,0.2,2.3,0.6,0.4,1,Huddersfield,/Players/101664/Show/Chris-Löwe
+2,2,0.6,0.6,1.7,0.9,0.9,-,Huddersfield,/Players/101664/Show/Chris-Löwe
+1,3,2,-,1,3,1,-,Huddersfield,/Players/101664/Show/Chris-Löwe
+-,-,-,-,-,0.5,-,-,VVV-Venlo,/Players/361794/Show/Sem-Steijn
+1.9,1.1,1.2,0.2,1.9,0.5,0.2,-,FC Porto,/Players/125793/Show/Alex-Telles
+1.6,1.2,1.2,0.5,3,0.8,0.5,-,FC Porto,/Players/125793/Show/Alex-Telles
+2,2,1,0.1,2.3,0.7,0.2,-,FC Porto,/Players/125793/Show/Alex-Telles
+2.7,1.7,1,-,2,1,0.3,-,FC Porto,/Players/125793/Show/Alex-Telles
+2.6,1.8,1,0.2,1.7,0.5,0.1,-,FC Porto,/Players/125793/Show/Alex-Telles
+2.1,1.1,0.9,0.3,2.7,0.4,-,-,FC Porto,/Players/125793/Show/Alex-Telles
+2.2,1.8,1.3,0.2,2.3,1.2,0.2,-,FC Porto,/Players/125793/Show/Alex-Telles
+4,1,0.5,0.5,0.5,1.5,0.5,-,FC Porto,/Players/125793/Show/Alex-Telles
+2.7,2.2,1.2,0.2,1.7,1,-,-,FC Porto,/Players/125793/Show/Alex-Telles
+1.6,1.2,1.6,-,1.4,1.2,0.4,-,FC Porto,/Players/125793/Show/Alex-Telles
+3.5,3.5,2.5,-,4,2,-,-,FC Porto,/Players/125793/Show/Alex-Telles
+2.9,2.6,1.8,0.1,2.4,0.9,0.1,1,FC Porto,/Players/125793/Show/Alex-Telles
+1.2,3.1,1,-,1.5,1.7,0.3,-,PSV Eindhoven,/Players/133305/Show/Jorrit-Hendrix
+2.2,1.8,2,-,3.3,1.5,0.7,-,PSV Eindhoven,/Players/133305/Show/Jorrit-Hendrix
+2.1,1.8,1.5,-,2,1.3,0.2,-,PSV Eindhoven,/Players/133305/Show/Jorrit-Hendrix
+1.5,2.5,2.5,-,2,1.5,-,-,PSV Eindhoven,/Players/133305/Show/Jorrit-Hendrix
+1.1,1.1,0.7,0.1,0.5,0.4,0.1,-,PSV Eindhoven,/Players/133305/Show/Jorrit-Hendrix
+1.4,1.6,0.4,-,1.1,0.6,0.1,-,PSV Eindhoven,/Players/133305/Show/Jorrit-Hendrix
+1.1,1.6,0.8,0.1,1.5,0.7,0.3,-,PSV Eindhoven,/Players/133305/Show/Jorrit-Hendrix
+0.6,0.9,0.6,-,0.6,0.6,0.7,-,PSV Eindhoven,/Players/133305/Show/Jorrit-Hendrix
+1.8,1.3,0.9,0.1,1.6,0.9,0.4,-,PSV Eindhoven,/Players/133305/Show/Jorrit-Hendrix
+1.8,1.6,2,-,4,0.6,-,-,PSV Eindhoven,/Players/133305/Show/Jorrit-Hendrix
+1,1.3,1,0.3,2.8,0.4,0.2,-,PSV Eindhoven,/Players/133305/Show/Jorrit-Hendrix
+0.5,0.4,0.6,-,0.1,0.7,-,-,Real Madrid,/Players/137467/Show/Marco-Asensio
+0.7,0.3,0.6,-,0.1,0.3,-,-,Real Madrid,/Players/137467/Show/Marco-Asensio
+-,0.8,0.5,-,-,0.8,-,-,Real Madrid,/Players/137467/Show/Marco-Asensio
+0.3,0.8,0.3,-,0.1,0.5,-,-,Real Madrid,/Players/137467/Show/Marco-Asensio
+0.3,0.3,0.3,0.1,0.4,0.3,0.1,-,Real Madrid,/Players/137467/Show/Marco-Asensio
+0.4,1.1,0.7,-,0.1,0.4,-,-,Real Madrid,/Players/137467/Show/Marco-Asensio
+0.4,0.6,0.1,-,-,0.5,-,-,Real Madrid,/Players/137467/Show/Marco-Asensio
+-,0.3,-,-,0.3,-,-,-,Real Madrid,/Players/137467/Show/Marco-Asensio
+0.5,1.6,1.1,-,0.1,1.6,-,-,Real Madrid,/Players/137467/Show/Marco-Asensio
+1.5,1.9,0.6,0.6,5.3,0.5,1.1,-,VfB Stuttgart,/Players/141328/Show/Timo-Baumgartl
+1.2,3,1.4,0.6,4,0.7,0.7,-,VfB Stuttgart,/Players/141328/Show/Timo-Baumgartl
+2,2.2,1,0.4,4.9,0.6,0.8,-,VfB Stuttgart,/Players/141328/Show/Timo-Baumgartl
+1.6,1.8,0.9,1.2,4.3,0.9,0.5,1,VfB Stuttgart,/Players/141328/Show/Timo-Baumgartl
+1.9,1.6,0.8,1,3.3,0.6,1,-,VfB Stuttgart,/Players/141328/Show/Timo-Baumgartl
+0.7,1.3,1.7,-,2.7,1,-,-,Villarreal,/Players/27745/Show/Javi-Fuego
+0.8,0.8,1.3,-,1.5,1.5,0.5,-,Villarreal,/Players/27745/Show/Javi-Fuego
+1.1,2,1.4,-,1.3,1,0.4,-,Villarreal,/Players/27745/Show/Javi-Fuego
+0.4,1.7,1.2,0.1,1.2,0.6,0.4,-,Villarreal,/Players/27745/Show/Javi-Fuego
+1,3,5,-,-,2,-,-,Villarreal,/Players/27745/Show/Javi-Fuego
+2,2.3,1.8,0.1,1.7,1.4,0.3,-,Villarreal,/Players/27745/Show/Javi-Fuego
+2.9,2.4,2.1,0.1,1.1,1.2,0.4,-,Villarreal,/Players/27745/Show/Javi-Fuego
+3.5,2,1.5,-,0.8,0.3,-,-,Villarreal,/Players/27745/Show/Javi-Fuego
+1.4,2.2,1.4,-,0.6,0.2,0.2,-,Villarreal,/Players/27745/Show/Javi-Fuego
+2.8,2.5,1.3,-,2,1,0.6,-,Villarreal,/Players/27745/Show/Javi-Fuego
+2.1,2.7,1.5,0.1,2.3,1.3,0.4,-,Villarreal,/Players/27745/Show/Javi-Fuego
+1.3,2.4,1.1,0.8,1.7,0.9,0.4,-,Villarreal,/Players/27745/Show/Javi-Fuego
+2.4,3.7,1.9,-,1.6,1.3,0.3,-,Villarreal,/Players/27745/Show/Javi-Fuego
+7.1,4.4,1.5,-,1.4,1.3,0.3,-,Villarreal,/Players/27745/Show/Javi-Fuego
+0.2,0.6,0.5,-,-,0.4,0.1,-,Chaves,/Players/255627/Show/João-Teixeira
+0.5,1.5,2,-,0.2,1.3,-,-,Chaves,/Players/255627/Show/João-Teixeira
+0.9,1.6,0.9,-,0.1,0.8,-,-,Chaves,/Players/255627/Show/João-Teixeira
+-,-,-,-,-,-,-,-,Chaves,/Players/255627/Show/João-Teixeira
+-,1.5,0.3,-,0.3,0.8,0.2,-,Montpellier,/Players/87278/Show/Facundo-Píriz
+1.2,1.7,0.8,0.1,0.9,1.9,0.1,-,Montpellier,/Players/87278/Show/Facundo-Píriz
+2.3,3,1.2,-,1.3,1.2,0.2,-,Montpellier,/Players/87278/Show/Facundo-Píriz
+2.4,1.5,1.2,-,0.5,0.9,0.2,-,Montpellier,/Players/87278/Show/Facundo-Píriz
+0.8,1.3,0.9,-,1.1,0.4,0.2,-,Montpellier,/Players/87278/Show/Facundo-Píriz
+1.6,1.9,1,-,1.3,0.5,0.3,-,Montpellier,/Players/87278/Show/Facundo-Píriz
+0.5,1.7,0.8,-,0.5,1.1,-,-,PEC Zwolle,/Players/259930/Show/Younes-Namli
+0.7,1.1,0.4,-,0.3,1.3,-,-,PEC Zwolle,/Players/259930/Show/Younes-Namli
+0.9,1.1,0.7,-,1,0.9,0.1,-,PEC Zwolle,/Players/259930/Show/Younes-Namli
+-,-,-,-,0.3,0.3,-,-,PEC Zwolle,/Players/259930/Show/Younes-Namli
+0.3,1,0.5,-,0.7,0.5,-,-,PEC Zwolle,/Players/259930/Show/Younes-Namli
+1.8,2.5,1,0.3,3.3,0.9,0.2,-,Bologna,/Players/243919/Show/Arturo-Calabresi
+1.3,0.9,0.6,0.4,2.6,0.2,0.4,-,Bayern Munich,/Players/129983/Show/Niklas-Süle
+1.5,1,0.3,0.3,3.2,0.2,0.5,-,Bayern Munich,/Players/129983/Show/Niklas-Süle
+2.5,2,1,-,5,1,0.5,-,Bayern Munich,/Players/129983/Show/Niklas-Süle
+1.2,1.3,0.6,0.4,2,0.3,0.6,3,Bayern Munich,/Players/129983/Show/Niklas-Süle
+1.2,0.8,0.6,0.7,1.6,0.3,1,-,Bayern Munich,/Players/129983/Show/Niklas-Süle
+2.1,2.1,0.5,0.7,2.5,0.2,0.5,1,Bayern Munich,/Players/129983/Show/Niklas-Süle
+2,1,-,-,2,3,2,-,Bayern Munich,/Players/129983/Show/Niklas-Süle
+2.1,1.4,0.5,1.3,6.2,0.2,0.9,-,Bayern Munich,/Players/129983/Show/Niklas-Süle
+1.7,2.3,0.6,0.9,5.7,0.3,1.1,-,Bayern Munich,/Players/129983/Show/Niklas-Süle
+1.9,2.2,1,1,5.8,0.8,0.8,-,Bayern Munich,/Players/129983/Show/Niklas-Süle
+-,0.5,-,-,0.5,-,-,-,Bayern Munich,/Players/129983/Show/Niklas-Süle
+-,2,1,-,4,-,2,-,West Bromwich Albion,/Players/71327/Show/Kyle-Bartley
+0.8,0.6,1,0.4,4.2,-,1.2,-,West Bromwich Albion,/Players/71327/Show/Kyle-Bartley
+1.6,1.3,1,0.8,7.6,0.4,1,-,West Bromwich Albion,/Players/71327/Show/Kyle-Bartley
+1.2,1.8,0.8,0.8,5.8,0.2,1.4,-,West Bromwich Albion,/Players/71327/Show/Kyle-Bartley
+1.4,1.6,1,0.6,4.4,-,0.6,-,West Bromwich Albion,/Players/71327/Show/Kyle-Bartley
+1.9,2.2,1.4,0.9,8.5,0.4,0.5,-,West Bromwich Albion,/Players/71327/Show/Kyle-Bartley
+1,1.5,2,-,5,-,1,-,West Bromwich Albion,/Players/71327/Show/Kyle-Bartley
+0.5,2.5,-,0.5,8,0.5,3,-,West Bromwich Albion,/Players/71327/Show/Kyle-Bartley
+1,1,1,1,5,-,1,-,West Bromwich Albion,/Players/71327/Show/Kyle-Bartley
+1.9,2,0.6,-,1.4,0.4,-,-,Queens Park Rangers,/Players/332402/Show/Ryan-Manning
+1,1.6,0.8,-,1,0.9,0.3,-,Queens Park Rangers,/Players/332402/Show/Ryan-Manning
+0.5,0.7,0.5,-,0.5,1.1,0.1,1,Queens Park Rangers,/Players/332402/Show/Ryan-Manning
+0.8,2.3,1.3,-,1.9,1.3,0.3,-,Queens Park Rangers,/Players/332402/Show/Ryan-Manning
+1.2,1.7,0.9,0.1,1.8,0.5,0.6,-,FC Krasnodar,/Players/75477/Show/Sergey-Petrov
+2,1,0.5,0.2,2.6,0.5,0.1,-,FC Krasnodar,/Players/75477/Show/Sergey-Petrov
+1.9,1.6,0.8,0.1,1.9,0.3,0.3,-,FC Krasnodar,/Players/75477/Show/Sergey-Petrov
+1.2,0.8,0.8,0.2,2,0.2,0.3,-,FC Krasnodar,/Players/75477/Show/Sergey-Petrov
+2,2.3,0.3,0.3,1.8,-,0.3,-,FC Krasnodar,/Players/75477/Show/Sergey-Petrov
+2.7,1.6,0.6,0.3,2.2,0.4,0.2,-,FC Krasnodar,/Players/75477/Show/Sergey-Petrov
+3,2,1.2,0.2,3.2,0.2,0.4,-,FC Krasnodar,/Players/75477/Show/Sergey-Petrov
+1.2,1,1.4,-,1.2,1.4,-,-,FC Krasnodar,/Players/75477/Show/Sergey-Petrov
+1.9,2.3,0.6,-,2.5,0.6,0.2,-,FC Krasnodar,/Players/75477/Show/Sergey-Petrov
+1.4,1.6,0.3,-,0.8,0.1,0.1,-,FC Krasnodar,/Players/75477/Show/Sergey-Petrov
+1.3,1,1.3,-,1.7,0.7,-,-,FC Krasnodar,/Players/75477/Show/Sergey-Petrov
+0.1,-,-,-,0.5,-,-,-,Defensa y Justicia,/Players/303797/Show/Luis-Unsain
+-,-,-,-,0.5,0.1,-,-,Defensa y Justicia,/Players/303797/Show/Luis-Unsain
+0.3,0.3,0.3,-,1,-,-,-,Defensa y Justicia,/Players/303797/Show/Luis-Unsain
+0.3,1,1.1,0.2,0.7,0.4,0.1,-,Nottingham Forest,/Players/70484/Show/Pelé
+0.4,1,1.1,-,1.1,0.5,0.1,-,Nottingham Forest,/Players/70484/Show/Pelé
+0.9,1.2,1.7,0.1,1.2,0.5,0.2,-,Nottingham Forest,/Players/70484/Show/Pelé
+-,1,-,-,2,-,-,-,Nottingham Forest,/Players/70484/Show/Pelé
+0.2,0.4,0.9,-,0.4,0.3,-,-,Sampdoria,/Players/9730/Show/Fabio-Quagliarella
+0.2,0.3,0.7,-,0.6,0.7,-,-,Sampdoria,/Players/9730/Show/Fabio-Quagliarella
+0.3,0.4,1.1,-,0.6,0.6,0.1,-,Sampdoria,/Players/9730/Show/Fabio-Quagliarella
+0.3,0.6,1.1,-,1.3,0.7,0.1,-,Sampdoria,/Players/9730/Show/Fabio-Quagliarella
+0.1,0.7,1.5,-,0.4,0.9,0.1,-,Sampdoria,/Players/9730/Show/Fabio-Quagliarella
+0.2,0.6,1.4,-,0.6,0.7,0.1,-,Sampdoria,/Players/9730/Show/Fabio-Quagliarella
+-,0.6,1.1,-,0.1,0.2,-,-,Sampdoria,/Players/9730/Show/Fabio-Quagliarella
+0.1,0.2,0.5,-,0.1,0.2,-,-,Sampdoria,/Players/9730/Show/Fabio-Quagliarella
+0.3,-,-,-,-,0.3,0.3,-,Sampdoria,/Players/9730/Show/Fabio-Quagliarella
+0.1,0.4,0.8,-,0.2,0.2,-,-,Sampdoria,/Players/9730/Show/Fabio-Quagliarella
+0.7,0.6,1,-,0.6,1,0.1,-,Sampdoria,/Players/9730/Show/Fabio-Quagliarella
+0.1,0.7,0.6,-,0.1,0.2,0.1,-,Sampdoria,/Players/9730/Show/Fabio-Quagliarella
+0.6,0.8,1.2,-,0.4,0.5,0.1,-,Sampdoria,/Players/9730/Show/Fabio-Quagliarella
+0.7,0.9,1.8,-,0.6,0.7,-,-,Sampdoria,/Players/9730/Show/Fabio-Quagliarella
+0.6,1.5,1.1,-,0.6,0.8,0.3,-,Deportivo Alaves,/Players/44425/Show/Mubarak-Wakaso
+1.7,2,1.5,-,0.9,1.2,-,-,Deportivo Alaves,/Players/44425/Show/Mubarak-Wakaso
+1.1,3.5,2.9,-,0.5,1.9,0.1,-,Deportivo Alaves,/Players/44425/Show/Mubarak-Wakaso
+0.3,2,2.7,-,-,-,-,-,Deportivo Alaves,/Players/44425/Show/Mubarak-Wakaso
+0.8,1.5,1.5,0.1,0.7,0.3,0.1,-,Deportivo Alaves,/Players/44425/Show/Mubarak-Wakaso
+0.7,2.2,1.8,-,0.3,1,0.3,-,Deportivo Alaves,/Players/44425/Show/Mubarak-Wakaso
+0.8,1.2,1.6,-,0.2,0.8,-,-,Deportivo Alaves,/Players/44425/Show/Mubarak-Wakaso
+-,1.5,2.5,-,0.5,0.5,-,-,Deportivo Alaves,/Players/44425/Show/Mubarak-Wakaso
+1.8,0.8,0.8,-,-,0.5,-,-,Deportivo Alaves,/Players/44425/Show/Mubarak-Wakaso
+0.4,1.5,1.4,-,0.1,0.4,0.1,-,Deportivo Alaves,/Players/44425/Show/Mubarak-Wakaso
+-,0.5,1,-,0.5,1,-,-,Deportivo Alaves,/Players/44425/Show/Mubarak-Wakaso
+0.6,3.3,2,-,0.6,1,0.1,-,Deportivo Alaves,/Players/44425/Show/Mubarak-Wakaso
+1.7,1,1.3,-,0.7,0.8,0.2,-,Deportivo Alaves,/Players/44425/Show/Mubarak-Wakaso
+1,2,1.3,0.3,-,1,-,-,Deportivo Alaves,/Players/44425/Show/Mubarak-Wakaso
+0.5,0.9,0.7,-,0.1,0.2,0.1,-,Deportivo Alaves,/Players/44425/Show/Mubarak-Wakaso
+1,2,0.5,0.1,2.6,1.1,0.4,-,Chaves,/Players/67201/Show/Lionn
+1.4,2.3,1.1,0.4,1.4,0.5,0.1,-,Chaves,/Players/67201/Show/Lionn
+1.8,1.6,0.7,0.3,1.7,0.5,0.2,-,Chaves,/Players/67201/Show/Lionn
+4,2.7,1,-,1,1,-,-,Chaves,/Players/67201/Show/Lionn
+2.4,2,1.2,1.4,4.7,0.1,0.5,-,Argentinos Juniors,/Players/303912/Show/Gastón-Bojanich
+2.4,1.9,1.3,0.4,4.3,0.6,0.4,-,Argentinos Juniors,/Players/303912/Show/Gastón-Bojanich
+4,1.3,1.2,0.3,6.3,0.4,0.4,-,Argentinos Juniors,/Players/303912/Show/Gastón-Bojanich
+3.1,1.1,1.5,0.5,3.5,0.4,0.7,-,Argentinos Juniors,/Players/303912/Show/Gastón-Bojanich
+1.8,1.8,1.7,0.9,4.3,0.6,0.4,-,Argentinos Juniors,/Players/303912/Show/Gastón-Bojanich
+0.8,1.4,0.7,-,0.3,0.7,0.1,-,Udinese,/Players/125547/Show/Rodrigo-de-Paul
+0.4,0.8,0.9,-,0.1,0.8,-,-,Udinese,/Players/125547/Show/Rodrigo-de-Paul
+0.5,1.5,1.1,-,0.4,1.1,0.1,-,Udinese,/Players/125547/Show/Rodrigo-de-Paul
+0.5,0.9,0.6,-,0.2,0.5,-,-,Udinese,/Players/125547/Show/Rodrigo-de-Paul
+0.4,1,1,-,0.1,0.3,0.1,-,Udinese,/Players/125547/Show/Rodrigo-de-Paul
+0.5,1.5,0.5,-,-,0.5,-,-,Udinese,/Players/125547/Show/Rodrigo-de-Paul
+0.2,0.7,0.6,-,0.1,0.2,-,-,Udinese,/Players/125547/Show/Rodrigo-de-Paul
+1,1.2,0.9,0.3,3.3,0.1,0.5,-,Stoke,/Players/90810/Show/Bruno-Martins-Indi
+1.2,1.2,0.7,0.5,4.5,0.5,0.6,-,Stoke,/Players/90810/Show/Bruno-Martins-Indi
+1.7,1.7,0.7,0.6,6,0.5,0.6,-,Stoke,/Players/90810/Show/Bruno-Martins-Indi
+-,2,-,1,3,-,-,-,Stoke,/Players/90810/Show/Bruno-Martins-Indi
+1.8,2,0.8,-,2,0.2,0.7,-,Stoke,/Players/90810/Show/Bruno-Martins-Indi
+1.4,1.3,0.6,0.9,3.7,-,0.3,-,Stoke,/Players/90810/Show/Bruno-Martins-Indi
+1.2,1.5,0.8,0.3,4.5,0.2,0.3,-,Stoke,/Players/90810/Show/Bruno-Martins-Indi
+0.8,2.3,1.8,0.7,1.5,1.5,0.3,-,Stoke,/Players/90810/Show/Bruno-Martins-Indi
+1.3,0.7,1,0.3,4,-,0.3,-,Stoke,/Players/90810/Show/Bruno-Martins-Indi
+1.5,2.1,1.3,0.1,1.7,1.4,0.1,-,Angers,/Players/128361/Show/Pierrick-Capelle
+1.2,1.8,1,-,0.8,1.9,-,1,Angers,/Players/128361/Show/Pierrick-Capelle
+1,1.7,0.7,-,0.5,1.1,0.1,-,Angers,/Players/128361/Show/Pierrick-Capelle
+0.9,1.3,1.1,-,0.3,1,-,-,Angers,/Players/128361/Show/Pierrick-Capelle
+0.6,1.2,0.6,-,0.2,1,-,-,Toronto FC,/Players/127148/Show/Jonathan-Osorio
+0.9,1.6,0.7,-,0.5,0.8,0.2,-,Toronto FC,/Players/127148/Show/Jonathan-Osorio
+0.4,1,0.3,-,0.2,0.3,-,-,Toronto FC,/Players/127148/Show/Jonathan-Osorio
+0.9,1.3,0.9,-,0.3,0.3,0.1,-,Toronto FC,/Players/127148/Show/Jonathan-Osorio
+0.8,1,0.7,-,0.2,0.2,-,-,Toronto FC,/Players/127148/Show/Jonathan-Osorio
+0.7,0.9,0.6,-,1,0.6,0.1,-,Toronto FC,/Players/127148/Show/Jonathan-Osorio
+0.7,1,0.5,-,1,0.2,0.1,-,Toronto FC,/Players/127148/Show/Jonathan-Osorio
+-,1,1,-,-,1,-,-,Real Zaragoza,/Players/247498/Show/Giorgi-Papunashvili
