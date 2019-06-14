@@ -1,3 +1,4 @@
+# Final project | Immersive Course in Data Science | General Assembly London
 # Predicting market value of football players
 
 ## Introduction to the project
@@ -8,7 +9,7 @@ Introduce a systematic way of predicting the market value of football players. I
  
 Deep dive into the features that fix the market value of football players, bringing some clarity on the discussion about which things make a player more expensive than others
 
-**[SPOILER ALERT]** The conclusions and results of the project can be found in this [Executive Summary of Conclusions](./Conclusions.md)
+**[SPOILER ALERT]** The conclusions and results of the project can be found in this [Executive Summary of Conclusions](./Findings_and_conclusions.pdf)
 
 ## Audience of these project
 
@@ -191,6 +192,6 @@ All the modeling can be find in [this notebook](./FINAL_2_Merging_and_modeling_v
 
 The conclusions of this project can be found in the following places:
 
-1. [Executive Summary of Conclusions](./Conclusions.md)
+1. [Executive Summary of Conclusions](./Findings_and_conclusions.pdf)
 
 2. [Notebook with code in detail](./FINAL_3_Post_visualizations.ipynb)
