@@ -73,31 +73,31 @@ All this was done in approximately 6 hours of scraping, mixing both webpages, an
 
 Inevitable data as weight, height, the team where he is currently playing and position. This was all scraped from https://transfermarkt.co.uk in approximately 4 hours.
 
-#### **[The age of each player](./Getting_age.ipynb)**
+#### **[3.The age of each player](./Getting_age.ipynb)**
 
 A key feature also scraped from https://transfermarkt.co.uk in approximately 3 hours.
 
-#### **[3. Defensive statistics](./Obtaining_defensive_statistics_from_players.ipynb)**
+#### **[4. Defensive statistics](./Obtaining_defensive_statistics_from_players.ipynb)**
 
 A set of variables including interceptions, tackles, fouls, offsides won and own goals by season for the entire career of a player. Scraped from https://whoscored.com in approximately 4 hours.
 
-#### **[4. Offensive statistics](./Obtaining_player_offensive_statistics.ipynb)**
+#### **[5. Offensive statistics](./Obtaining_player_offensive_statistics.ipynb)**
 
 As the previous data, but in this case about key passes, dribbles, bad controls and more, also for the entire career of each player and from https://whoscored.com in approximately 4 hours.
 
-#### **[5. Summary statistics](./Obtaining_player_summary_statistics.ipynb)**
+#### **[6. Summary statistics](./Obtaining_player_summary_statistics.ipynb)**
 
 Some more general and shared data in between positions in the field, as minutes played, goals, yellow and red cards, passes, the number of times being the man of the match, average rating and some more, also scraped from https://whoscored.com in approximately 4 hours.
 
-#### **[6. Suspensions and injuries](./Suspensions_and_injuries.ipynb)**
+#### **[7. Suspensions and injuries](./Suspensions_and_injuries.ipynb)**
 
 Anybody who supports any team knows that there is nothing worst that your club buying a player that’s just always injured, or is constantly sent out the field. Teams also know that when the moment of setting a price arrives. That’s why I also scraped from https://transfermarkt.co.uk the number of days and matches that each player has missed in their career because of suspensions or injuries. This scraping took about 3 hours.
 
-#### **[7. Awards](./Scrapping_awards_class.ipynb)**
+#### **[8. Awards](./Scrapping_awards_class.ipynb)**
 
 Under the hypothesis about the fact that winning an individual award (for example, being the best player of the year in a local league), playing and the Football World Cup or ending runner-up in an important competition, could increase the value of a football player, as it increases their salary, I scraped a wide range of awards from https://transfermarkt.co.uk. This was a scraping task of about 4 hours.
 
-#### **[8. National appearences and agent](./Getting_national_ap.ipynb)**
+#### **[9. National appearences and agent](./Getting_national_ap.ipynb)**
 
 In the same line of thought as the previous point, the fact of a player playing in the national team of his country could be a measure of how good he is. That’s why, in case of having played at any time, I got also from https://transfermarkt.co.uk the number of minutes played.
 
@@ -105,11 +105,11 @@ As a bonus track, I got from the same place the agent of each player. Since mayb
 
 All this scraping took around 3 hours.
 
-#### **[9. Target variable and other features](./Getting_several_features_from_profile.ipynb)**
+#### **[10. Target variable and other features](./Getting_several_features_from_profile.ipynb)**
 
 https://transfermarkt.co.uk gave me the target feature, as they have the current value of all football players. From the same URL, I got some more data, about the highest value of each players career, and the last three teams were he played. Scrape all this was a job of approximately 3 hours.
 
-#### **[10. Google results](./Google_results.ipynb)**
+#### **[11. Google results](./Google_results.ipynb)**
 
 As every football fan knows, not always the value of a player is only measured in terms of his individual statistics or demographic information. Sometimes, it also depends of how many jerseys or tickets can his name sell, just because of the fact of playing.
 
@@ -117,11 +117,11 @@ In this sense, there’s some sort of ‘brand value’ each player has. To meas
 
 This scraping was directly done from Google in about 3 hours.
 
-#### **[11. Twitter sentiment analysis](./Tweets_Sentiment_Analysis.ipynb)**
+#### **[12. Twitter sentiment analysis](./Tweets_Sentiment_Analysis.ipynb)**
 
 An entire Readme file could be done about this part, but I’ll try to summarize this in a few lines. Basically, I used Tweepy and Textblob libraries, to create a class capable of obtaining 200 tweets per player, obtain the polarity of each online, in order to classify Tweets as positives, negatives or neutrals. This task was done by connecting directly to Twitter’s API and sending requests every fifteen minutes, to obtain all players with tweets in about 5.5 hours.
 
-#### **[12. Clubs and national teams ranking](./Team_and_national_teams_ranking_scraps-Final.ipynb)**
+#### **[13. Clubs and national teams ranking](./Team_and_national_teams_ranking_scraps-Final.ipynb)**
 
 In previous points, I talked about some scraping done to obtain features as current and previous teams, and the number of minutes played at the national team. All of this would be incomplete if it wasn’t matched with ranking positions. Because, as we all know, it’s not the same having played 100 minutes in a team ranked 200, as in a team ranked 2.
 
@@ -188,7 +188,7 @@ In the end, the best scores were obtained through:
 
 All the modeling can be find in [this notebook](./FINAL_2_Merging_and_modeling_v2.ipynb)
 
-### [STAGE 5] Conclusiones
+### [STAGE 5] Conclusions
 
 The conclusions of this project can be found in the following places:
 
