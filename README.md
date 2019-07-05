@@ -1,4 +1,4 @@
-# Final project | Immersive Course in Data Science | General Assembly London
+# Final project of my Immersive Course in Data Science at General Assembly London
 # Predicting market value of football players
 
 ## Introduction to the project
