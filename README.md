@@ -3,13 +3,13 @@
 
 ## Introduction to the project
 
+**[SPOILER ALERT]** The conclusions and results of the project can be found in this [Executive Summary of Conclusions](./Findings_and_conclusions.pdf)
+
 Football players market value is kind of a black box: more often than not it’s clear which players are worth more than others, but nobody knows with precision which are those features that move the price of a player, increasing o reducing it in thousands or even millions of dollars. That's why this project attempts to:
 
 Introduce a systematic way of predicting the market value of football players. Independent of subjective assumption
  
 Deep dive into the features that fix the market value of football players, bringing some clarity on the discussion about which things make a player more expensive than others
-
-**[SPOILER ALERT]** The conclusions and results of the project can be found in this [Executive Summary of Conclusions](./Findings_and_conclusions.pdf)
 
 ## Audience of these project
 
